@@ -1,0 +1,15 @@
+{
+ "slug": "telestrator",
+ "num": "69",
+ "en": "Sports Telestrator",
+ "category_en": "Edit & Documentary",
+ "film": "Freeze Frame",
+ "line": "Down 3–0 at half-time, Fenerbahçe scored three in 12 minutes: freeze, draw, split screen, shot map.",
+ "uses": [
+  "Sports analysis",
+  "Match recaps",
+  "Coaching"
+ ],
+ "frame_sec": 13.6,
+ "dur": 54.4
+}

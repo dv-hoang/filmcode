@@ -1,0 +1,19 @@
+{
+ "slug": "memphis-diorama",
+ "num": "71",
+ "en": "Memphis Diorama",
+ "category_en": "Materials & 3D",
+ "film": "Four Seasons in Pomelo Town",
+ "line": "One river bend, four seasons, one take; each turns when the big tree squats and springs back.",
+ "uses": [
+  "Web heroes",
+  "Ambient loops",
+  "Seasons"
+ ],
+ "frame_sec": 25.0,
+ "dur": 45.0,
+ "by": {
+  "name": "EianLu",
+  "url": "https://x.com/EianLu"
+ }
+}

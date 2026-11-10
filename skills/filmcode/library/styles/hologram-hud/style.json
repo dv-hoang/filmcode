@@ -1,0 +1,15 @@
+{
+ "slug": "hologram-hud",
+ "num": "52",
+ "en": "Sci-fi Hologram HUD",
+ "category_en": "Information & Keynote",
+ "film": "Volt · Spec Scan",
+ "line": "An e-bike is scanned into a hologram; target boxes lock onto the battery, motor and brakes.",
+ "uses": [
+  "Spec walkthroughs",
+  "Launch videos",
+  "Trade shows"
+ ],
+ "frame_sec": 25.5,
+ "dur": 39.0
+}

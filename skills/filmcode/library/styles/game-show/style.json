@@ -1,0 +1,15 @@
+{
+ "slug": "game-show",
+ "num": "33",
+ "en": "Game Show Flat",
+ "category_en": "Games",
+ "film": "Rhythm of AI, 1997 → 2026",
+ "line": "The history of AI as a rhythm game: models take the stage on the beat, and a report card closes the show.",
+ "uses": [
+  "Tech timelines",
+  "Year in review",
+  "Variety shows"
+ ],
+ "frame_sec": 74.4,
+ "dur": 148.8
+}

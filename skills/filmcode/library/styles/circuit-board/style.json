@@ -1,0 +1,15 @@
+{
+ "slug": "circuit-board",
+ "num": "76",
+ "en": "Circuit Board",
+ "category_en": "Information & Keynote",
+ "film": "Seven Milliseconds",
+ "line": "Rivers become copper traces as current runs 2,080 km from a dam to a phone charger.",
+ "uses": [
+  "Energy",
+  "Supply chains",
+  "Devices"
+ ],
+ "frame_sec": 58.0,
+ "dur": 60.0
+}

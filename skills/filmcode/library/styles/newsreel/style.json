@@ -1,0 +1,15 @@
+{
+ "slug": "newsreel",
+ "num": "64",
+ "en": "1920s Newsreel",
+ "category_en": "Edit & Documentary",
+ "film": "Knock-Knee Alert",
+ "line": "1926: the papers say the Charleston will ruin America's knees; at Ford's own picnic the kids dance it anyway.",
+ "uses": [
+  "History stories",
+  "Fads & eras",
+  "Anniversaries"
+ ],
+ "frame_sec": 30.2,
+ "dur": 54.6
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "microgame",
+ "num": "32",
+ "en": "Microgame Frenzy",
+ "category_en": "Games",
+ "film": "Five-Second Astronaut",
+ "line": "A clumsy cadet survives a five-second boot camp, faster and faster, until the boss: landing home.",
+ "uses": [
+  "Game trailers",
+  "Onboarding",
+  "Social shorts"
+ ],
+ "frame_sec": 23.92,
+ "dur": 59.8
+}

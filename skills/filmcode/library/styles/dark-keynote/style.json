@@ -1,0 +1,15 @@
+{
+ "slug": "dark-keynote",
+ "num": "25",
+ "en": "Dark Tech Keynote",
+ "category_en": "Information & Keynote",
+ "film": "Room to Think",
+ "line": "Launch film for Tidy, a fictional app: one buried cursor snaps hundreds of windows back into place.",
+ "uses": [
+  "Product launches",
+  "SaaS",
+  "Keynotes"
+ ],
+ "frame_sec": 8.4,
+ "dur": 42.0
+}

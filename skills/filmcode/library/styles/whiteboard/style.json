@@ -1,0 +1,15 @@
+{
+ "slug": "whiteboard",
+ "num": "06",
+ "en": "Whiteboard Explainer",
+ "category_en": "Hand-drawn & Painting",
+ "film": "Einstein in Your Pocket",
+ "line": "How your phone knows where you are: GPS, atomic clocks, and the 38 microseconds relativity adds every day.",
+ "uses": [
+  "Explainers",
+  "Online courses",
+  "Science"
+ ],
+ "frame_sec": 55.5,
+ "dur": 111.0
+}

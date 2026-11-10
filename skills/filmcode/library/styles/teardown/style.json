@@ -1,0 +1,15 @@
+{
+ "slug": "teardown",
+ "num": "60",
+ "en": "Exploded Teardown",
+ "category_en": "Evidence Films",
+ "film": "21 Keys, Opened",
+ "line": "Half an open-source keyboard comes apart in one orbit, down to the chip, then closes with its real dimensions.",
+ "uses": [
+  "Hardware launches",
+  "Product pages",
+  "Spec explainers"
+ ],
+ "frame_sec": 9.75,
+ "dur": 38.8
+}

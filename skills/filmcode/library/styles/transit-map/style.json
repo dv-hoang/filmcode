@@ -1,0 +1,15 @@
+{
+ "slug": "transit-map",
+ "num": "72",
+ "en": "Transit Map",
+ "category_en": "Information & Keynote",
+ "film": "6 Kilometres",
+ "line": "A printed metro map grows from one 6 km line in 1993 to 21 lines and 906 km.",
+ "uses": [
+  "Transport",
+  "Growth over time",
+  "Networks"
+ ],
+ "frame_sec": 36.2,
+ "dur": 47.0
+}

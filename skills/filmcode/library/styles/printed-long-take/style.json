@@ -1,0 +1,15 @@
+{
+ "slug": "printed-long-take",
+ "num": "75",
+ "en": "Printed Long Take",
+ "category_en": "Print & Printmaking",
+ "film": "Thirty-Three Cranes",
+ "line": "Red-crowned cranes in a Hokkaido valley, one scratchboard take, counted back from 33 to 1,927.",
+ "uses": [
+  "Journeys",
+  "Wildlife",
+  "Landscapes"
+ ],
+ "frame_sec": 15.4,
+ "dur": 60.0
+}

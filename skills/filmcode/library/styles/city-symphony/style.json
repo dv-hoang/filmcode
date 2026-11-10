@@ -1,0 +1,15 @@
+{
+ "slug": "city-symphony",
+ "num": "66",
+ "en": "Time-lapse Symphony",
+ "category_en": "Edit & Documentary",
+ "film": "One Day in New York",
+ "line": "One day in New York in time-lapse: rivers of light, a grid on the sixteenths, 1899 beside today.",
+ "uses": [
+  "City films",
+  "Music montages",
+  "Openers"
+ ],
+ "frame_sec": 11.2,
+ "dur": 52.0
+}

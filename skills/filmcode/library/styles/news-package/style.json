@@ -1,0 +1,15 @@
+{
+ "slug": "news-package",
+ "num": "70",
+ "en": "Broadcast News Package",
+ "category_en": "Edit & Documentary",
+ "film": "The Week in AI",
+ "line": "Four AI stories from one week in a full on-air package: rundown, headline strap, price board, spec card.",
+ "uses": [
+  "News round-ups",
+  "Bulletins",
+  "Market updates"
+ ],
+ "frame_sec": 18.4,
+ "dur": 53.5
+}

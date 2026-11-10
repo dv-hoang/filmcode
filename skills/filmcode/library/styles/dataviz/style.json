@@ -1,0 +1,15 @@
+{
+ "slug": "dataviz",
+ "num": "23",
+ "en": "Data Storytelling",
+ "category_en": "Information & Keynote",
+ "film": "A Hundred Summers",
+ "line": "A hundred years of summer temperatures, where the chart itself tells the story.",
+ "uses": [
+  "Data journalism",
+  "Reports",
+  "Climate & science"
+ ],
+ "frame_sec": 42.0,
+ "dur": 50.0
+}

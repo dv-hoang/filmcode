@@ -1,0 +1,15 @@
+{
+ "slug": "tilt-shift",
+ "num": "42",
+ "en": "Tilt-Shift Miniature",
+ "category_en": "Materials & 3D",
+ "film": "Toy Town Rush Hour",
+ "line": "Morning rush hour in a town that looks like a model: traffic, trains and tiny people.",
+ "uses": [
+  "City promos",
+  "Real estate",
+  "Transport"
+ ],
+ "frame_sec": 22.8,
+ "dur": 38.0
+}
