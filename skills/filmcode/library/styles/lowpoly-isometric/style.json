@@ -1,0 +1,18 @@
+{
+ "slug": "lowpoly-isometric",
+ "num": "43",
+ "en": "Low-poly Isometric",
+ "category_en": "Materials & 3D",
+ "film": "The Paper Machine",
+ "line": "A 10-second Low-poly Isometric Island style teaser: \"The Paper Machine\".",
+ "uses": [
+  "Game trailers",
+  "World building",
+  "Calm content"
+ ],
+ "frame_sec": 5.0,
+ "dur": 10.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/lowpoly-island.mp4",
+ "demo_topic": "The Paper Machine",
+ "demo_seconds": 10
+}

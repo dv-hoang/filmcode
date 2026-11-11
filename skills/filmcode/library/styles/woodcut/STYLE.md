@@ -1,5 +1,8 @@
 # Woodcut Print — Style Prompt
 
+
+> **Catalog note:** the old *Printed Long Take* style (unbroken camera through a print) is folded into this style as a camera option — one continuous move through the block, no second style.
+
 > A relief print that carves itself: every frame is a black wood block, and light only exists where a knife has cut it away. One colour at most, and only for the thing that burns.
 > References (grammar only): Frans Masereel *Passionate Journey* (1919) and Lynd Ward *Gods' Man* (1929), wordless woodcut novels told as a sequence of self-contained plates; Käthe Kollwitz's woodcuts, where emotion lives in the direction of the gouge; Gustave Doré's engraving, where line spacing and direction build light and volume. Never copy their plates, figures, borders or titles.
 

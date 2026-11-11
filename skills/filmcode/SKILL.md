@@ -1,6 +1,6 @@
 ---
 name: filmcode
-description: Direct and produce a short film made entirely in code, in one of the 66 styles of the FilmCode library (e.g. Impasto Oil Painting, Watercolor Brush, Ukiyo-e, Satellite Briefing, Exploded Teardown). Use when the user asks for a video, film, short, promo, explainer or animation in a named visual style, including explainers built from real material such as satellite imagery, laser scans, CAD files or archive scans, and films cut from real archive footage and documents; when they want a film about their own topic and haven't chosen a style; when they want to change a style into their own, make one from a blank page, or use a saved style; when they start the skill without a request; or when they ask which film styles exist. Not for plain editing, trimming or converting the user's existing video files.
+description: Direct and produce a short film made entirely in code, in one of the 54 styles of the FilmCode library (e.g. Impasto Oil Painting, Watercolor Brush, Ukiyo-e, Satellite Briefing, Exploded Teardown). Use when the user asks for a video, film, short, promo, explainer or animation in a named visual style, including explainers built from real material such as satellite imagery, laser scans, CAD files or archive scans, and films cut from real archive footage and documents; when they want a film about their own topic and haven't chosen a style; when they want to change a style into their own, make one from a blank page, or use a saved style; when they start the skill without a request; or when they ask which film styles exist. Not for plain editing, trimming or converting the user's existing video files.
 license: MIT
 compatibility: Renders locally with Node 20+, ffmpeg 7+ and Python 3.11+ (or uv). macOS, Linux, or Windows via Git Bash. Works with Claude Code, Cursor, Codex, and other agents that load SKILL.md.
 when_to_use: A film, short video, promo, explainer, animation or motion graphics in a named visual style; choosing a film style; making or customising a style; asking what styles exist.
@@ -8,7 +8,7 @@ when_to_use: A film, short video, promo, explainer, animation or motion graphics
 
 # FilmCode
 
-The 66 styles, the guides and every production tool ship in `library/` next to this file. Nothing is cloned or downloaded to tell you what to do, and no video model is involved: every frame, note and cut is written as code and rendered locally.
+The 54 styles, the guides and every production tool ship in `library/` next to this file. Nothing is cloned or downloaded to tell you what to do, and no video model is involved: every frame, note and cut is written as code and rendered locally.
 
 ## Start here
 

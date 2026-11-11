@@ -1,5 +1,8 @@
 # Living Screencast — Style Prompt
 
+
+> **Catalog note:** *Desktop Flythrough* (paper UI cards on a desk, unbroken camera) is folded into Living Screencast as a staging option.
+
 > A product walkthrough that looks like a real screen recording, where a low-resolution mascot lives inside a high-resolution interface and acts out what the software is doing.
 > References (grammar only):
 > - **Screen Studio-style product recordings:** auto-zoom to the cursor, cursor smoothing, click push-ins, and a window floating on wallpaper.

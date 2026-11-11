@@ -1,0 +1,18 @@
+{
+ "slug": "social-captions",
+ "num": "63",
+ "en": "Social Caption News",
+ "category_en": "Edit & Documentary",
+ "film": "The Last Dispatch",
+ "line": "A 10-second Caption News style teaser: \"The Last Dispatch\".",
+ "uses": [
+  "Social news",
+  "Report explainers",
+  "Data shorts"
+ ],
+ "frame_sec": 5.0,
+ "dur": 10.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/caption-news.mp4",
+ "demo_topic": "The Last Dispatch",
+ "demo_seconds": 10
+}

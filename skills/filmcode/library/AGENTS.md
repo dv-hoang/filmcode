@@ -36,7 +36,7 @@ This repository is a library of film styles. Each style has a `styles/<slug>/STY
 
 ## Finding the style
 
-Users name a style by its gallery name in English or Chinese ("Impasto Oil Painting", "") or by its folder (`impasto`). Look it up in [`styles/README.md`](styles/README.md). If nothing matches clearly, show the closest two or three and ask.
+Users name a style by its gallery name in English or Chinese ("Impasto Oil Painting", "水墨") or by its folder (`impasto`). Look it up in [`styles/README.md`](styles/README.md). Do not offer styles under `styles/_archive/` unless the user asks for an archived style by name. If nothing matches clearly, show the closest two or three and ask.
 
 If the user hasn't picked a style:
 - Suggest two or three that fit their topic.
@@ -46,19 +46,19 @@ If the user hasn't picked a style:
 - Then ask them to type the name. The list goes in your own message (a command's output isn't shown to them), and the question is plain text, not a short multiple-choice tool call: its few options would hide the rest of the list.
 
 <!-- style-list:start -->
-All 66 styles:
+All 54 styles:
 
-- **Edit & Documentary** (8): Caption News, 1920s Newsreel, Live Countdown Split-screen, Time-lapse Symphony, Visual Investigation, Constructivist Montage, Sports Telestrator, Broadcast News Package
-- **Evidence Films** (8): Satellite Briefing, Engineering Briefing Board, LiDAR Survey, Projection on White Model, Data Physicalization, Exploded Teardown, Microscope Story, Archive Light Table
-- **Hand-drawn & Painting** (8): Crayon Picture Book, Watercolor Brush, Chinese Ink Wash, Impasto Oil Painting, One-line Drawing, Whiteboard Explainer, Urban Sketch · Pen & Wash, Chalkboard
-- **East Asian Traditions** (4): Shadow Puppetry, Ukiyo-e, Red Paper-cut, Paper-cut Lightbox
-- **Print & Printmaking** (6): Risograph Print, Halftone Dossier, Woodcut Print, Copperplate Engraving, Silkscreen Travel Poster, Printed Long Take
-- **Graphic & Type** (7): Swiss Motion Graphics, 60s Spy Title Sequence, Art Deco, Blueprint, Stained Glass, Pictogram Motion, ASCII / CRT Terminal
-- **Information & Keynote** (8): Data Storytelling, Isometric Infographic, Dark Tech Keynote, Living Screencast, Sci-fi Hologram HUD, Transit Map, Isometric Picture Book, Circuit Board
-- **Cartoon & Anime** (4): 1930s Rubber Hose Cartoon, 80s Cel Anime, Sci-Fi Sitcom Toon, Mid-century Cartoon
-- **Games** (4): 16-bit Pixel RPG, HD-2D, Microgame Frenzy, Game Show Flat
+- **Edit & Documentary** (5): 1920s Newsreel, Broadcast News Package, Social Caption News, Sports Telestrator, Visual Investigation
+- **Evidence Films** (7): Archive Light Table, Exploded Teardown, LiDAR Survey, Microscope Story, Photo Briefing Board, Projected White Model, Satellite Briefing
+- **Hand-drawn & Painting** (8): Chalkboard, Chinese Ink Wash, Crayon Picture Book, Impasto Oil Painting, One-line Drawing, Urban Sketch · Pen & Wash, Watercolor Brush, Whiteboard Explainer
+- **East Asian Traditions** (4): Paper-cut Lightbox, Red Paper-cut, Shadow Puppetry, Ukiyo-e
+- **Print & Printmaking** (5): Copperplate Engraving, Halftone Dossier, Risograph Print, Silkscreen Travel Poster, Woodcut Print
+- **Graphic & Type** (6): 60s Spy Title Sequence, ASCII / CRT Terminal, Art Deco, Blueprint, Stained Glass, Swiss Motion Graphics
+- **Information & Keynote** (6): Dark Product Keynote, Data Storytelling, Isometric Infographic, Living Screencast, Sci-fi Hologram HUD, Transit Map
+- **Cartoon & Anime** (3): 1930s Rubber Hose Cartoon, 80s Cel Anime, Mid-century Cartoon
+- **Games** (3): 16-bit Pixel RPG, HD-2D Diorama, Microgame Frenzy
 - **Cinema & Eras** (2): 1920s Silent Film, Liminal Found Footage
-- **Materials & 3D** (7): Brick Toy, Paper Pop-up Book, Tilt-Shift Miniature, Low-poly Isometric Island, Glass Product Render, Memphis Diorama, Desktop Flythrough
+- **Materials & 3D** (5): Brick Toy, Glass Product Render, Low-poly Isometric, Paper Pop-up Book, Tilt-Shift Miniature
 <!-- style-list:end -->
 
 ## Workflow

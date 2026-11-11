@@ -1,5 +1,8 @@
 # Microgame Frenzy — Style Prompt
 
+
+> **Catalog note:** *Game Show Flat* (candy stripes, judgement words) is folded into Microgame Frenzy as a set dressing option.
+
 > A rapid-fire party-game film: one command word, a few seconds, one action. Every microgame is drawn in a completely different art style, and the film keeps getting faster.
 > Genre reference (grammar only): the WarioWare series. Never use its name, characters, UI, microgames or music.
 

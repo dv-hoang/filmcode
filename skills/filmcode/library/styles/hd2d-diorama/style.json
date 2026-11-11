@@ -1,0 +1,19 @@
+{
+ "slug": "hd2d-diorama",
+ "num": "31",
+ "en": "HD-2D Diorama",
+ "cn": "HD-2D",
+ "category_en": "Games",
+ "film": "A Level Without a Map",
+ "line": "A 10-second HD-2D style teaser: \"A Level Without a Map\".",
+ "uses": [
+  "Game trailers",
+  "Fantasy",
+  "Story films"
+ ],
+ "frame_sec": 5.0,
+ "dur": 10.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/hd-2d.mp4",
+ "demo_topic": "A Level Without a Map",
+ "demo_seconds": 10
+}

@@ -1,0 +1,18 @@
+{
+ "slug": "product-keynote",
+ "num": "25",
+ "en": "Dark Product Keynote",
+ "category_en": "Information & Keynote",
+ "film": "The Data Behind the Day",
+ "line": "A 10-second Dark Tech Keynote style teaser: \"The Data Behind the Day\".",
+ "uses": [
+  "Product launches",
+  "SaaS",
+  "Keynotes"
+ ],
+ "frame_sec": 5.0,
+ "dur": 10.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/dark-keynote.mp4",
+ "demo_topic": "The Data Behind the Day",
+ "demo_seconds": 10
+}

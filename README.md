@@ -1,8 +1,8 @@
 # FilmCode
 
-**66 film styles, each with a short film made entirely in code.** Pick a style, bring your own story, and let your AI agent direct the film: a treatment, every frame drawn in code, an original score, a mix, and a finished MP4. No video model, no stock footage.
+**54 film styles, each with a short film made entirely in code.** Pick a style, bring your own story, and let your AI agent direct the film: a treatment, every frame drawn in code, an original score, a mix, and a finished MP4. No video model, no stock footage.
 
-FilmCode is a self-contained film-style toolkit for AI coding agents (Claude Code, Cursor, Command Code, Codex, and others that load [Agent Skills](https://agentskills.io)). The guides, the 66 style prompts and the rendering tools ship inside the skill, so nothing is cloned or fetched to tell the agent what to do.
+FilmCode is a self-contained film-style toolkit for AI coding agents (Claude Code, Cursor, Command Code, Codex, and others that load [Agent Skills](https://agentskills.io)). The guides, the 54 style prompts and the rendering tools ship inside the skill, so nothing is cloned or fetched to tell the agent what to do.
 
 ## Demo films
 
@@ -99,7 +99,7 @@ skills/filmcode/
     ├── DIRECTOR.md       # how to direct
     ├── TECHNIQUE.md      # how to build, voice, score, mix
     ├── MY-STYLES.md      # change a style or make your own
-    ├── styles/<slug>/    # 66 x STYLE.md
+    ├── styles/<slug>/    # 54 x STYLE.md (+ _archive/)
     ├── core/             # renderer, TTS, speech check, audio, fonts
     └── tools/            # setup.sh, fetch.sh, asset manifest
 ```
