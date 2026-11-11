@@ -1,7 +1,9 @@
-# Shadow Puppetry — 10 s teaser
+# Shadow Puppetry — One Lamp Across
 
-Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/shadow-puppet.mp4) — "The Lantern Keeper"
+Watch: [local `one-lamp-across.mp4`](one-lamp-across.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-A 10-second style card for FilmCode (East Asian Traditions): palette `#f2ecde`, `#b02e22`, `#000`, `#1f1a17`; a serif typeface; a rings motion motif. Silent, generated, not a story.
+39.0 s, 1920×1080, 24 fps, stereo sound. A ferryman's single lamp gutters halfway across a night river; a hand behind the screen saves the flame, a child's lantern answers, and two lights find the way home.
 
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/shadow-puppet/STYLE.md)
+Style rules: [STYLE.md](../../skills/filmcode/library/styles/shadow-puppet/STYLE.md) · build notes: [source/SOURCE.md](source/SOURCE.md)
+
+Hosted teaser (previous 10 s card): [shadow-puppet.mp4 on Supabase](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/shadow-puppet.mp4)

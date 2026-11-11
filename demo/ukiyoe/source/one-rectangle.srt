@@ -1,0 +1,15 @@
+1
+00:00:01,550 --> 00:00:05,700
+One rectangle, called finished.
+
+2
+00:00:20,800 --> 00:00:24,350
+The paper kept the white.
+
+3
+00:00:27,000 --> 00:00:30,350
+She raked it again.
+
+4
+00:00:36,200 --> 00:00:39,850
+This one, the evening kept.

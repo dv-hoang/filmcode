@@ -1,0 +1,26 @@
+[
+  {
+    "id": "v01",
+    "text": "One thread held the night.",
+    "voice": "af_heart",
+    "speed": 0.9
+  },
+  {
+    "id": "v02",
+    "text": "A smaller hand caught the end.",
+    "voice": "af_heart",
+    "speed": 0.9
+  },
+  {
+    "id": "v03",
+    "text": "Only the mend was gold.",
+    "voice": "af_heart",
+    "speed": 0.9
+  },
+  {
+    "id": "v04",
+    "text": "The whole night was a blanket.",
+    "voice": "af_heart",
+    "speed": 0.9
+  }
+]

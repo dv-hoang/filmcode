@@ -1,7 +1,9 @@
-# Copperplate Engraving — 10 s teaser
+# Copperplate Engraving — The Night Lamp
 
-Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/engraving.mp4) — "The Bell Foundry"
+Watch: [local `the-night-lamp.mp4`](the-night-lamp.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/) · subtitles [the-night-lamp.srt](the-night-lamp.srt)
 
-A 10-second style card for FilmCode (Print & Printmaking): palette `#f1e8d2`, `#c8363a`, `#2a5cb3`, `#1c1510`; a serif typeface; a wave motion motif. Silent, generated, not a story.
+38.0 s, 1920×1080, 24 fps, stereo, −14.3 LUFS. An engraver enlarges a shut night-lamp seed, burnishes the plate open, and lays one amber wash on the wick — then sets the seed itself, true size, beside the proof.
 
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/engraving/STYLE.md)
+Style rules: [STYLE.md](../../skills/filmcode/library/styles/engraving/STYLE.md) · build notes: [source/SOURCE.md](source/SOURCE.md)
+
+Hosted teaser (previous 10 s card): [engraving.mp4 on Supabase](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/engraving.mp4)

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "v01",
+    "text": "Thursday. The corner was only a line.",
+    "voice": "af_heart",
+    "speed": 0.92
+  },
+  {
+    "id": "v02",
+    "text": "Then the afternoon sat down.",
+    "voice": "af_heart",
+    "speed": 0.92
+  },
+  {
+    "id": "v03",
+    "text": "The chairs are empty.",
+    "voice": "af_heart",
+    "speed": 0.92
+  },
+  {
+    "id": "v04",
+    "text": "One window kept the light.",
+    "voice": "af_heart",
+    "speed": 0.92
+  }
+]

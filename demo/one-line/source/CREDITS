@@ -1,0 +1,29 @@
+# CREDITS — The Mend
+
+A 40-second film in the One-line Drawing style, made entirely in code.
+The weaver, the thread and the blanket are invented: no real person, brand or place is portrayed.
+
+## Voice
+Speech synthesis: Kokoro (kokoro-onnx), voice `af_heart`, English. Model and engine
+are released under the licences of the kokoro-onnx project
+(https://github.com/thewh1teagle/kokoro-onnx). Offline synthesis.
+
+## Music
+Original score for solo violin, written for this film (`music/score.py`).
+One pizzicato note at the handoff; everything else is arco.
+
+Samples (CC0 1.0): VS Chamber Orchestra: Community Edition (Versilian Studios /
+Sam Gossner) — solo violin, arco and pizzicato.
+
+## Typefaces
+- Caveat — SIL Open Font License 1.1 (Impallari Type); see `fonts/OFL.txt`
+- Sacramento — SIL Open Font License 1.1 (Brian J. Bonislawsky, Astigmatic); see `fonts/OFL.txt`
+
+## Picture
+Every frame is drawn with this film's line engine (`engine/`). Paper, ink, pen shadow
+and hand shadows are generated in the page. No stock footage, no photographs,
+no third-party images.
+
+## Sound effects
+All foley is synthesised for this film (`mix.py`): pen on paper, fibre ticks,
+the blot, the handoff rub, and a quiet paper-room tone.

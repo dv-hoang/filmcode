@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Heat Leaves</title>
+<style>
+  @font-face {
+    font-family: 'Cormorant Garamond';
+    src: url('fonts/CormorantGaramond[wght].ttf') format('truetype');
+    font-weight: 200 700;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Cormorant Garamond';
+    src: url('fonts/CormorantGaramond-Italic[wght].ttf') format('truetype');
+    font-weight: 200 700;
+    font-style: italic;
+  }
+  html, body { margin: 0; background: #1a3c32; overflow: hidden; width: 1920px; height: 1080px; }
+  canvas { display: block; width: 1920px; height: 1080px; }
+  #sub {
+    position: absolute; left: 50%; bottom: 42px; z-index: 2;
+    transform: translateX(-50%);
+    text-align: center;
+    font: italic 400 40px 'Cormorant Garamond', serif;
+    color: #f3efe2;
+    background: rgba(8, 20, 16, 0.78);
+    padding: 8px 26px 12px;
+    opacity: 0;
+    pointer-events: none;
+    width: max-content;
+    max-width: 78%;
+    letter-spacing: 0.01em;
+  }
+</style>
+</head>
+<body>
+<canvas id="c" width="1920" height="1080"></canvas>
+<div id="sub"></div>
+<script type="module" src="main.js"></script>
+</body>
+</html>

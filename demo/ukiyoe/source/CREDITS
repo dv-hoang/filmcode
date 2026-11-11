@@ -1,0 +1,24 @@
+# CREDITS — One Rectangle
+
+A 40-second film in the Ukiyo-e style, made entirely in code.
+The shore, the raker and the rectangle are invented. No real place, person or brand is portrayed.
+
+## Voice
+Speech synthesis: Kokoro (kokoro-onnx), voice `af_heart`, English, offline.
+Model and engine: https://github.com/thewh1teagle/kokoro-onnx
+(Apache-2.0 for kokoro-onnx; the weights follow that project's terms).
+
+## Music
+Original score for this film (`music/score.py`). No existing melody.
+Shamisen and koto are physically modelled (`core/audio/pluck.py`, Karplus–Strong).
+Shakuhachi, wind, rake, tide, baren, gull, clappers and the seal are synthesised in `music/score.py` and `mix.py`.
+No sample library is used.
+
+## Typefaces
+Cormorant Garamond, roman and italic — SIL Open Font License 1.1.
+Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant).
+Copies of the OFL files used by the Impasto demo, in `fonts/`.
+
+## Picture
+Every frame is drawn by this film's own print code (`print.js`, `scene.js`, `main.js`).
+No photographs, no scans, no third-party images.

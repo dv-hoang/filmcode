@@ -1,0 +1,37 @@
+{
+  "dur": 38.0,
+  "cues": [
+    {"id": "v01", "t0": 3.10, "t1": 6.55, "text": "The kiln had gone cold.", "voice": true},
+    {"id": "v02", "t0": 8.20, "t1": 11.20, "text": "One ember held.", "voice": true},
+    {"id": "v03", "t0": 14.10, "t1": 16.95, "text": "She fed it.", "voice": true},
+    {"id": "v04", "t0": 21.00, "t1": 24.20, "text": "The dark gave way.", "voice": true},
+    {"id": "v05", "t0": 30.10, "t1": 32.80, "text": "One jar.", "voice": true},
+    {"id": "title", "t0": 33.55, "t1": 38.0, "text": "ONE EMBER", "voice": false}
+  ],
+  "silences": [
+    {"t0": 18.55, "t1": 19.62, "digital": true},
+    {"t0": 25.40, "t1": 26.96, "digital": false}
+  ],
+  "breath": {"t0": 11.20, "t1": 12.50},
+  "hits": [
+    {"t": 0.55, "type": "knife", "pan": -0.35},
+    {"t": 1.45, "type": "knife", "pan": 0.28},
+    {"t": 2.15, "type": "impression", "pan": -0.12},
+    {"t": 2.50, "type": "knife", "pan": 0.40},
+    {"t": 3.55, "type": "knife", "pan": -0.32},
+    {"t": 4.70, "type": "knife", "pan": 0.22},
+    {"t": 5.90, "type": "knife", "pan": -0.42},
+    {"t": 8.35, "type": "ember", "pan": 0.08},
+    {"t": 12.40, "type": "impression", "pan": 0.18},
+    {"t": 12.72, "type": "knife", "pan": -0.22},
+    {"t": 13.42, "type": "strike", "pan": 0.16},
+    {"t": 18.15, "type": "impression", "pan": -0.08},
+    {"t": 19.70, "type": "burst", "pan": 0.0},
+    {"t": 27.05, "type": "metal", "pan": 0.28},
+    {"t": 29.20, "type": "paper", "pan": -0.06},
+    {"t": 30.30, "type": "impression", "pan": 0.06},
+    {"t": 30.42, "type": "brayer", "pan": -0.18},
+    {"t": 31.22, "type": "baren", "pan": 0.14},
+    {"t": 31.50, "type": "peel", "pan": 0.0}
+  ]
+}

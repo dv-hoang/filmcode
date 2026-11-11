@@ -1,0 +1,8 @@
+[
+  {"id": "v01", "text": "The stair is not a path.", "voice": "af_heart", "speed": 0.92},
+  {"id": "v02", "text": "It shows when the water leaves.", "voice": "af_heart", "speed": 0.92},
+  {"id": "v03", "text": "The first pull misses the hour.", "voice": "af_heart", "speed": 0.92},
+  {"id": "v04", "text": "Four ten. One window.", "voice": "af_heart", "speed": 0.9, "asr": "410.1 window."},
+  {"id": "v05", "text": "Walk it before the tide comes back.", "voice": "af_heart", "speed": 0.92},
+  {"id": "v06", "text": "Then the sheet is the only stair left.", "voice": "af_heart", "speed": 0.92}
+]

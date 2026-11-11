@@ -1,0 +1,21 @@
+# CREDITS — One Lamp Across
+
+A 39-second film in the Shadow Puppetry style, made entirely in code.
+The river, the ferryman, the child and the crossing are invented.
+
+## Voice
+Speech synthesis: Kokoro (kokoro-onnx), voice `af_heart`, English. Model and engine
+are released under the licences of the kokoro-onnx project
+(https://github.com/thewh1teagle/kokoro-onnx). Offline synthesis.
+
+## Music and sound effects
+Original score and foley, synthesised for this film (`score.py`, `mix.py`).
+No sample library. No recording of a traditional piece.
+
+## Typefaces
+- Cormorant Garamond — SIL Open Font License 1.1 (Catharsis Fonts); see `fonts/OFL.txt`
+
+## Picture
+Every frame is drawn with this film's hide, carving and lamp compositor
+(`engine/sprites.js`, `engine/composite.js`, `engine/rig.js`, `engine/stage.js`).
+No stock footage, no photographs, no third-party images.

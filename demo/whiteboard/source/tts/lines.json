@@ -1,0 +1,44 @@
+[
+  {
+    "id": "v01",
+    "text": "Heat leaves through the open top.",
+    "voice": "af_heart",
+    "speed": 0.94,
+    "lang": "en-us"
+  },
+  {
+    "id": "v02",
+    "text": "The wall is the slow door.",
+    "voice": "af_heart",
+    "speed": 0.94,
+    "lang": "en-us"
+  },
+  {
+    "id": "v03",
+    "text": "Not the cold of the cup.",
+    "voice": "af_heart",
+    "speed": 0.84,
+    "lang": "en-us"
+  },
+  {
+    "id": "v04",
+    "text": "Close the top.",
+    "voice": "af_heart",
+    "speed": 0.94,
+    "lang": "en-us"
+  },
+  {
+    "id": "v05",
+    "text": "The same heat stays.",
+    "voice": "af_heart",
+    "speed": 0.94,
+    "lang": "en-us"
+  },
+  {
+    "id": "v06",
+    "text": "A lid.",
+    "voice": "af_heart",
+    "speed": 0.92,
+    "lang": "en-us"
+  }
+]

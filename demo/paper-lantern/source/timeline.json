@@ -1,0 +1,19 @@
+{
+  "dur": 39.0,
+  "bpm": 60,
+  "hit": {
+    "strike": 5.0,
+    "glass": 11.0,
+    "flower": 18.0,
+    "pull": 32.0,
+    "title": 34.0
+  },
+  "voice": [
+    {"id": "v01", "t0": 0.8, "dur": 1.718, "text": "The shed was only dark card."},
+    {"id": "v02", "t0": 4.59, "dur": 0.889, "text": "Then a match."},
+    {"id": "v03", "t0": 10.26, "dur": 1.259, "text": "Light found the glass."},
+    {"id": "v04", "t0": 17.15, "dur": 1.465, "text": "And one flower opened."},
+    {"id": "v05", "t0": 26.2, "dur": 1.684, "text": "The whole night fit in the box."},
+    {"id": "v06", "t0": 32.7, "dur": 1.279, "text": "She left the lamp on."}
+  ]
+}

@@ -1,7 +1,7 @@
-# Risograph Print — 10 s teaser
+# Risograph Print — The Crossing
 
-Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/risograph.mp4) — "The Ink Workshop"
+Watch: [the-crossing.mp4](the-crossing.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-A 10-second style card for FilmCode (Print & Printmaking): palette `#f4eee2`, `#0078bf`, `#ffe800`, `#3d5588`; a serif typeface; a grid motion motif. Silent, generated, not a story.
+40.0 s, 1920×1080, 24 fps, stereo, about −14 LUFS. A teal night ferry waits on a paper coast for a pink mail boat; where their wakes cross, a third colour opens the path home.
 
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/risograph/STYLE.md)
+Style rules: [STYLE.md](../../skills/filmcode/library/styles/risograph/STYLE.md) · build notes: [source/SOURCE.md](source/SOURCE.md)

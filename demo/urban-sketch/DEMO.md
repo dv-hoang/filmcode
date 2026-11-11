@@ -1,7 +1,9 @@
-# Urban Sketch · Pen & Wash — 10 s teaser
+# Urban Sketch · Pen & Wash — Still Lit
 
-Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/urban-sketch.mp4) — "A Window Facing North"
+Watch: [local `still-lit.mp4`](still-lit.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-A 10-second style card for FilmCode (Hand-drawn & Painting): palette `#bcd0dc`, `#c9573f`, `#c3c96f`, `#b8483e`; a serif typeface; a orbit motion motif. Silent, generated, not a story.
+40.0 s, 1920×1080, 24 fps, stereo sound. On an invented corner, a fineliner café is drawn at four in the afternoon; the wash is the day leaving, and when the chairs are empty only one window is still lit.
 
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/urban-sketch/STYLE.md)
+Style rules: [STYLE.md](../../skills/filmcode/library/styles/urban-sketch/STYLE.md) · build notes: [source/SOURCE.md](source/SOURCE.md)
+
+Hosted teaser (previous 10 s card): [urban-sketch.mp4 on Supabase](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/urban-sketch.mp4)

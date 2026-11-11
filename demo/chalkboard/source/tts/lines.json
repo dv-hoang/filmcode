@@ -1,0 +1,9 @@
+[
+  {"id": "v01", "text": "Everyone writes the same mistake.", "voice": "af_heart", "speed": 0.92, "lang": "en-us"},
+  {"id": "v02", "text": "Cold comes in, they say.", "voice": "af_heart", "speed": 0.92, "lang": "en-us"},
+  {"id": "v03", "text": "Watch.", "voice": "af_heart", "speed": 0.9, "lang": "en-us"},
+  {"id": "v04", "text": "Cold does not travel.", "voice": "af_heart", "speed": 0.9, "lang": "en-us"},
+  {"id": "v05", "text": "Heat does. It leaves.", "voice": "af_heart", "speed": 0.92, "lang": "en-us"},
+  {"id": "v06", "text": "Through the glass, warmth goes out.", "voice": "af_heart", "speed": 0.92, "lang": "en-us"},
+  {"id": "v07", "text": "That is the lesson.", "voice": "af_heart", "speed": 0.9, "lang": "en-us"}
+]

@@ -1,0 +1,28 @@
+# CREDITS — The Open Top
+
+A 40-second film in the Whiteboard Explainer style, made entirely in code.
+The mug, the heat, and the lesson are invented. No brand is shown.
+
+## Voice
+Speech synthesis: Kokoro (kokoro-onnx), voice `af_heart`, English (`en-us`).
+Model and engine: https://github.com/thewh1teagle/kokoro-onnx
+Offline synthesis. The voice model is fetched by the FilmCode library's voice tier.
+
+## Music
+Original score for this film (`music/score.py`).
+Kalimba and nylon guitar are physically modelled (`core/audio/pluck.py`), not sampled.
+No sample library is used.
+
+## Sound effects
+All foley is synthesised for this film (`mix.py`): room tone, wall-clock ticks,
+marker strokes, eraser, magnet clicks, cap.
+
+## Typefaces
+- Cormorant Garamond (upright and italic) — SIL Open Font License 1.1,
+  Catharsis Fonts. See `fonts/OFL.txt`.
+  Used for the burned subtitles. Board lettering is drawn as single strokes
+  by the film, not set from a font file.
+
+## Picture
+Every frame is drawn by this film's marker engine (`engine/wb.js`).
+No stock footage, no photographs, no third-party images.

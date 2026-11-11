@@ -1,7 +1,9 @@
-# One-line Drawing — 10 s teaser
+# One-line Drawing — The Mend
 
-Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/one-line.mp4) — "Paper Boats at Dusk"
+Watch: [local `the-mend.mp4`](the-mend.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-A 10-second style card for FilmCode (Hand-drawn & Painting): palette `#f4efe4`, `#d2402f`, `#2e8b57`, `#1d1a17`; a serif typeface; a wave motion motif. Silent, generated, not a story.
+40.0 s, 1920×1080, 24 fps, stereo sound. A weaver’s thread snaps on the last pass; a smaller hand catches the end, and the only gold in the night is the mend — which, pulled back, is the seam of a blanket.
 
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/one-line/STYLE.md)
+Style rules: [STYLE.md](../../skills/filmcode/library/styles/one-line/STYLE.md) · build notes: [source/SOURCE.md](source/SOURCE.md)
+
+Hosted teaser (previous 10 s card): [one-line.mp4 on Supabase](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/one-line.mp4)

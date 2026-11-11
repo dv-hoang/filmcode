@@ -1,0 +1,33 @@
+# CREDITS — Eighth Fold
+
+A 40-second film in the Red Paper-cut style, made entirely in code.
+The keeper, the sheet, the boat and the story are invented. No real person, brand or place is portrayed.
+
+## Voice
+Speech synthesis: Kokoro (kokoro-onnx), voice `af_heart`, English, offline.
+Model and engine follow the licences of the kokoro-onnx project
+(https://github.com/thewh1teagle/kokoro-onnx).
+
+## Music
+Original score, written for this film (`music/score.py`).
+Pipa notes are physically modelled (`core/audio/pluck.py`).
+The erhu glide is synthesised in `music/score.py` (a bowed tone with vibrato). The Karoryfer erhu samples are not in this library checkout, so none were used.
+Flute stands in for a dizi. Dan tranh stands in for a zheng.
+
+Samples (CC0 1.0):
+- VS Chamber Orchestra: Community Edition (Versilian Studios) — flute
+- Versilian Community Sample Library (Versilian Studios) — dan tranh, dan tranh tremolo, woodblock, frame drum, gong
+
+## Typefaces
+- Cormorant Garamond — SIL Open Font License 1.1 (Catharsis Fonts). Files copied from the Impasto demo’s `source/fonts/`, which vendors the same OFL family. See `fonts/OFL.txt`.
+
+## Picture
+Every frame is drawn by this film’s paper-cut code (`paper.js`, `film.js`).
+No stock footage, no photographs, no third-party images.
+
+## Sound effects
+All foley is synthesised for this film (`mix.py`): room hush, a paper fold, crease tap, scissors, scrap drop, palm pat, unfold snaps, scrap lift, boat slide, paper peel, cardboard step, lamp swell.
+
+## Your responsibility
+CREDITS lists the third-party assets in the film and their licences.
+You are responsible for the materials you use in it.

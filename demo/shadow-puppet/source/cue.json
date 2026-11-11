@@ -1,0 +1,45 @@
+{
+  "dur": 39.0,
+  "bpm": 80,
+  "title": {
+    "text": "ONE LAMP",
+    "in": 0.75,
+    "sharp0": 1.2,
+    "sharp1": 5.25,
+    "out": 6.0
+  },
+  "voices": [
+    {"id": "v01", "t": 6.75, "text": "One lamp for a whole river."},
+    {"id": "v02", "t": 15.75, "text": "The flame went small."},
+    {"id": "v03", "t": 24.0, "text": "He hid it in his sleeve."},
+    {"id": "v04", "t": 29.25, "text": "Two lights, and the way home."}
+  ],
+  "subs": [
+    {"id": "s1", "t0": 6.75, "t1": 11.05, "text": "One lamp for a whole river."},
+    {"id": "s2", "t0": 15.75, "t1": 18.7, "text": "The flame went small."},
+    {"id": "s3", "t0": 24.0, "t1": 26.05, "text": "He hid it in his sleeve."},
+    {"id": "s4", "t0": 29.25, "t1": 33.45, "text": "Two lights, and the way home."}
+  ],
+  "t": {
+    "push": [6.0, 8.4],
+    "follow": [8.4, 17.25],
+    "gap": [17.25, 19.7],
+    "gutter": 17.6,
+    "wipe": [19.35, 19.95],
+    "back": [19.7, 23.25],
+    "catch": 23.25,
+    "freeze": [26.25, 27.25],
+    "lamp2": 26.25,
+    "turn": 27.4,
+    "walk": 28.5,
+    "waterLift": [31.5, 33.0],
+    "pull": [33.0, 36.4],
+    "exitDim": [36.2, 37.7],
+    "silence": [[18.0, 23.25], [36.75, 37.5]],
+    "gongEnd": 37.5,
+    "poleStart": 8.34,
+    "polePeriod": 1.5
+  },
+  "poles": [9.0, 10.5, 12.0, 13.5, 15.0, 16.5],
+  "steps": [28.5, 29.25, 30.0, 30.75, 31.5, 32.25, 33.0, 33.75, 34.5, 35.25, 36.0]
+}

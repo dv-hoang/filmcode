@@ -1,0 +1,8 @@
+[
+  {"id": "v01", "t0": 6.05, "t1": 9.55, "text": "Heat leaves through the open top."},
+  {"id": "v02", "t0": 10.30, "t1": 13.40, "text": "The wall is the slow door."},
+  {"id": "v03", "t0": 15.05, "t1": 18.15, "text": "Not the cold of the cup."},
+  {"id": "v04", "t0": 20.55, "t1": 23.15, "text": "Close the top."},
+  {"id": "v05", "t0": 25.35, "t1": 28.40, "text": "The same heat stays."},
+  {"id": "v06", "t0": 35.50, "t1": 40.00, "text": "A lid."}
+]

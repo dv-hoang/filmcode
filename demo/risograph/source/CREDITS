@@ -1,0 +1,26 @@
+# CREDITS — The Crossing
+
+A 40-second film in the Risograph Print style, made entirely in code.
+The harbour, the two boats and the story are invented. No real brand, place or person is portrayed.
+
+## Voice
+Speech synthesis: Kokoro (kokoro-onnx), voice `af_heart`, English, offline.
+Model and engine follow the licences of the kokoro-onnx project
+(https://github.com/thewh1teagle/kokoro-onnx).
+
+## Music
+Original score, written for this film (`music/score.py`).
+Upright bass, nylon guitar and toy piano are physically modelled
+(`core/audio/pluck.py`). The marimba is synthesised in the same score.
+
+## Typefaces
+- Cormorant Garamond — SIL Open Font License 1.1 (Catharsis Fonts). See `fonts/OFL.txt`.
+  The files are the same OFL build used by the Impasto demo in this repository.
+
+## Picture
+Every frame is drawn by this film's plate engine (`draw.js`, `scene.js`) and
+printed by its shader (`riso.js`). No stock footage, photographs or third-party images.
+
+## Sound effects
+All foley is synthesised for this film (`mix.py`): water, motors, paper feed,
+drum hits, a buoy, a sheet landing and a pin.

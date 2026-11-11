@@ -1,0 +1,7 @@
+[
+  {"id": "v01", "text": "The kiln had gone cold.", "voice": "af_heart", "speed": 0.9},
+  {"id": "v02", "text": "One ember held.", "voice": "af_heart", "speed": 0.9},
+  {"id": "v03", "text": "She fed it.", "voice": "af_heart", "speed": 0.9, "asr": "Oh, she fed it."},
+  {"id": "v04", "text": "The dark gave way.", "voice": "af_heart", "speed": 0.9},
+  {"id": "v05", "text": "One jar.", "voice": "af_heart", "speed": 0.88}
+]

@@ -1,7 +1,9 @@
-# Woodcut Print — 10 s teaser
+# Woodcut Print — One Ember
 
-Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/woodcut.mp4) — "The Paper Route"
+Watch: [local `one-ember.mp4`](one-ember.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-A 10-second style card for FilmCode (Print & Printmaking): palette `#f5f0e6`, `#c8363a`, `#2a5cb3`, `#171717`; a serif typeface; a orbit motion motif. Silent, generated, not a story.
+38.0 s, 1920×1080, 24 fps, stereo sound. A salt potter opens a kiln that died in the night and finds one ember; she feeds it until copper light is carved across the block, then the colour withdraws into a single jar, and one corner of the wood stays uncut.
 
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/woodcut/STYLE.md)
+Style rules: [STYLE.md](../../skills/filmcode/library/styles/woodcut/STYLE.md) · build notes: [source/SOURCE.md](source/SOURCE.md)
+
+Hosted teaser (previous 10 s card): [woodcut.mp4 on Supabase](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/woodcut.mp4)

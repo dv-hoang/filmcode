@@ -1,0 +1,27 @@
+# CREDITS — Still Lit
+
+A 40-second film in the Urban Sketch · Pen & Wash style, made entirely in code.
+Pigeon & Third is an invented corner: no real street, café, or person is portrayed.
+
+## Voice
+Speech synthesis: Kokoro (kokoro-onnx), voice `af_heart`, English. Model and engine
+are released under the licences of the kokoro-onnx project
+(https://github.com/thewh1teagle/kokoro-onnx). Offline synthesis.
+
+## Music
+Original score for this film (`music/score.py`).
+Nylon guitar is physically modelled (`core/audio/pluck.py`).
+Upright piano: VSCO 2 CE (Versilian Studios / Sam Gossner), CC0 1.0
+(https://github.com/sgossner/VSCO-2-CE).
+
+## Typefaces
+- Caveat — SIL Open Font License 1.1, Impallari Type
+  (https://github.com/google/fonts/tree/main/ofl/caveat). File in `fonts/`.
+
+## Picture
+Every frame is drawn by this film's pen-and-wash code (`engine.js`, `scene.js`).
+No stock footage, no photographs, no third-party images.
+
+## Sound effects
+All foley is synthesised for this film (`mix.py`): paper room, pen on paper,
+wet brush, street air, cup, chair, footsteps, lamp tick.

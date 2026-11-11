@@ -1,0 +1,6 @@
+[
+  {"id": "v01", "text": "One lamp for a whole river.", "voice": "af_heart", "speed": 0.9},
+  {"id": "v02", "text": "The flame went small.", "voice": "af_heart", "speed": 0.9},
+  {"id": "v03", "text": "He hid it in his sleeve.", "asr": "He hit it in a sleeve.", "voice": "af_heart", "speed": 0.9},
+  {"id": "v04", "text": "Two lights, and the way home.", "voice": "af_heart", "speed": 0.9}
+]

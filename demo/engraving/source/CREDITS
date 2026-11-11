@@ -1,0 +1,27 @@
+# CREDITS — The Night Lamp
+
+A 38-second film in the Copperplate Engraving style, made entirely in code.
+The shell, the name Lumenconcha vespera, and the engraver I. Marrow are invented.
+No real species, place, or workshop is portrayed.
+
+## Voice
+Speech synthesis: Kokoro (kokoro-onnx), voice `af_heart`, English, offline.
+Model and engine: https://github.com/thewh1teagle/kokoro-onnx
+
+## Music
+Original score, written for this film (`music/score.py`). Harpsichord and violas.
+
+Samples (CC0):
+- Harpsichord — Versilian Community Sample Library (Versilian Studios), CC0 1.0
+- Violas — VS Chamber Orchestra: Community Edition (Versilian Studios / Sam Gossner), CC0 1.0
+
+## Typefaces
+- Cormorant Garamond — SIL Open Font License 1.1 (Catharsis Fonts). See `fonts/OFL.txt`.
+  Copied from the Impasto demo's font folder. Roman, italic, and the written note all use this face.
+
+## Picture
+Every frame is drawn by this film's engraving code (`engine/ink.js`, `engine/plate.js`, `engine/copper.js`).
+No photographs, no scans, no third-party images.
+
+## Sound effects
+All foley is synthesised in `mix.py` (burin, paper, burnish, brush, clock). No sample library.

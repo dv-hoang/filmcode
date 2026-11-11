@@ -1,0 +1,26 @@
+# CREDITS — First Bloom
+
+A 39-second film in the Paper-cut Lightbox style, made entirely in code.
+The potting shed, the camellia and the story are invented. No real brand or place is portrayed.
+
+## Voice
+Speech synthesis: Kokoro (kokoro-onnx), voice `af_heart`, English. Model and engine
+are released under the licences of the kokoro-onnx project
+(https://github.com/thewh1teagle/kokoro-onnx). Offline synthesis.
+
+## Music
+Original score, synthesised for this film (`music/score.py`).
+Music box, koto and kalimba are physically modelled (`core/audio/pluck.py`).
+No sample library.
+
+## Typefaces
+- Cormorant Garamond — SIL Open Font License 1.1 (Catharsis Fonts). Files copied from
+  `demo/impasto/source/fonts`; see `fonts/OFL.txt`.
+
+## Picture
+Every frame is drawn with this film's paper-sheet engine (`engine/paper.js`, `world.js`).
+No stock footage, no photographs, no third-party images.
+
+## Sound effects
+All foley is synthesised for this film (`mix.py`): night air, crickets, a match, paper,
+a window chime, a pull-away whoosh.

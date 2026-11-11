@@ -1,0 +1,26 @@
+# CREDITS — The Dry Stair
+
+A 40-second film in the Silkscreen Travel Poster style, made entirely in code.
+Brine Stair, the hour, and the ticket window are invented. No real coast, park, agency, or poster is portrayed.
+
+## Voice
+Speech synthesis: Kokoro (kokoro-onnx), voice `af_heart`, English. Model and engine
+are released under the licences of the kokoro-onnx project
+(https://github.com/thewh1teagle/kokoro-onnx). Offline synthesis.
+
+## Music
+Original score, written for this film (`music/score.py`).
+Nylon guitar and pizzicato bass are physically modelled (`core/audio/pluck.py`).
+Brushes and the harmonica reed are synthesised in the same file. No sample library.
+
+## Typefaces
+- Cormorant Garamond — SIL Open Font License 1.1, Christian Thalmann (Catharsis Fonts). See `fonts/OFL.txt`.
+  The face is horizontally scaled in the picture so the names read condensed.
+
+## Picture
+Every frame is drawn with this film's silkscreen engine (`engine/silk.js`, `scene.js`).
+No stock footage, no photographs, no third-party images.
+
+## Sound effects
+The squeegee, ink squelch, screen clack, hinge creak, clamp, stamps, room, paper hiss,
+and surf are synthesised for this film (`mix.py`). No recorded effects.

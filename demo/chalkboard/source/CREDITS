@@ -1,0 +1,27 @@
+# CREDITS — Heat Leaves
+
+A 39-second film in the Chalkboard style, made entirely in code.
+The classroom, the lesson and the story are invented: no real school, textbook or brand is portrayed.
+
+## Voice
+Speech synthesis: Kokoro (kokoro-onnx), voice `af_heart`, English. Model and engine
+are released under the licences of the kokoro-onnx project
+(https://github.com/thewh1teagle/kokoro-onnx). Offline synthesis.
+
+## Music
+Original score, written for this film (`music/score.py`).
+Nylon guitar and pizzicato bass are physically modelled (`core/audio/pluck.py`).
+Marimba notes are samples.
+
+Samples (CC0): Versilian Community Sample Library (Versilian Studios).
+
+## Typefaces
+- Cormorant Garamond — SIL Open Font License 1.1, Christian Thalmann (Catharsis Fonts). See `fonts/OFL.txt`.
+
+## Picture
+Every frame is drawn with this film's chalk engine (`chalk.js`, `letters.js`, `stage.js`).
+No stock footage, no photographs, no third-party images.
+
+## Sound effects
+Chalk, the felt wipe, the distant bell, the whip and the clock tick are synthesised
+for this film (`mix.py`). No recorded chalk samples.

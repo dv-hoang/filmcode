@@ -1,0 +1,26 @@
+# CREDITS — One Ember
+
+A 38-second film in the Woodcut Print style, made entirely in code.
+The kiln, the potter and the story are invented. No real workshop or person is portrayed.
+
+## Voice
+Speech synthesis: Kokoro (kokoro-onnx), voice `af_heart`, English. Model and engine
+are released under the licences of the kokoro-onnx project
+(https://github.com/thewh1teagle/kokoro-onnx). Offline synthesis.
+
+## Music
+Original score, synthesised for this film (`music/score.py`).
+No sample library. Contrabass drone, cello spiccato, woodblock, frame drum,
+one tam-tam and one struck-metal note are numpy synthesis.
+
+## Typefaces
+- Cormorant Garamond — SIL Open Font License 1.1 (Catharsis Fonts); see `fonts/OFL.txt`
+  Copied from the Impasto demo's font set. Used as the letterpress face.
+
+## Picture
+Every frame is drawn with this film's knife and print compositor (`engine/woodcut.js`).
+No stock footage, no photographs, no third-party images.
+
+## Sound effects
+All foley is synthesised for this film (`mix.py`): room hush, knife, chips, ember
+crackle, a wood strike, brayer, baren, paper and the peel.
