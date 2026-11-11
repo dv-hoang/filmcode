@@ -77,7 +77,7 @@ Chinese narration uses offline Kokoro by default. edge-tts sounds better but sen
 
 ## Demo video
 
-Every style has a demo: Watercolor is a 45 s film (`watercolor.mp4`), and the other 65 styles are 10 s style teasers. They are hosted on Supabase and listed in [`demo/index.html`](demo/index.html). Enable GitHub Pages (Settings -> Pages -> Deploy from a branch -> `main` / root) and open `https://dv-hoang.github.io/filmcode/demo/`.
+Every style has a demo: Watercolor is a 45 s film, Crayon Picture Book is a hand-drawn 10 s film, and the other 64 styles are 10 s style teasers. They are hosted on Supabase and listed in [`demo/index.html`](demo/index.html). Enable GitHub Pages (Settings -> Pages -> Deploy from a branch -> `main` / root) and open `https://dv-hoang.github.io/filmcode/demo/`.
 
 ## Layout
 

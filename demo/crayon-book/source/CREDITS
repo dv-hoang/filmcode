@@ -1,0 +1,16 @@
+# CREDITS — The Orchard at First Light
+
+A 10-second Crayon Picture Book film, made entirely in code.
+
+## Picture
+Canvas2D crayon engine (`crayon.js`): waxy ribbons, zig-zag hatching, paper tooth,
+hand wobble and 12 fps boil. Paper, wash, vignette and the hand-written title are
+drawn in `film.js`.
+
+## Type
+- Gaegu Bold — SIL Open Font License 1.1 (`fonts/OFL-Gaegu.txt`)
+- Patrick Hand Regular — SIL Open Font License 1.1 (`fonts/OFL-PatrickHand.txt`)
+
+## Music
+Original 10 s music-box score, synthesised for this film (`music.py`) with the
+library's physical models (`core/audio/pluck.py`). No sample libraries are used.

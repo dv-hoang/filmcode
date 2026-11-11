@@ -10,6 +10,7 @@ cd "$LIB"
 
 SLUGS=$(python3 -c "import json;print(' '.join(x['slug'] for x in json.load(open('$HERE/styles.json'))))")
 for slug in $SLUGS; do
+  [ "$slug" = crayon-book ] && { echo "skip real demo: $slug"; continue; }
   [ -s "$OUT/$slug.mp4" ] && { echo "skip $slug"; continue; }
   echo "render $slug"
   if ! node core/render/video.mjs "$HERE" --fps 24 --workers 4 --q "style=$slug" --out "$OUT/$slug.mp4"; then

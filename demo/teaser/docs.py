@@ -10,6 +10,7 @@ STYLES = ROOT / "skills" / "filmcode" / "library" / "styles"
 DEMO = ROOT / "demo"
 TEASERS = json.loads((DEMO / "teaser" / "styles.json").read_text(encoding="utf-8"))
 BASE = "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos"
+REAL = {"crayon-book"}   # hand-built demos, not generated style cards
 WATER_URL = f"{BASE}/watercolor.mp4"
 ORDER = ["Edit & Documentary", "Evidence Films", "Hand-drawn & Painting", "East Asian Traditions",
          "Print & Printmaking", "Graphic & Type", "Information & Keynote", "Cartoon & Anime",
@@ -30,6 +31,8 @@ def main():
 
     # style.json: public demo URL, new-title metadata
     for e in TEASERS:
+        if e["slug"] in REAL:
+            continue
         p = STYLES / e["slug"] / "style.json"
         d = json.loads(p.read_text(encoding="utf-8"))
         d["film"] = e["topic"]
@@ -69,6 +72,8 @@ def main():
 
     # short teaser notes; the old reference-demo breakdowns are not kept
     for e in TEASERS:
+        if e["slug"] in REAL:
+            continue
         p = DEMO / e["slug"] / "DEMO.md"
         c = e["colors"]
         doc = (
@@ -151,7 +156,7 @@ def main():
 <body>
 <header>
   <h1>FilmCode demos</h1>
-  <p class="lede">Every style has a demo. Watercolor is a 45-second film; the other styles are 10-second style teasers. The MP4 files are hosted on Supabase.</p>
+  <p class="lede">Every style has a demo. Watercolor is a 45-second film, Crayon Picture Book is a hand-drawn 10-second film, and the other styles are 10-second style teasers. The MP4 files are hosted on Supabase.</p>
   <div class="feature">
     <video controls playsinline preload="metadata" poster="watercolor/poster.jpg">
       <source src="{WATER_URL}" type="video/mp4">
@@ -171,10 +176,10 @@ def main():
     readme = ROOT / "README.md"
     t = readme.read_text(encoding="utf-8")
     section = ("## Demo video\n\n"
-               "Every style has a demo: Watercolor is a 45 s film (`watercolor.mp4`), and the other 65 styles are "
-               "10 s style teasers. They are hosted on Supabase and listed in [`demo/index.html`](demo/index.html). "
-               "Enable GitHub Pages (Settings -> Pages -> Deploy from a branch -> `main` / root) and open "
-               "`https://dv-hoang.github.io/filmcode/demo/`.\n\n")
+               "Every style has a demo: Watercolor is a 45 s film, Crayon Picture Book is a hand-drawn 10 s film, "
+               "and the other 64 styles are 10 s style teasers. They are hosted on Supabase and listed in "
+               "[`demo/index.html`](demo/index.html). Enable GitHub Pages (Settings -> Pages -> Deploy from a branch -> "
+               "`main` / root) and open `https://dv-hoang.github.io/filmcode/demo/`.\n\n")
     t = re.sub(r"## Demo video\n.*?\n## Layout", section + "## Layout", t, flags=re.S)
     readme.write_text(t, encoding="utf-8")
 

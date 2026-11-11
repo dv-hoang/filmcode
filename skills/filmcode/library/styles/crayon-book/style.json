@@ -4,15 +4,16 @@
  "en": "Crayon Picture Book",
  "category_en": "Hand-drawn & Painting",
  "film": "The Orchard at First Light",
- "line": "A 10-second Crayon Picture Book style teaser: \"The Orchard at First Light\".",
+ "line": "A child walks into an orchard at first light, and the page colours itself in.",
  "uses": [
   "Picture books",
   "Bedtime stories",
   "Kids' learning"
  ],
- "frame_sec": 5.0,
+ "frame_sec": 8.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/crayon-book.mp4",
  "demo_topic": "The Orchard at First Light",
- "demo_seconds": 10
+ "demo_seconds": 10,
+ "demo_kind": "film"
 }

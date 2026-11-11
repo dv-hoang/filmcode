@@ -1,7 +1,8 @@
-# Crayon Picture Book — 10 s teaser
+# Crayon Picture Book — The Orchard at First Light
 
-Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/crayon-book.mp4) — "The Orchard at First Light"
+Watch: [10 s demo](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/crayon-book.mp4)
+Source: [source/](source/)
 
-A 10-second style card for FilmCode (Hand-drawn & Painting): palette `#f4efe3`, `#d2402f`, `#2e8b57`, `#1d1a17`; a serif typeface; a rings motion motif. Silent, generated, not a story.
+10.0 s, 1920x1080 master / 1280x720 web cut, 24 fps, stereo. A child walks into an orchard at first light; crayon lines, hatch colour and a music-box score finish the page.
 
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/crayon-book/STYLE.md)
+Style rules: [STYLE.md](../../skills/filmcode/library/styles/crayon-book/STYLE.md) · build: [source/build.sh](source/build.sh)

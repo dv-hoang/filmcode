@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Gaegu';
+  src: url(fonts/Gaegu-Bold.ttf) format('truetype');
+  font-weight: 700;
+  font-display: block;
+}
+@font-face {
+  font-family: 'Patrick Hand';
+  src: url(fonts/PatrickHand-Regular.ttf) format('truetype');
+  font-weight: 400;
+  font-display: block;
+}
