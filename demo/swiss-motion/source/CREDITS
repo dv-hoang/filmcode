@@ -1,0 +1,15 @@
+# CREDITS — The Grid System
+
+A 10-second Swiss Motion Graphics film, made entirely in code.
+
+## Picture
+12-column modular grid, flat ink bars, grey grid lines and one signal-red
+exception dot (`film.js`). No images, textures or gradients.
+
+## Type
+Archivo — SIL Open Font License 1.1 (`fonts/OFL-Archivo.txt`).
+
+## Sound
+Original 120 BPM pulse, bass, hats, print clicks, an exception glide and a
+final chord, synthesised with numpy and the library's `core/audio/sfx.py`.
+No samples.

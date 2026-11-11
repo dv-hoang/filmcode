@@ -77,7 +77,7 @@ Chinese narration uses offline Kokoro by default. edge-tts sounds better but sen
 
 ## Demo video
 
-Every style has a demo: Watercolor is a 45 s film, Crayon Picture Book and ASCII / CRT Terminal are hand-built 10 s films, and the other 63 styles are 10 s style teasers. Every video plays in [`demo/index.html`](demo/index.html). Enable GitHub Pages (Settings -> Pages -> Deploy from a branch -> `main` / root) and open `https://dv-hoang.github.io/filmcode/demo/`.
+Every style has a demo: Watercolor is a 45 s film, Crayon Picture Book, ASCII / CRT Terminal and Swiss Motion Graphics are hand-built 10 s films, and the other 62 styles are 10 s style teasers. Every video plays in [`demo/index.html`](demo/index.html). Enable GitHub Pages (Settings -> Pages -> Deploy from a branch -> `main` / root) and open `https://dv-hoang.github.io/filmcode/demo/`.
 
 ## Layout
 

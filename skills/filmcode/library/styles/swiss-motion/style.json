@@ -4,15 +4,16 @@
  "en": "Swiss Motion Graphics",
  "category_en": "Graphic & Type",
  "film": "The Grid System",
- "line": "A 10-second Swiss Motion Graphics style teaser: \"The Grid System\".",
+ "line": "A 12-column page builds itself on a 120 BPM grid, and one red exception leaves it.",
  "uses": [
   "Brand identity",
   "Events",
   "Design education"
  ],
- "frame_sec": 5.0,
+ "frame_sec": 8.6,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/swiss-motion.mp4",
  "demo_topic": "The Grid System",
- "demo_seconds": 10
+ "demo_seconds": 10,
+ "demo_kind": "film"
 }
