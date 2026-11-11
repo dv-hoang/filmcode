@@ -83,7 +83,7 @@ Why this route, for this story: the title typed as a file the machine opens made
 
 ## End card
 
-Typed over the final room shot (`ASCII / CRT TERMINAL`, `FilmCode × Claude`), followed by the CRT power-off. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+Typed over the final room shot (`ASCII / CRT TERMINAL`, `FilmCode × CommandCode`), followed by the CRT power-off. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

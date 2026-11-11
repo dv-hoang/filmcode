@@ -62,7 +62,7 @@ Mix (`demo/mix.py`): music balanced to sit 10 dB under the voice while it speaks
 
 ## End card
 
-Over the white model as the house lights return, a left block: (Noto Sans SC 500, 64 px), *How a Flattened City Grew Back* (Inter Tight 200), an amber rule, ` · PROJECTION ON WHITE MODEL`, `3DBAG · BAG · BGT · `, the 3DBAG licence credit in fine print (3DGI and the 3D geoinformation research group, TU Delft, CC BY 4.0), `FilmCode × Claude`. 35.7–40.0 s. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+Over the white model as the house lights return, a left block: (Noto Sans SC 500, 64 px), *How a Flattened City Grew Back* (Inter Tight 200), an amber rule, ` · PROJECTION ON WHITE MODEL`, `3DBAG · BAG · BGT · `, the 3DBAG licence credit in fine print (3DGI and the 3D geoinformation research group, TU Delft, CC BY 4.0), `FilmCode × CommandCode`. 35.7–40.0 s. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

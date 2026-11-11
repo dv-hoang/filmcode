@@ -57,7 +57,7 @@ Voice: calm British narrator, Kokoro `bm_george`, lang `en-gb`, speed .82–.86,
 
 Title: two vertical columns written on the scroll itself (English letterforms rotated 90°, Cormorant SC 600, wide tracking) + seal; it fades in wet → dry and evaporates when the pan starts. Subtitles: Cormorant Garamond italic 500, 46 px, 1 px tracking, drying in ~0.35 s.
 
-End card: the whole scroll on a dark table with silk borders and rollers; "CHINESE INK WASH" (Cormorant SC 600, 44 px, 14 px tracking) and the credit line (italic 30 px) in pale paper colour below. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+End card: the whole scroll on a dark table with silk borders and rollers; "CHINESE INK WASH" (Cormorant SC 600, 44 px, 14 px tracking) and the credit line (italic 30 px) in pale paper colour below. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

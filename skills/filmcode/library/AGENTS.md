@@ -42,7 +42,7 @@ If the user hasn't picked a style:
 - Suggest two or three that fit their topic.
 - If they have their own styles, list those first, under "My styles" (in their language).
 - Show them the full list below in the chat, in the user's language: English names and English category names. Don't drop, merge or rename anything.
-- The demo films are not included in this edition. If the user wants to watch one, tell them it is not bundled here; do not invent a link.
+- The Watercolor demo ships at `styles/watercolor/watercolor.mp4`, with `poster.jpg` beside it. The other demo films are not included; if the user wants to watch one, say it is not bundled and do not invent a link.
 - Then ask them to type the name. The list goes in your own message (a command's output isn't shown to them), and the question is plain text, not `ask_user_question`: its few options would hide the rest of the list.
 
 <!-- style-list:start -->

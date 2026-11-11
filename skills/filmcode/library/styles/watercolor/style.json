@@ -3,13 +3,15 @@
  "num": "02",
  "en": "Watercolor Brush",
  "category_en": "Hand-drawn & Painting",
- "film": "Follow the Rain",
- "line": "Follow the rain from Australia's red desert heart to its green coast in one unbroken painted walk.",
+ "film": "Alborada",
+ "line": "A daughter walks one harvest morning down her family's hillside and ends with one cup, poured for the people who did the work.",
  "uses": [
   "Nature documentary",
   "Travel",
   "Science explainers"
  ],
- "frame_sec": 68.16,
- "dur": 113.6
+ "frame_sec": 24.0,
+ "dur": 45.0,
+ "demo": "watercolor.mp4",
+ "poster": "poster.jpg"
 }

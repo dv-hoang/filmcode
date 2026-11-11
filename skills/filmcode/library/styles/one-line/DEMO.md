@@ -85,7 +85,7 @@ The camera is one continuous move: keyframes of composition centre, zoom, a few 
 
 - Subtitles: Caveat 500, 46 px, ink at 84 %, no box, centred with the baseline 100 px from the bottom; they are **written on** left to right (0.2 s + 17 ms per character) behind a soft paper-coloured halo so passing ink lines never cross the letters; fade out over 0.45 s. Stay ≥ voice + 0.6 s and ≥ 1.8 s.
 - Title: Sacramento (a monoline connected script — itself a one-line drawing) 76 px, written on over 1.6 s in empty paper away from the current vignette, with a small Caveat sub-line. Keep it short enough to disappear before the camera moves into it.
-- End card: Sacramento title on two lines, "ONE-LINE DRAWING" in Caveat 600 with wide tracking, the credit line below, written in the empty paper beside the final picture while the new line is still being drawn. Its "FilmCode × Claude" line (`subs.js`) belongs to this library's demo only: a user's film carries no FilmCode credit and no copy of this card.
+- End card: Sacramento title on two lines, "ONE-LINE DRAWING" in Caveat 600 with wide tracking, the credit line below, written in the empty paper beside the final picture while the new line is still being drawn. Its "FilmCode × CommandCode" line (`subs.js`) belongs to this library's demo only: a user's film carries no FilmCode credit and no copy of this card.
 
 ## Pitfalls
 

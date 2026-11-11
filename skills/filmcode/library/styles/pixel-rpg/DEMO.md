@@ -86,7 +86,7 @@ Adapting any topic: find the **game system** hidden in it. A product launch is a
  - types with the voice; ▼ when done.
 - **Skins follow the era**: 4-color light box with dark text at 160×90; 8-bit black box with white frame and an 8-bit portrait; 16-bit/present blue (it fades with the present and turns vivid when color returns).
 - Battle messages go in a thin top window. Every box stays ≥ 1.8 s and ≥ voice + 0.6 s. The next box cuts the previous one. The `.srt` is exported from the same `window.SUBS` array.
-- **Title**: two lines, 2× font, 8-neighbour ink outline, white→silver→steel gradient by row, Bayer-dissolved in and out. **End card**: gold title, blinking `▶ CONTINUE`, style name, `FilmCode × Claude`, and the red scarf drifting across once. The FilmCode sign-off belongs to this library's demo only: a user's film carries no FilmCode credit and no copy of this card.
+- **Title**: two lines, 2× font, 8-neighbour ink outline, white→silver→steel gradient by row, Bayer-dissolved in and out. **End card**: gold title, blinking `▶ CONTINUE`, style name, `FilmCode × CommandCode`, and the red scarf drifting across once. The FilmCode sign-off belongs to this library's demo only: a user's film carries no FilmCode credit and no copy of this card.
 
 ## Pitfalls
 

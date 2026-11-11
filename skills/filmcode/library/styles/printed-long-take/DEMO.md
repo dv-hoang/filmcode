@@ -62,7 +62,7 @@ Ink `#16171b`, paper `#ede5cd`, red `#c4332b` only on crowns (each with a thin p
 
 ## End card
 
-Cut into the day sky as an ink plate over the still wide shot, upper right and at least 5% inside the frame: / Thirty-Three Cranes / FilmCode × Claude, from 56.8 to 60.0 s. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+Cut into the day sky as an ink plate over the still wide shot, upper right and at least 5% inside the frame: / Thirty-Three Cranes / FilmCode × CommandCode, from 56.8 to 60.0 s. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

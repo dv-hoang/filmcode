@@ -78,7 +78,7 @@ Palette-knife scrapes sit on every repaint.
 
 ## End card
 
-Knife-painted title on deep ultramarine, a red dot (an umbrella from above), and crisp DOM text for the credits (small text must stay legible): "an impasto palette-knife study", then "FilmCode · FilmCode × Claude", then the sample and font credits. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card (the line lives in `demo/film.js`: remove it if you adapt that file).
+Knife-painted title on deep ultramarine, a red dot (an umbrella from above), and crisp DOM text for the credits (small text must stay legible): "an impasto palette-knife study", then "FilmCode · FilmCode × CommandCode", then the sample and font credits. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card (the line lives in `demo/film.js`: remove it if you adapt that file).
 
 ## Build notes
 

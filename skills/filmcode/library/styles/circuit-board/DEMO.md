@@ -25,7 +25,7 @@ Native moves spent: flow becomes current (dam), pulse-path explainer (the whole 
 | 9 | 34.6–42.1 | … | out of the charger's pin: the whole charger (plug, fuse, bridge, capacitor, transformer, USB-C), / CHARGER; push in to the bridge:, → | reverse out, hold, push | |
 | 10 | 42.1–52.9 | … / … | detail callout: Butuo's bridge beside DB1 at the same size; "=" and at 47.6; 4 at 49.4 | locked | verdict held 5.4 s before "=" |
 | 11 | 52.9–54.5 | … | one pull-out from the charger to the whole board, the main line glowing | log zoom | |
-| 12 | 54.5–60 | — | the whole board on a desk, noon window light; title block: / SEVEN MILLISECONDS, FilmCode × Claude | slow push, 2° turn | end card |
+| 12 | 54.5–60 | — | the whole board on a desk, noon window light; title block: / SEVEN MILLISECONDS, FilmCode × CommandCode | slow push, 2° turn | end card |
 
 ## Voice-over
 
@@ -55,7 +55,7 @@ Mask greens #05190F / #1C6A44 / #4AA977, gold #D9B25B, bare-copper dam bar #C978
 
 ## End card
 
-The board's own title block, top right of the corridor board, plotted at 54.8: (≈ 75 px) / SEVEN MILLISECONDS; at 56.0 the row FilmCode × Claude (≈ 25 px caps); REV A / SHEET 1 OF 1 in its corner. No voice after 57.0; held to 60.0 under the window light. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+The board's own title block, top right of the corridor board, plotted at 54.8: (≈ 75 px) / SEVEN MILLISECONDS; at 56.0 the row FilmCode × CommandCode (≈ 25 px caps); REV A / SHEET 1 OF 1 in its corner. No voice after 57.0; held to 60.0 under the window light. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

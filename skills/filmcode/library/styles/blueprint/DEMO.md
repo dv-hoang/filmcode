@@ -107,7 +107,7 @@ Demo motion numbers: exploded parts leave one every ~0.055 of the progress on ei
 
 ## End card
 
-**End card**: the title block. The last row is lettered in: STYLE: BLUEPRINT / DRAWN BY: FilmCode × Claude. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+**End card**: the title block. The last row is lettered in: STYLE: BLUEPRINT / DRAWN BY: FilmCode × CommandCode. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

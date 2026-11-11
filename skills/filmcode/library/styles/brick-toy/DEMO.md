@@ -48,7 +48,7 @@ Voice: warm British storyteller, Kokoro `bm_george`, speed ~0.9, 4–6 short lin
 
 ## End card
 
-The darkened final wide, the title (Fredoka 700), a brick icon, "BRICK TOY · FILMCODE" in yellow, the "FilmCode × Claude" line and the asset credits. That sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card (remove the line drawn in `main.js` if you adapt it).
+The darkened final wide, the title (Fredoka 700), a brick icon, "BRICK TOY · FILMCODE" in yellow, the "FilmCode × CommandCode" line and the asset credits. That sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card (remove the line drawn in `main.js` if you adapt it).
 
 ## Build notes
 

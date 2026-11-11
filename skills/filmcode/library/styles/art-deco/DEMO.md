@@ -68,7 +68,7 @@ Performance beats: the elevator button pressed three times (once, twice, mash); 
 
 - Subtitle card speaker icons: a gold ribbon mic for the announcer, a burgundy pillbox cap for the hero.
 - Title: MIDNIGHT / AT THE STARLIGHT HOTEL in a gold title bar over the stepped arch, a 1930 diamond year badge, NEW YEAR'S EVE label.
-- End card: a lacquer plaque on the closed elevator doors: title, ART DECO, FILMCODE, "FilmCode × Claude", asset credits. This sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+- End card: a lacquer plaque on the closed elevator doors: title, ART DECO, FILMCODE, "FilmCode × CommandCode", asset credits. This sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

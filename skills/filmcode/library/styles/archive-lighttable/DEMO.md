@@ -63,7 +63,7 @@ Mix (in `mix.py`): music about 11 dB under the voice before ducking, ducked a fu
 
 ## End card
 
-Over the pulled-back table, bottom left: (Noto Serif SC), *Two Seconds Short*, a signal-orange rule, `ARCHIVE LIGHT TABLE`, `FilmCode × Claude`, and in fine print the licence credit for the Salamander piano samples (CC BY 3.0); the archive index on the right. 3.7 s. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+Over the pulled-back table, bottom left: (Noto Serif SC), *Two Seconds Short*, a signal-orange rule, `ARCHIVE LIGHT TABLE`, `FilmCode × CommandCode`, and in fine print the licence credit for the Salamander piano samples (CC BY 3.0); the archive index on the right. 3.7 s. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

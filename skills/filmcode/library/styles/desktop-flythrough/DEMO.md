@@ -62,7 +62,7 @@ Paper mat #e2e8f5 with dots #c4cde3 on light oak; cards and screens near-white, 
 
 ## End card
 
-Over the closing wide view, under the title card in the middle of the desk, from 57.0 s: FilmCode × Claude in a light plate at the subtitle position, to the end, over the held final chord. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+Over the closing wide view, under the title card in the middle of the desk, from 57.0 s: FilmCode × CommandCode in a light plate at the subtitle position, to the end, over the held final chord. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

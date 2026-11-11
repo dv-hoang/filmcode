@@ -53,7 +53,7 @@ Exactly the style palette: `#0B0C0E` ground, `#141619` panels, greyscale sources
 
 ## End card
 
-Left-aligned on the ground, held 4.4 s: "", "THE HINDENBURG: FOUR MINUTES, 32 SECONDS", a thin rule, " · Visual Investigation", "FilmCode × Claude", then the source lines (newsreel and sound; photos; documents; map; "unofficial film; photo times, camera positions and the film alignment are our inferences"). Four evidence thumbnails on the right. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+Left-aligned on the ground, held 4.4 s: "", "THE HINDENBURG: FOUR MINUTES, 32 SECONDS", a thin rule, " · Visual Investigation", "FilmCode × CommandCode", then the source lines (newsreel and sound; photos; documents; map; "unofficial film; photo times, camera positions and the film alignment are our inferences"). Four evidence thumbnails on the right. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

@@ -58,7 +58,7 @@ Voice: Kokoro `am_michael`, speed 0.86–0.88, 3–4 very short lines. "Aura." a
 
 ## End card
 
-The title stays; credits (style name, `FilmCode × Claude`) fade in at the bottom over a soft dark gradient while the camera pulls back to make room; fade to black in the last 0.6 s. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+The title stays; credits (style name, `FilmCode × CommandCode`) fade in at the bottom over a soft dark gradient while the camera pulls back to make room; fade to black in the last 0.6 s. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Rights
 

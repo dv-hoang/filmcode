@@ -58,7 +58,7 @@ Camera settings used: azimuth 45° by default, elevation **30°** (build), **33�
 
 ## End card
 
-The night scale-reveal frame, darkened; the same title block (static), hex icon, `LOW-POLY ISLAND · FILMCODE`, `FilmCode × Claude`, credits, laid out so the tiny lit island stays visible in a gap between the text blocks. The "FilmCode × Claude" sign-off (and the FILMCODE line) belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+The night scale-reveal frame, darkened; the same title block (static), hex icon, `LOW-POLY ISLAND · FILMCODE`, `FilmCode × CommandCode`, credits, laid out so the tiny lit island stays visible in a gap between the text blocks. The "FilmCode × CommandCode" sign-off (and the FILMCODE line) belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

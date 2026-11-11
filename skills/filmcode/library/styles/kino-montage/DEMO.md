@@ -58,7 +58,7 @@ Red `#D52B1E`, ink `#141210`, paper `#EDE4D0`; axis −18°, wipe band 72°. Typ
 
 ## End card
 
-Paper ground; "410 " / "410 DAYS"; a red rule; " / CONSTRUCTIVIST MONTAGE"; "FilmCode × Claude"; five credit lines (the film, the photographs, the document, the CC BY rivet recording with author, title and licence, and "Unofficial film from public archives · fonts OFL · samples CC0"); a still of the rider and the returning red girder. Held 4 s. The "FilmCode × Claude" sign-off belongs to this library demo only; a user's film carries no FilmCode credit and no copy of this card.
+Paper ground; "410 " / "410 DAYS"; a red rule; " / CONSTRUCTIVIST MONTAGE"; "FilmCode × CommandCode"; five credit lines (the film, the photographs, the document, the CC BY rivet recording with author, title and licence, and "Unofficial film from public archives · fonts OFL · samples CC0"); a still of the rider and the returning red girder. Held 4 s. The "FilmCode × CommandCode" sign-off belongs to this library demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

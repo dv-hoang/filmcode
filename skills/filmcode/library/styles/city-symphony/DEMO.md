@@ -67,7 +67,7 @@ Warm white `#EDE8DF`, secondary `#B0AAA0`, sodium orange `#D9772F` (rules, sourc
 
 ## End card
 
-Held 4.75 s over the last shot (darkened to 22 %, still moving), left-aligned, in this order: ONE DAY IN NEW YORK (one line) · a sodium rule · TIME-LAPSE SYMPHONY · FilmCode × Claude · footage credits: a header line with both licences (CC BY 3.0 and CC BY 2.0), their links and the changes made, then every CC BY work with author, full title and licence (two to a line), then the public-domain sources. The credit lines are fine print (16 px): they are written in full and legible but are not reported to `readcheck` (title, style name and sign-off are). The "FilmCode × Claude" line belongs to this library demo only; a user's film carries no FilmCode credit and no watermark.
+Held 4.75 s over the last shot (darkened to 22 %, still moving), left-aligned, in this order: ONE DAY IN NEW YORK (one line) · a sodium rule · TIME-LAPSE SYMPHONY · FilmCode × CommandCode · footage credits: a header line with both licences (CC BY 3.0 and CC BY 2.0), their links and the changes made, then every CC BY work with author, full title and licence (two to a line), then the public-domain sources. The credit lines are fine print (16 px): they are written in full and legible but are not reported to `readcheck` (title, style name and sign-off are). The "FilmCode × CommandCode" line belongs to this library demo only; a user's film carries no FilmCode credit and no watermark.
 
 ## Build notes
 

@@ -55,7 +55,7 @@ Film time; dissolves are 0.6 s.
 ## Titles, subtitles & end card
 
 - Subtitles: one Chinese line (Noto Serif SC 500, 40 px) over one English line (Cormorant Garamond 600, 42 px), warm off-white, 64 px from the bottom, on the dark front band, with a faint dark band (`#sub .band`). `demo/tools/subcheck.py` measures the ground under every cue: 98 % or more of the non-text pixels are dark in this film. The last line stays to the end.
-- End card: a paper ticket on a thread drops from above at 47.5 s, overshoots and swings to rest. Main panel: a route line `FROM PINE HALT → TO SEA END`, the title (English largest, then), a rule, the style name / Paper-cut Lightbox, and `FilmCode × Claude` on its own line, with the licence credit for the Salamander piano samples (CC BY 3.0) in fine print under it; notched corners, a punched hole top left, a perforated stub with a red stamp. The sign-off belongs to the library's own demos: a user's film carries no FilmCode credit and no copy of this card.
+- End card: a paper ticket on a thread drops from above at 47.5 s, overshoots and swings to rest. Main panel: a route line `FROM PINE HALT → TO SEA END`, the title (English largest, then), a rule, the style name / Paper-cut Lightbox, and `FilmCode × CommandCode` on its own line, with the licence credit for the Salamander piano samples (CC BY 3.0) in fine print under it; notched corners, a punched hole top left, a perforated stub with a red stamp. The sign-off belongs to the library's own demos: a user's film carries no FilmCode credit and no copy of this card.
 
 ## Pitfalls
 

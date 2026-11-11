@@ -80,9 +80,9 @@ Every shot change is a UI expand / collapse; no fades, no blank frames.
 
 ## End card
 
-**Title card** = the cursor typing the film title in the close-up, with a small mono overline `TIDY · A LAUNCH FILM`. **End card** = the typed tagline plus, left-aligned beneath it: film title, "a launch film for Tidy, a fictional app", style name, `FilmCode`, `FilmCode × Claude`, credits. Then everything fades except the cursor, which blinks twice and goes out.
+**Title card** = the cursor typing the film title in the close-up, with a small mono overline `TIDY · A LAUNCH FILM`. **End card** = the typed tagline plus, left-aligned beneath it: film title, "a launch film for Tidy, a fictional app", style name, `FilmCode`, `FilmCode × CommandCode`, credits. Then everything fades except the cursor, which blinks twice and goes out.
 
-The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Rights
 

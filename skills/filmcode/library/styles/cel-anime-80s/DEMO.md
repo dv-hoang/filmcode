@@ -52,7 +52,7 @@ Voices: an English-dub feel, 8 short lines: the heroine (Kokoro `af_bella`) and 
 
 ## End card
 
-Darkened final dawn background, the title, the style name "80s Cel Anime", "FilmCode × Claude", a one-line originality note and credits. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+Darkened final dawn background, the title, the style name "80s Cel Anime", "FilmCode × CommandCode", a one-line originality note and credits. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 Title card as used: "CITY LIGHTS" in heavy italic chrome with above (Dela Gothic One), a red "1987" and a spaced-out tagline. Subtitles: Barlow Semi Condensed 600, 54 px, cream-yellow `#fff0a0`, 9 px dark outline, 96 px above the bottom; radio lines cyan `#8ff4ff` with a boxed "● BASE" tag; each line up for max(duration + 0.6 s, 1.9 s).
 

@@ -54,7 +54,7 @@ Voice: relaxed American male, Kokoro `am_adam`, speed 0.9–0.95, 5–6 short li
 
 - Subtitles: a green `#0f5e3c` rounded road-sign panel with an inset white keyline, Overpass 600 44 px white, a tiny traffic-light icon lit green on the left, 118 px above the bottom inside the lower blur band.
 - Time-lapse clock top-left (Overpass Mono): `07:12` with small seconds, `×24 TIME-LAPSE` in amber, `×1 REAL TIME` in green.
-- End card: the same road-sign language over the top-down town: the title, the style name and `FilmCode × Claude`. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+- End card: the same road-sign language over the top-down town: the title, the style name and `FilmCode × CommandCode`. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

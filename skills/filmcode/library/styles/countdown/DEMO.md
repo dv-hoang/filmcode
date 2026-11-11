@@ -64,7 +64,7 @@ Sync per camera (source second `s`): broadcast `s = M + 46.8`; rocket camera `s 
 
 Opening package (lower left of the first cell, 0.45–6.8 s): / COUNTING ITSELF DOWN, then · 2026 4 1 · 39B and the English line.
 
-End card (54.0–59.5 s, left-aligned over the rocket camera, the clock and transcript still running): (Noto Sans SC 700, 112 px) / COUNTING ITSELF DOWN; a thin orange rule; LIVE COUNTDOWN SPLIT-SCREEN; FilmCode × Claude; NASA · · / FOOTAGE: NASA · PUBLIC DOMAIN · UNOFFICIAL. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+End card (54.0–59.5 s, left-aligned over the rocket camera, the clock and transcript still running): (Noto Sans SC 700, 112 px) / COUNTING ITSELF DOWN; a thin orange rule; LIVE COUNTDOWN SPLIT-SCREEN; FilmCode × CommandCode; NASA · · / FOOTAGE: NASA · PUBLIC DOMAIN · UNOFFICIAL. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

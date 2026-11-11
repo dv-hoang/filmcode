@@ -33,7 +33,7 @@ Native moves spent: floor type (title, key words, numbers, sign-off); domino sta
 | 11 | 41.6–46.6 | pull out to the apron (0.55 s, the bars already drawing): 6:54 long in ink, 3:36 short in persimmon, each with a small cabin icon; held still 2.5 s, then a dashed bracket marks the time saved | **signature 3**: bars on the ground |
 | 12 | 46.6–51.6 | the bars fade as the camera pans: 72 passengers appear on the concrete in the cabin's own 12 × (3 + 3) layout; 2012 · 72 | people as the sample |
 | 13 | 51.6–56.7 | back in the jammed cabin: the stretch of aisle where everyone waits is lit persimmon; | callback |
-| 14 | 56.7–59.8 | the stand: FilmCode × Claude lands on the concrete and holds | end card |
+| 14 | 56.7–59.8 | the stand: FilmCode × CommandCode lands on the concrete and holds | end card |
 
 ## Narration
 
@@ -69,7 +69,7 @@ Palette as in STYLE.md §3 (paper, concrete, carpet, ink, persimmon accent, subj
 
 ## End card
 
-On the stand, "FilmCode × Claude" lands word by word in the floor-type serif and holds 3 s, fully inside the frame. Under it, in the small floor-type serif, the licence credit for the Salamander piano samples (CC BY 3.0) fades in as the shot opens, so it holds to the end. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+On the stand, "FilmCode × CommandCode" lands word by word in the floor-type serif and holds 3 s, fully inside the frame. Under it, in the small floor-type serif, the licence credit for the Salamander piano samples (CC BY 3.0) fades in as the shot opens, so it holds to the end. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

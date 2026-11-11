@@ -95,7 +95,7 @@ Depth of field (`post.js`): CoC in pixels, max 14, 64-tap golden-angle spiral ga
 
 `drawEnd`, from 123.4 s, over the live desk shot: title in Lilita One 96 px gold (y 170), Chinese title (y 262), italic "The End?" popping in (y 350), then from 127.6 s the sign-off and the asset credits (22 px, y 960/998/1036; the Chinese row uses `'"ZCOOL KuaiLe", Fredoka'`) fade in together; fade to black over the last 1.5 s.
 
-The sign-off **"FilmCode × Claude"** (× = U+00D7) belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card. In the demo it sits centred under "The End?" at y 430: Fredoka 600 36 px, cream `#fffaf0` fill with a 7 px `rgba(30,20,14,.75)` outline (it lies over the cream backdrop page, so the outline is what makes it read), fading in with the asset credits at 127.6 s, never covering the characters.
+The sign-off **"FilmCode × CommandCode"** (× = U+00D7) belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card. In the demo it sits centred under "The End?" at y 430: Fredoka 600 36 px, cream `#fffaf0` fill with a 7 px `rgba(30,20,14,.75)` outline (it lies over the cream backdrop page, so the outline is what makes it read), fading in with the asset credits at 127.6 s, never covering the characters.
 
 ## Pitfalls tied to this demo
 

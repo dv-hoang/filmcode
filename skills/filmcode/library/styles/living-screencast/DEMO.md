@@ -2,12 +2,12 @@
 
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
-Demo: *Clawd Moves In* (59.4 s) · `living-screencast.mp4` · source in [`demo/`](demo/) · Claude Code in the Claude app, with Clawd (the Claude Code pixel mascot) as the protagonist. Unofficial fan film; Anthropic did not make or endorse it.
+Demo: *Clawd Moves In* (59.4 s) · `living-screencast.mp4` · source in [`demo/`](demo/) · CommandCode in its desktop app, with Clawd (the CommandCode pixel mascot) as the protagonist. Unofficial fan film; the CommandCode team did not make or endorse it.
 
 
 ## Story & structure
 
-Clawd, the Claude Code pixel mascot, climbs out of the terminal logo and moves into the Claude app, then acts out four features in four chapters: **01 Just say it** (plain-language prompt with an @-mention, reading files), **02 Plan first** (Plan mode; nothing changes until you say go), **03 Review** (the diff, a line comment, the revision), **04 Checks its own work** (the preview, the dark-mode toggle, parallel sessions). The slogan closes it: "Say it. Plan it. Review it. Ship it." Every interaction matches the official desktop documentation.
+Clawd, the CommandCode pixel mascot, climbs out of the terminal logo and moves into the CommandCode app, then acts out four features in four chapters: **01 Just say it** (plain-language prompt with an @-mention, reading files), **02 Plan first** (Plan mode; nothing changes until you say go), **03 Review** (the diff, a line comment, the revision), **04 Checks its own work** (the preview, the dark-mode toggle, parallel sessions). The slogan closes it: "Say it. Plan it. Review it. Ship it." Every interaction matches the official desktop documentation.
 
 The demo's six rules (spread over STYLE.md §1–§6):
 
@@ -39,8 +39,8 @@ The demo's sprite is an **18×10** grid unfolded 1:1 from the terminal logo's qu
 
 | # | Time | Picture / Clawd | Camera / move |
 |---|---|---|---|
-| 1 | 0:00 | `claude` typed in a terminal; the logo's blocks come alive and Clawd climbs out, leaving a dashed outline | locked on the terminal → match-cut origin |
-| 2 | 0:05 | The Claude app window opens; Clawd lands on the empty-state heading, the title | diegetic title on the downbeat |
+| 1 | 0:00 | `commandcode` typed in a terminal; the logo's blocks come alive and Clawd climbs out, leaving a dashed outline | locked on the terminal → match-cut origin |
+| 2 | 0:05 | The CommandCode app window opens; Clawd lands on the empty-state heading, the title | diegetic title on the downbeat |
 | 3 | 0:09 | **01** typing, @ file popup; Clawd stands on the input box, then rides the sent message | push-in to the caret; moving floor |
 | 4 | 0:14 | Clawd runs along the file tree, read rows highlight | 4× time-lapse tag + rack focus |
 | 5 | 0:19 | **02** ⇧⌘M mode menu; Clawd on top of the menu watches Plan get picked | push-in on the menu |
@@ -75,22 +75,22 @@ Mascot timings in the demo: anticipation crouch 0.14 s with squash 0.28; walk at
 - **Eyes carry the acting:** n / l / r / u / d / wide / happy / shut / blink. They look at what matters: the popup, the cursor, the line being revised.
 - **Arms:** down / up (cheer) / wave. Props sit on the same grid.
 
-Voice: Kokoro `am_michael`, speed 1.0 (other voices read "Claude" as "Clod"). Keep effects off word onsets: a keypress landing on "Start" masks the word.
+Voice: Kokoro `am_michael`, speed 1.0 (other voices read "CommandCode" as "Clod"). Keep effects off word onsets: a keypress landing on "Start" masks the word.
 
 ## Palette & props
 
-The Claude app's light theme (ink `#1F1E1C`, clay `#D97757`, `--clay2` `#BD5D3A` for the stressed slogan word) and its real dark theme after the toggle (ink `#EEEAE2`, clay `#E08565`), all as CSS variables in `demo/index.html`. Clawd in brand clay `#D97757` with `#B85F40` shading and `#2A2622` eyes; pencil yellow `#F2C14E`, heart `#E0543A`, check `#2F9E4F` (`demo/clawd.js`). Fonts: Inter, Newsreader, JetBrains Mono (OFL). The "app under test" is a small tomato-timer project (`~/tomato-timer`); the UI shows the model name as it appeared in the app.
+The CommandCode app's light theme (ink `#1F1E1C`, clay `#D97757`, `--clay2` `#BD5D3A` for the stressed slogan word) and its real dark theme after the toggle (ink `#EEEAE2`, clay `#E08565`), all as CSS variables in `demo/index.html`. Clawd in brand clay `#D97757` with `#B85F40` shading and `#2A2622` eyes; pencil yellow `#F2C14E`, heart `#E0543A`, check `#2F9E4F` (`demo/clawd.js`). Fonts: Inter, Newsreader, JetBrains Mono (OFL). The "app under test" is a small tomato-timer project (`~/tomato-timer`); the UI shows the model name as it appeared in the app.
 
-**Rights.** Unofficial fan film: it uses the official Claude Code mascot and redraws the Claude app's interface closely. The end card says "Unofficial fan film". A user's film should show their own product and mascot, or an original pixel character.
+**Rights.** Unofficial fan film: it uses the official CommandCode mascot and redraws the CommandCode app's interface closely. The end card says "Unofficial fan film". A user's film should show their own product and mascot, or an original pixel character.
 
 ## End card
 
-Clawd hops across "Say it. Plan it. Review it. Ship it." word by word as it is spoken (Newsreader 64 px, the last word in clay italic), then "Claude Code · in the Claude app" and a small credit line (`film.js`, end-card function): "FilmCode × Claude · Unofficial fan film · Voice · Fonts", plus the sample credits (Salamander Grand Piano V3, MuldjordKit, Versilian Studios, Karoryfer). The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card (remove that line when adapting `film.js`).
+Clawd hops across "Say it. Plan it. Review it. Ship it." word by word as it is spoken (Newsreader 64 px, the last word in clay italic), then "CommandCode · in the CommandCode app" and a small credit line (`film.js`, end-card function): "FilmCode × CommandCode · Unofficial fan film · Voice · Fonts", plus the sample credits (Salamander Grand Piano V3, MuldjordKit, Versilian Studios, Karoryfer). The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card (remove that line when adapting `film.js`).
 
 ## Build notes
 
 - `demo/film.js` is the timeline. VO lines are placed at fixed times, and every visual beat hangs off a spoken word (`W(id, word)`). It holds the camera moves, the `Actor` (mascot) segments, the `Cursor`, and the sound events.
-- `demo/ui.js` turns state into HTML for the terminal and the Claude app.
+- `demo/ui.js` turns state into HTML for the terminal and the CommandCode app.
 - `demo/clawd.js` holds the sprite grid, poses and pixel props.
 - `demo/main.js` handles the light and dark layers, DOM anchor measurement, motion blur, and the HUD (captions, keys, pixel wipes, spotlight).
 - `demo/sound.py` builds the score, foley and VO from `events.json`, with ducking.

@@ -84,7 +84,7 @@ Type: Inter Tight 900 titles (150–270 px, −0.02 em), Noto Sans SC 900 second
 
 ## End card
 
-Navy pattern whose rows stop one by one, the yellow umbrella opening on its stage disc, and the type sliding up from 46.5 s, fully in place from about 47.5 s to 50.0 s: LEFT BEHIND, a hairline, PICTOGRAM MOTION, and "FilmCode × Claude". The last narration line runs under it at the bottom until 49.05 s. The sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+Navy pattern whose rows stop one by one, the yellow umbrella opening on its stage disc, and the type sliding up from 46.5 s, fully in place from about 47.5 s to 50.0 s: LEFT BEHIND, a hairline, PICTOGRAM MOTION, and "FilmCode × CommandCode". The last narration line runs under it at the bottom until 49.05 s. The sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build
 

@@ -49,7 +49,7 @@ Place cards (top left): AUSTIN · MARCH 5, 1926; PHOTOPLAY · OCT. 1925; FORD FI
 
 ## End card
 
-50.4–54.6 s, inside a thin double frame: " Knock-Knee Alert" on one line; a thin rule; "1920s · 1920s NEWSREEL"; "FilmCode × Claude"; four lines of source credits (NARA Ford collection, the 1925 record and its UCSB transfer, the three print sources, Natural Earth; "All archive material public domain · An unofficial film"). The "FilmCode × Claude" line belongs to this library demo only; a user's film carries no FilmCode credit and no copy of this card.
+50.4–54.6 s, inside a thin double frame: " Knock-Knee Alert" on one line; a thin rule; "1920s · 1920s NEWSREEL"; "FilmCode × CommandCode"; four lines of source credits (NARA Ford collection, the 1925 record and its UCSB transfer, the three print sources, Natural Earth; "All archive material public domain · An unofficial film"). The "FilmCode × CommandCode" line belongs to this library demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

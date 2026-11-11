@@ -58,7 +58,7 @@ Judgement frames widen 1,768 → 1,945 → 2,361 → 3,205 board px (28 % → 50
 
 ## Title card
 
-A printed card pinned at the bottom right of the wall from the start, seen only in the reveal: "", a red rule, "ENGINEERING / BRIEFING BOARD", "", "FilmCode × Claude". It is part of the final wall (the poster) and is on screen for the last three seconds. A second card, CREDITS, fades in on the empty middle of the wall at 36.9 s as the camera pulls back: the two CC BY photos (BAW, Russ) and the MuldjordKit drums, in mono at a size that reads in the whole-wall frame. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+A printed card pinned at the bottom right of the wall from the start, seen only in the reveal: "", a red rule, "ENGINEERING / BRIEFING BOARD", "", "FilmCode × CommandCode". It is part of the final wall (the poster) and is on screen for the last three seconds. A second card, CREDITS, fades in on the empty middle of the wall at 36.9 s as the camera pulls back: the two CC BY photos (BAW, Russ) and the MuldjordKit drums, in mono at a size that reads in the whole-wall frame. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

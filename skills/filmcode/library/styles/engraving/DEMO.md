@@ -106,7 +106,7 @@ The form is a trio-sonata texture: the grammar of engraving, then colour. Times 
 
 ## End card
 
-The title is part of the plate (engraved, not a separate card). End card: a translucent tissue guard falls over the plate; on it, engraved: film title, style name, `FILMCODE`, `FilmCode × Claude`, three credit lines. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+The title is part of the plate (engraved, not a separate card). End card: a translucent tissue guard falls over the plate; on it, engraved: film title, style name, `FILMCODE`, `FilmCode × CommandCode`, three credit lines. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

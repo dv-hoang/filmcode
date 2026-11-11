@@ -78,7 +78,7 @@ Landmarks are stylised silhouettes, built from paths in `engine/scenes.js`, not 
 
 ## End card
 
-At 46.2 s a wider ticket (560×600) is pulled over the right side of the night print, then its type: THE LONG WAY HOME, SILKSCREEN TRAVEL POSTER / and `FilmCode × Claude`. It holds to the end (3 s). The sign-off belongs to this library's demo only; a user's film carries no FilmCode credit.
+At 46.2 s a wider ticket (560×600) is pulled over the right side of the night print, then its type: THE LONG WAY HOME, SILKSCREEN TRAVEL POSTER / and `FilmCode × CommandCode`. It holds to the end (3 s). The sign-off belongs to this library's demo only; a user's film carries no FilmCode credit.
 
 ## Build
 

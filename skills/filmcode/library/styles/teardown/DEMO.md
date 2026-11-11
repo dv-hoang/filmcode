@@ -58,7 +58,7 @@ Mix (`demo/mix.py`): voice compressed and about 8–10 dB over the music while i
 
 ## End card
 
- (Noto Sans SC 500), *21 Keys, Opened* (Inter Light), ` · EXPLODED TEARDOWN`, `CADfoostan/crkbd · CC BY 4.0`, `FilmCode × Claude`, an orange rule; the closed keyboard drifting on the right. 5 s. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+ (Noto Sans SC 500), *21 Keys, Opened* (Inter Light), ` · EXPLODED TEARDOWN`, `CADfoostan/crkbd · CC BY 4.0`, `FilmCode × CommandCode`, an orange rule; the closed keyboard drifting on the right. 5 s. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

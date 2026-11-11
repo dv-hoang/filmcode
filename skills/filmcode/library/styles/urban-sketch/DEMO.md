@@ -75,7 +75,7 @@ No subtitles are needed. All text is **handwriting on the page**, written on wit
 
 The text stays in the world and moves with the camera, never as an overlay.
 
-End card (`demo/film.js`, `notes()`): the title "Where the wind went." written in Caveat 500 at 190 px in the lower-left margin, about 120 px in from the edge (28.2–29.5 s), then the colophon in the same column: "Urban Sketch · Pen & Wash — a FilmCode style" (29.6–30.2 s), "FilmCode × Claude" in Caveat 600 (29.9–30.4 s), and the music, sample and font credits (30.2–30.9 s). The picture runs 1 s past the score (33.4 s) so the last line holds 2.5 s. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card (take those `handwrite()` lines out when reusing the code).
+End card (`demo/film.js`, `notes()`): the title "Where the wind went." written in Caveat 500 at 190 px in the lower-left margin, about 120 px in from the edge (28.2–29.5 s), then the colophon in the same column: "Urban Sketch · Pen & Wash — a FilmCode style" (29.6–30.2 s), "FilmCode × CommandCode" in Caveat 600 (29.9–30.4 s), and the music, sample and font credits (30.2–30.9 s). The picture runs 1 s past the score (33.4 s) so the last line holds 2.5 s. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card (take those `handwrite()` lines out when reusing the code).
 
 ## Build notes
 

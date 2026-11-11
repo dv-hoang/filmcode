@@ -66,7 +66,7 @@ Adapting any topic: find the object that escapes, the person it should end up wi
 
 - The intertitles *are* the subtitles; the `.srt` lists their text. Each card holds 2.5–3.75 s.
 - Title: THE RUNAWAY LOAF / *a photoplay in one reel*.
-- End card (tender border): The End · title and style name · FILMCODE · FilmCode × Claude · asset credits; the curtains close over it. The FilmCode sign-off belongs to this library's demo only: a user's film carries no FilmCode credit and no copy of this card.
+- End card (tender border): The End · title and style name · FILMCODE · FilmCode × CommandCode · asset credits; the curtains close over it. The FilmCode sign-off belongs to this library's demo only: a user's film carries no FilmCode credit and no copy of this card.
 
 ## Pitfalls
 

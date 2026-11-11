@@ -62,7 +62,7 @@ Mix (in `mix.py`): stems set against the voice by active RMS (music −11 dB, pu
 
 ## End card
 
-The camera climbs back until the glass fills the frame; on its empty cover glass, in ink: (Noto Serif SC 600), *Measured Blue*, a rule drawn left to right, `MICROSCOPE STORY · `, `FilmCode × Claude`, `Ventana-1 · PathAI · CC0`; the tissue fleck sits to the right. 4.2 s. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+The camera climbs back until the glass fills the frame; on its empty cover glass, in ink: (Noto Serif SC 600), *Measured Blue*, a rule drawn left to right, `MICROSCOPE STORY · `, `FilmCode × CommandCode`, `Ventana-1 · PathAI · CC0`; the tissue fleck sits to the right. 4.2 s. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

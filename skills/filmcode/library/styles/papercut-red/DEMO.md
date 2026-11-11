@@ -85,7 +85,7 @@ Whisper hears "Nian" as "Nyan"/"Nion", the correct pronunciation of nián, so it
 
 ## End card
 
-Couplet strips slide in beside the window, a red banner with cream cut letters "RED PAPER-CUT" drops in above, gold-foil flecks, and the credit line "FilmCode × Claude" below in ink. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+Couplet strips slide in beside the window, a red banner with cream cut letters "RED PAPER-CUT" drops in above, gold-foil flecks, and the credit line "FilmCode × CommandCode" below in ink. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 Title and subtitles as built: cut letters in Fraunces 800 on rice paper with sawtooth border strips, a red seal with the character cut as a hole, an italic subline. Subtitle banner `#a8111f`, gold flecks, Fraunces SemiBold 44 px in cream `#fff1d6`, centred 70 px from the bottom, hold ≥ voice + 0.7 s and ≥ 1.8 s.
 

@@ -58,7 +58,7 @@ Slate #0f1c15 with slow mottling; white chalk, orange chalk (the bow, the, the a
 
 ## End card
 
-The front panel slides back over the rewritten board; on the clean right panel / The Story of Chinese Characters and "FilmCode × Claude" are written in chalk and held about 3.5 s. The licence credit for the chalk recording (Work With Sounds, CC BY 4.0) is already on that panel in small chalk when it slides back: its strokes are dated before the film starts, so they draw whole and add no chalk sound. The sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+The front panel slides back over the rewritten board; on the clean right panel / The Story of Chinese Characters and "FilmCode × CommandCode" are written in chalk and held about 3.5 s. The licence credit for the chalk recording (Work With Sounds, CC BY 4.0) is already on that panel in small chalk when it slides back: its strokes are dated before the film starts, so they draw whole and add no chalk sound. The sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

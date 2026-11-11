@@ -66,7 +66,7 @@ Mix (in `mix.py`): stem gains frozen (music 10 dB under the voice while it speak
 
 ## End card
 
-The lock brackets open from the North Aral into a frame on the left: (Noto Serif SC, the map's voice), *The Map Still Says Sea*, a rule, `SATELLITE BRIEFING · `, `FilmCode × Claude`, over the dimmed Earth turning; a last satellite pass sweeps down behind it. 3.6 s. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+The lock brackets open from the North Aral into a frame on the left: (Noto Serif SC, the map's voice), *The Map Still Says Sea*, a rule, `SATELLITE BRIEFING · `, `FilmCode × CommandCode`, over the dimmed Earth turning; a last satellite pass sweeps down behind it. 3.6 s. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

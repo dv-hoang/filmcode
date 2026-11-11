@@ -58,7 +58,7 @@ Mix (`demo/mix.py`): stems set against the voice's active RMS (music −10.9 dB,
 
 ## End card
 
-Left third over the turning dial: (Noto Serif SC), *Two Spirals*, a rule, `DATA PHYSICALIZATION · `, `FilmCode × Claude`; above it the accent line with its leader to the puck; the data source stays in the top-right corner from the crane on. 4.6 s. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+Left third over the turning dial: (Noto Serif SC), *Two Spirals*, a rule, `DATA PHYSICALIZATION · `, `FilmCode × CommandCode`; above it the accent line with its leader to the puck; the data source stays in the top-right corner from the crane on. 4.6 s. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

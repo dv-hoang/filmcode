@@ -58,7 +58,7 @@ No camera travel anywhere in the demo: a frontal, symmetrical proscenium through
 | Candy primaries | `yellow #FFD23F`, `orange #FF8C42`, `red #FF5A5F`, `pink #FF8FB1`, `green #5BD68A`, `lime #C6F16D`, `sky #8ED1FC`, `blue #4D7CFE` |
 | Deep sets | `purple #6B4FBB` / `purpleD #46318F`, `teal #3FB8AF` / `tealD #2B8F88`, `navy #26264A` (ending) |
 | Props | `wood #C98A52` / `woodD #8E5530`, `gray #C3CAD9`, `chalk #2F5D50`, `skin #FFD1A8` |
-| Character hues | `gpt #19B388`, `claude #D97757`, `gem1 #4E7CF6` / `gem2 #9B6CF0`, `llama #F4E9D8`, `seek #5A78E8`, `dblue #2B59C3` |
+| Character hues | `gpt #19B388`, `commandcode #D97757`, `gem1 #4E7CF6` / `gem2 #9B6CF0`, `llama #F4E9D8`, `seek #5A78E8`, `dblue #2B59C3` |
 
 Sets use `stripes()` (diagonal bands, often slowly scrolling), `dots()` (offset polka dots at 18–25 % white) or `raysEl()` (a rotating sunburst). Floor band at y = 860–900 with an 8 px ink line on top.
 
@@ -78,13 +78,13 @@ Motion numbers: `hopY(t, h)` h 8–30 px; `hitSq` 30 rad/s for 0.35 s; downbeat 
 
 ## End card
 
-The demo's last card carries **"FilmCode × Claude"** (× is U+00D7). It is the first line of the credit card that pops in at bar 90 (144.0 s): a cream 1440×360 card (r 40, 8 px ink outline, −1.5° tilt, back-ease pop over 0.3 s) with three centred lines: `FilmCode × Claude` in Fredoka 700 66 px ink (y −80), ` Claude ` in Noto Sans SC 900 60 px (y 30), `……` 50 px in `K.claude` (y 118). It holds 4 s and fades to navy with the film. Code: the `credit` block in the ending scene of `main_b.js`. This sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card (take the `credit` block out when reusing the code).
+The demo's last card carries **"FilmCode × CommandCode"** (× is U+00D7). It is the first line of the credit card that pops in at bar 90 (144.0 s): a cream 1440×360 card (r 40, 8 px ink outline, −1.5° tilt, back-ease pop over 0.3 s) with three centred lines: `FilmCode × CommandCode` in Fredoka 700 66 px ink (y −80), ` CommandCode ` in Noto Sans SC 900 60 px (y 30), `……` 50 px in `K.commandcode` (y 118). It holds 4 s and fades to navy with the film. Code: the `credit` block in the ending scene of `main_b.js`. This sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card (take the `credit` block out when reusing the code).
 
 ## Rights & facts
 
 - **Facts are sourced in `demo/FACTS.md`**: every claim on screen and in the shouts, with the source's own words and a verdict (checked 2026-11-07). Where the record is thin, the film says less: the chess shout is "Game over." (Game 6 of 1997 ended in resignation, not mate); the 9.11 desks are generic bots (no record says which models answered 9.11); the price tags are labelled as output prices per 1M tokens; the 2026 bar chart is Gemini 3.1 Pro's ARC-AGI-2 score from Google DeepMind's own model page; the WAIC disc is the fair's own "300+ world premieres".
 - **Facts date fast.** The 2026 remix (Sonnet 5 as default, WAIC 2026, DeepSeek V4-Pro, GPT-6 Astra, Gemini versions) states them as current news. Re-check every figure and name before reusing any of it.
-- **Real brands:** the contestants stand for real AI products (GPT, Claude, Gemini, DeepSeek, Kimi, Grok, Midjourney…): names only on name tags, original mascots, loose colour nods; never official logos, wordmarks or product UI (DeepSeek is a blue bean with a magnifier, not the company's whale). Real people (Kasparov, Lee Sedol, the KEN / BRAD podiums) appear only as generic cartoon stand-ins in factual banners; the quiz machine is a generic screen-faced bot, not IBM's Watson avatar. Ken Jennings's real 2011 line "I for one welcome our new computer overlords" (itself a *Simpsons* quote) is on his sign, in Chinese.
+- **Real brands:** the contestants stand for real AI products (GPT, CommandCode, Gemini, DeepSeek, Kimi, Grok, Midjourney…): names only on name tags, original mascots, loose colour nods; never official logos, wordmarks or product UI (DeepSeek is a blue bean with a magnifier, not the company's whale). Real people (Kasparov, Lee Sedol, the KEN / BRAD podiums) appear only as generic cartoon stand-ins in factual banners; the quiz machine is a generic screen-faced bot, not IBM's Watson avatar. Ken Jennings's real 2011 line "I for one welcome our new computer overlords" (itself a *Simpsons* quote) is on his sign, in Chinese.
 - **Genre, not a game.** The film borrows the grammar of rhythm-action party games (call-and-response cues, "Perfect!" judgements, a remix level) and names no game: the G7 task note says "", and the report card's grade is "Encore!".
 
 ## Switching the text to English
@@ -162,7 +162,7 @@ All commands from `styles/game-show/demo/` (the scripts also `chdir` there thems
 | | `robotDB/robotAG/robotT(p)` · `quad(u, v)` · `pawn(p, col, king)` | era robots, perspective board |
 | main_b | `bean(p, {color, belly, antenna, name, kind, eyeFill, acc, ant, tagCol})` | a contestant; `kind` bot/llama; `acc` noise/mask/beret/captain/mustache; `ant` lens/q/bolt/moon/heart/cloud/sprout/brush |
 | | `pose(c, {hey 0..1, open, sq, lean, face 'x'/'up', blink, armsL, armsR})` · `poseAny(c, o)` | pose any bean or twins |
-| | `CAST.<key>(p, name?)` · `ALL` | 16 ready contestants (gpt, claude, gemini, llama, deepseek, ernie, qwen, mistral, kimi, grok, bert, dalle, mj, sd, sora, baby) |
+| | `CAST.<key>(p, name?)` · `ALL` | 16 ready contestants (gpt, commandcode, gemini, llama, deepseek, ernie, qwen, mistral, kimi, grok, bert, dalle, mj, sd, sora, baby) |
 | | `human(p, shirt, glasses, hair)` + `humanFace(h, open, sweat)` + `setArm(arm, x1, y1, x2, y2)` | cartoon humans |
 | | `podium(p, col, label)` · `taskIcon(p, kind)` · `smallBot(p, col)` | props |
 | | `dropY(t, t0, y, h, d)` · `heyAt(times, t, w)` · `nearestIn(times, t)` | entrances, "Hey!" windows |
@@ -179,7 +179,7 @@ All commands from `styles/game-show/demo/` (the scripts also `chdir` there thems
  scene(T(0), T(8), (g, s) => {
  bg(g, '#FFB870'); stripes(g, '#FFA85A', 50, -20);
  el('rect', { x: 0, y: 880, width: 1920, height: 200, fill: '#E08A4A' }, g);
- const w = el('g', {}, g); const c = CAST.claude(w);
+ const w = el('g', {}, g); const c = CAST.commandcode(w);
  const calls = [T(0, 0), T(0, 1), T(1, 0), T(1, 1)], answers = [T(0, 2), T(0, 3), T(1, 2), T(1, 3)];
  calls.forEach(t0 => { ev(t0, 'v:hey'); punch(t0, 0.015); });
  answers.forEach(t0 => { ev(t0, 'pop', { f: 900 }); s.fx.push(burst(g, 960, 420, t0, K.yellow, 0.8)); });

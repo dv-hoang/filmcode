@@ -60,7 +60,7 @@ Mix (`audio.py`): music × 0.9 under the effects; 38 Hz high-pass and a −5 dB 
 
 ## End card
 
-In the sheet's lower-right corner, inked at the end: a red line runs to a terminus ring; 6 / 6 Kilometres; / Transit Map; FilmCode × Claude; / Unofficial fan film, not affiliated with the operator. 3.0 s. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+In the sheet's lower-right corner, inked at the end: a red line runs to a terminus ring; 6 / 6 Kilometres; / Transit Map; FilmCode × CommandCode; / Unofficial fan film, not affiliated with the operator. 3.0 s. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 Two places where this demo is narrower than STYLE.md §4: its title 6 is printed only on this end card (the north-west cartouche names the network, / Shanghai Metro), and its last shot is this corner of the sheet after the veiled network. A new film prints its title on the map at the start and closes on the whole network, with its end title printed in a margin of that view. The demo's data and its sources are the model for `FACTS.md` (STYLE.md §11): every on-screen figure with its quoted source, plus the figures checked and not used.
 

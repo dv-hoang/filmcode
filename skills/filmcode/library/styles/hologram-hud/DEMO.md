@@ -56,7 +56,7 @@ Motion numbers: the target box starts at 1.9× the rest-pose bounding box, at 30
 
 ## End card
 
-After the lockup: film title, SCI-FI HOLOGRAM HUD, FilmCode, FilmCode × Claude and credits, each line rolling in. The FilmCode sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+After the lockup: film title, SCI-FI HOLOGRAM HUD, FilmCode, FilmCode × CommandCode and credits, each line rolling in. The FilmCode sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

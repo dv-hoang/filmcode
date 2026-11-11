@@ -62,7 +62,7 @@ Voice: an old radio announcer calling the action like a horse race (Kokoro `bm_l
 
 ## End card
 
-Same sunburst, a wavy-edged sign with "The End", the style name, `FilmCode × Claude`, small credit lines at the bottom; it opens with an iris from black. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+Same sunburst, a wavy-edged sign with "The End", the style name, `FilmCode × CommandCode`, small credit lines at the bottom; it opens with an iris from black. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

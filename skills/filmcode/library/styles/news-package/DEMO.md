@@ -101,11 +101,11 @@ From 47.5 s, held six seconds:
 2. " AI " (120 px), then "The Week in AI" (lemon italic).
 3. A thin rule.
 4. "FILMCODE AI NEWS · BROADCAST NEWS PACKAGE".
-5. "FilmCode × Claude".
+5. "FilmCode × CommandCode".
 6. The large plate and wordmark on the right.
 7. Six lines: news sources; data and speech sources; CC0 samples and public-domain map data; OFL fonts; the Doubao voice; the two AI-generated plates.
 
-There is no CC BY material in this film. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card. No mascot, no watermark.
+There is no CC BY material in this film. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card. No mascot, no watermark.
 
 ## Build notes
 

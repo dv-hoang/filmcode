@@ -93,7 +93,7 @@ Voice: calm male storyteller, first person, 5 short lines (Kokoro `am_adam`, spe
 
 ## End card
 
-The whole scroll across the middle on dark indigo `#161a22`; title above, `UKIYO-E · a FilmCode demo · FilmCode × Claude` below, one seal (drawn `source-over`, not multiply, on the dark background). The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+The whole scroll across the middle on dark indigo `#161a22`; title above, `UKIYO-E · a FilmCode demo · FilmCode × CommandCode` below, one seal (drawn `source-over`, not multiply, on the dark background). The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

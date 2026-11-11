@@ -34,7 +34,7 @@ Users may name a style in English or by its folder. Find it here, then read `sty
 | Style | Folder | Our demo |
 |---|---|---|
 | Crayon Picture Book | [`crayon-book`](crayon-book/STYLE.md) | *The Moon Can't Sleep* |
-| Watercolor Brush | [`watercolor`](watercolor/STYLE.md) | *Follow the Rain* |
+| Watercolor Brush | [`watercolor`](watercolor/STYLE.md) | *Alborada* · [watch](watercolor/watercolor.mp4) |
 | Chinese Ink Wash | [`ink-wash`](ink-wash/STYLE.md) | *The Swordsman and the River* |
 | Impasto Oil Painting | [`impasto`](impasto/STYLE.md) | *The Colour of Rain* |
 | One-line Drawing | [`one-line`](one-line/STYLE.md) | *The Line That Never Lifted* |

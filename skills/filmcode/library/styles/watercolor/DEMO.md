@@ -2,10 +2,12 @@
 
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
-Demo: *Follow the Rain* (113.6 s, 1920×1080, 60 fps) · `watercolor.mp4` · source in [`demo/`](demo/) · engine: Canvas2D stroke engine (`engine.js` `mk`/`drawS`, variable-width ribbon + dashed bristle tracks), procedural plant generators, per-plant sprite cache, headless Chrome frame capture.
+Demo: *Alborada* (45.0 s, 1920x1080, 30 fps, stereo sound) · [watercolor.mp4](watercolor.mp4) · poster [poster.jpg](poster.jpg) · engine: Canvas2D stroke engine (`engine.js` `mk`/`drawS`, variable-width ribbon + dashed bristle tracks), procedural plant generators, per-plant sprite cache, headless Chrome frame capture.
 
 
-The demo is a naturalist's field journal: one long sideways walk through the Australian landscape along a rainfall gradient, hand-written notes and a quiet rainfall gauge, then a pull-out to a painted map that moves through deep time.
+> The bundled video is *Alborada*; the breakdown below documents the original reference demo and its technique notes.
+
+The reference demo is a naturalist's field journal: one long sideways walk through the Australian landscape along a rainfall gradient, hand-written notes and a quiet rainfall gauge, then a pull-out to a painted map that moves through deep time.
 
 ## Story & structure
 
@@ -88,7 +90,7 @@ Plant colour sets live in `plants.js` `COL` (straw, mulga, salt, gum, gold, ash,
 - **Burned-in, bilingual**, centred at the bottom: English italic Cormorant Garamond 36 px (auto-wrapped to 2 balanced lines at 1400 px, baseline 1000 or 962/1000) + Chinese Noto Serif SC 24 px at 1042, `INK` at 78 %, both over an 18 px paper-coloured shadow halo, drawn twice for density. Visible from `start − .15` to `start + dur + .45` with 0.25/0.35 s fades. The same table (`VO` in `scene.js`) drives the mix and `watercolor.srt`.
 - **Biome card** (top-left): a short painted colour swatch, `01 / 05` mono, name in Cormorant 52 px, italic subtitle. **Gauge** (top-right): `ANNUAL RAINFALL`, value in Cormorant 54 px (`< 250 mm`, `≈ 1,600 mm`), a log-scale bar 100–4,000 mm with a blue drop marker.
 - **Title**: "Follow the Rain" italic Cormorant 124 px wiped in, then the spaced caps subtitle and the Chinese line.
-- **End card**: title block over the faded map + credits in IBM Plex Mono 15 px (music with licence, voice, coastline source, "rainfall bands are schematic"), and under them the sign-off **"FilmCode × Claude"** in italic Cormorant Garamond 30 px, `INK` 85 %, centred at y 1010, fading in with the credits (105–106.2 s) — a serif italic line so it reads as the film's signature, not another asset credit. Keep it clear of the map (Tasmania sits at y ≈ 845–915). This sign-off belongs to this library's demo only: a user's film carries no FilmCode credit and no copy of this end card.
+- **End card**: title block over the faded map + credits in IBM Plex Mono 15 px (music with licence, voice, coastline source, "rainfall bands are schematic"), and under them the sign-off **"FilmCode × CommandCode"** in italic Cormorant Garamond 30 px, `INK` 85 %, centred at y 1010, fading in with the credits (105–106.2 s) — a serif italic line so it reads as the film's signature, not another asset credit. Keep it clear of the map (Tasmania sits at y ≈ 845–915). This sign-off belongs to this library's demo only: a user's film carries no FilmCode credit and no copy of this end card.
 
 ## Pitfalls
 

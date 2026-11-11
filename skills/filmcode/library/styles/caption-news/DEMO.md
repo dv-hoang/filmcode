@@ -59,7 +59,7 @@ Times in seconds; every cut on the 120 BPM half-beat grid.
 
 ## End card
 
-From 54.5 s, held five seconds over the blurred, darkened hive entrance: "" (150 px), "The Bee Ledger" (honey), a thin rule, "CAPTION NEWS · ", "FilmCode × Claude", then five lines of sources: the data (USDA NASS report, its scope, and that 2025 losses and additions are four quarters summed), every CC BY work with title, author and licence, and the public-domain sources. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+From 54.5 s, held five seconds over the blurred, darkened hive entrance: "" (150 px), "The Bee Ledger" (honey), a thin rule, "CAPTION NEWS · ", "FilmCode × CommandCode", then five lines of sources: the data (USDA NASS report, its scope, and that 2025 losses and additions are four quarters summed), every CC BY work with title, author and licence, and the public-domain sources. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 

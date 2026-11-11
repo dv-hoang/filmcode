@@ -54,7 +54,7 @@ Name a style, or describe your topic and let the agent suggest two or three. It 
 
 - **Node 20+, ffmpeg 7+ and Python 3.11+** (or [uv](https://docs.astral.sh/uv/)). The agent reports anything missing; install system tools yourself. Ubuntu 24.04's ffmpeg 6.1 is too old: use a static build.
 - A film takes an agent a while and a fair amount of tokens. Default output is 1920x1080 at 24 fps.
-- The styles were tuned for Claude, the model that made the original demo films. Other models may not reproduce them as closely.
+- The styles were tuned for the model that made the original demo films. Other models may not reproduce them as closely.
 
 ## What happens on first use
 
@@ -86,7 +86,7 @@ skills/filmcode/
     ├── DIRECTOR.md       # how to direct
     ├── TECHNIQUE.md      # how to build, voice, score, mix
     ├── MY-STYLES.md      # change a style or make your own
-    ├── styles/<slug>/    # 66 x STYLE.md (+ DEMO.md)
+    ├── styles/<slug>/    # 66 x STYLE.md (+ DEMO.md; Watercolor also ships demo.mp4 + poster.jpg)
     ├── core/             # renderer, TTS, speech check, audio, fonts
     └── tools/            # setup.sh, fetch.sh, asset manifest
 ```
@@ -95,8 +95,8 @@ Your saved styles live in `~/filmcode-my-styles/<name>/`, outside the installed 
 
 ## What differs from the original edition
 
-- Installed with `cmd skills add` and invoked as `/skill:filmcode` instead of a Claude plugin marketplace.
-- `${COMMANDCODE_SKILL_DIR}` replaces the Claude skill-base placeholder.
+- Installed with `cmd skills add` and invoked as `/skill:filmcode` instead of a plugin marketplace.
+- `${COMMANDCODE_SKILL_DIR}` replaces the skill-base placeholder.
 - `AskUserQuestion` is mapped to `ask_user_question` (max 4 questions per call, 2-4 options, labels 1-5 words, explanation in `description`); free-text replies are always offered.
 - Commands run through `shell_command`; long installs and renders use background tasks.
 - The library is vendored, so a missing network or upstream repository change cannot break the skill.
@@ -114,4 +114,4 @@ The vendored library re-copies itself when its `.edition` stamp changes; package
 
 ## Licence and credit
 
-MIT. Based on an MIT-licensed open-source film-style library. Its demo films were made with Claude. The upstream demo films and stills are CC BY 4.0 and are not included here. Fonts in `core/fonts/` are OFL; sample libraries and HDRIs keep their own licences (`core/audio/INSTRUMENTS.md`, `core/assets/polyhaven/SOURCES.md`). Films you make are yours.
+MIT. Based on an MIT-licensed open-source film-style library. The upstream demo films and stills are CC BY 4.0 and are not included here. Fonts in `core/fonts/` are OFL; sample libraries and HDRIs keep their own licences (`core/audio/INSTRUMENTS.md`, `core/assets/polyhaven/SOURCES.md`). Films you make are yours.

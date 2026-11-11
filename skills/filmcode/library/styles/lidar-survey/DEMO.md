@@ -61,7 +61,7 @@ Mix (in `mix.py`): music −10 dB under the voice and ducked ~5 dB while it spea
 
 ## End card
 
-Left third over the dimmed field system while the canopy regrows: (Noto Sans SC 500), *The Fields Under the Forest*, a short amber rule, `LIDAR SURVEY · `, `FilmCode × Claude`. 4.1 s. The "FilmCode × Claude" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
+Left third over the dimmed field system while the canopy regrows: (Noto Sans SC 500), *The Fields Under the Forest*, a short amber rule, `LIDAR SURVEY · `, `FilmCode × CommandCode`. 4.1 s. The "FilmCode × CommandCode" sign-off belongs to this library's demo only; a user's film carries no FilmCode credit and no copy of this card.
 
 ## Build notes
 
