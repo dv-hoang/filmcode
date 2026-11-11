@@ -104,7 +104,7 @@ Master −14 LUFS, true peak −1.2 dB (`core/render/mux.sh`). Samples: VSCO 2 C
 9. **City sends the letters** — on a map long take, documents fly out of the sending city to their addressees; one world→screen function keeps labels and documents attached through push and pan.
 10. **Quote card + verdict stamp** — the official's own words in type, with name, occasion and date; an underline on the key word as the voice says it; one stamp.
 
-Where each move lives in the demo's code: [DEMO.md](DEMO.md) (build notes).
+Where each move lives in the demo's code: [DEMO.md](../../../../../demo/news-package/DEMO.md) (build notes).
 
 ## 10. Material
 
@@ -153,4 +153,4 @@ Decide per film: the channel's name, plate and accent colour; how many items (on
 
 ---
 
-How our demo was made (story, shots, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build): [DEMO.md](../../../../../demo/news-package/DEMO.md). Read it after your treatment exists.

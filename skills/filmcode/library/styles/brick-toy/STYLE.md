@@ -109,4 +109,4 @@ You decide the structure, the characters (or none), the surface and its props, t
 
 ---
 
-How our demo was made (story, shots, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build): [DEMO.md](../../../../../demo/brick-toy/DEMO.md). Read it after your treatment exists.

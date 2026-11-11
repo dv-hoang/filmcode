@@ -75,9 +75,20 @@ Asset packs (voice model, instruments, HDRIs, textures) download from this repos
 
 Chinese narration uses offline Kokoro by default. edge-tts sounds better but sends the narration text to Microsoft's speech service; the agent asks first and uses it only if you agree.
 
+## Demo video
+
+GitHub does not play MP4 files in the repository file view. `demo/index.html` is a small player page: enable GitHub Pages (Settings → Pages → Deploy from a branch → `main` / root) and open `https://dv-hoang.github.io/filmcode/demo/`.
+
+The player streams the Watercolor demo from Supabase; no video is stored in the repository.
+
 ## Layout
 
 ```
+demo/
+├── index.html            # browser player (GitHub Pages)
+├── watercolor/           # DEMO.md + poster.jpg + source/
+└── <style>/DEMO.md       # demo notes for every other style
+
 skills/filmcode/
 ├── SKILL.md              # Command Code entry point
 ├── scripts/setup.sh      # copies the vendored library out, installs packages
@@ -86,7 +97,7 @@ skills/filmcode/
     ├── DIRECTOR.md       # how to direct
     ├── TECHNIQUE.md      # how to build, voice, score, mix
     ├── MY-STYLES.md      # change a style or make your own
-    ├── styles/<slug>/    # 66 x STYLE.md (+ DEMO.md; Watercolor also ships demo.mp4 + poster.jpg)
+    ├── styles/<slug>/    # 66 x STYLE.md
     ├── core/             # renderer, TTS, speech check, audio, fonts
     └── tools/            # setup.sh, fetch.sh, asset manifest
 ```

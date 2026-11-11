@@ -111,7 +111,7 @@ Each serves information order. A menu: use the ones your film needs.
 
 ## 10. Engine
 
-`demo/engine/silk.js` prints **any shape** in this style from a `Path2D`: `makeTextures`, `paperSheet`, `ink(ctx, {path, knock, paint}, {color, reg, clip, sheen, trap})`, `wipeRegion`/`wipeFront` (ragged pull), `squeegee` (blade, beads, split fountain), `screenFrame`, `inkFinish`, `bandSteps` (the gradient substitute), shape helpers. `demo/engine/poster.js` (full-bleed print with partial pulls and loose layers, ticket stub, end card, `pickInk` contrast), `demo/engine/scenes.js` (places as ink parts in print order, any print size), `demo/film.js` (timeline, cameras, sweeps). API table and a minimal example that prints a new shape: [DEMO.md](DEMO.md#engine-reference).
+`demo/engine/silk.js` prints **any shape** in this style from a `Path2D`: `makeTextures`, `paperSheet`, `ink(ctx, {path, knock, paint}, {color, reg, clip, sheen, trap})`, `wipeRegion`/`wipeFront` (ragged pull), `squeegee` (blade, beads, split fountain), `screenFrame`, `inkFinish`, `bandSteps` (the gradient substitute), shape helpers. `demo/engine/poster.js` (full-bleed print with partial pulls and loose layers, ticket stub, end card, `pickInk` contrast), `demo/engine/scenes.js` (places as ink parts in print order, any print size), `demo/film.js` (timeline, cameras, sweeps). API table and a minimal example that prints a new shape: [DEMO.md](../../../../../demo/silkscreen-poster/DEMO.md#engine-reference).
 
 ## 11. Variation space
 
@@ -135,4 +135,4 @@ A new place is a new scene in `demo/engine/scenes.js`; reusing the demo's places
 
 ---
 
-How our demo was made (story, shots, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build): [DEMO.md](../../../../../demo/silkscreen-poster/DEMO.md). Read it after your treatment exists.

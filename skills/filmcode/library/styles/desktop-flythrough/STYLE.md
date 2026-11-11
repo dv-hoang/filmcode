@@ -142,4 +142,4 @@ The agent decides for each film: which apps or tools the cards are and how they 
 
 ---
 
-How our demo was made (story, shots, voice, score, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, voice, score, build): [DEMO.md](../../../../../demo/desktop-flythrough/DEMO.md). Read it after your treatment exists.

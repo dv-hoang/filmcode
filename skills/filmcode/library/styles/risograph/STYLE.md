@@ -120,4 +120,4 @@ You decide the inks and what each plate means, the structure, characters (or non
 
 ---
 
-How our demo was made (story, shots, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build): [DEMO.md](../../../../../demo/risograph/DEMO.md). Read it after your treatment exists.

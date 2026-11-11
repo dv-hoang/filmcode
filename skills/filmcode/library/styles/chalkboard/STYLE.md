@@ -150,4 +150,4 @@ The agent decides the topic, the board layout, the number of panels, the tracked
 
 ---
 
-How our demo was made (story, shots, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build): [DEMO.md](../../../../../demo/chalkboard/DEMO.md). Read it after your treatment exists.

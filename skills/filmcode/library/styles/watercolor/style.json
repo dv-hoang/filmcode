@@ -12,6 +12,6 @@
  ],
  "frame_sec": 24.0,
  "dur": 45.0,
- "demo": "watercolor.mp4",
- "poster": "poster.jpg"
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/watercolor.mp4",
+ "poster": "../../../../../demo/watercolor/poster.jpg"
 }

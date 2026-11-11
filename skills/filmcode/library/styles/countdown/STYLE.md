@@ -127,4 +127,4 @@ The agent decides per film: the event, where real time starts and ends, the numb
 
 ---
 
-How our demo was made (story, layouts, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, layouts, score, end card, build): [DEMO.md](../../../../../demo/countdown/DEMO.md). Read it after your treatment exists.

@@ -106,7 +106,7 @@ A menu: use the ones your story needs.
 
 ## 10. Engine
 
-`demo/engine.js` (Canvas 2D, world units = chart pixels at zoom 1) is the style: paper, camera, value ramps, `pencilStroke` (any polyline in pencil), `inkShape` (any closed shape: bars, areas, map shapes), `plotShape`, `handText`, `dataDot`, `morphMark`, annotation geometry, `drawPencil`, `caption`. `demo/music/score.py` holds the sonification. The function table and a minimal example are in [DEMO.md](DEMO.md#engine-reference).
+`demo/engine.js` (Canvas 2D, world units = chart pixels at zoom 1) is the style: paper, camera, value ramps, `pencilStroke` (any polyline in pencil), `inkShape` (any closed shape: bars, areas, map shapes), `plotShape`, `handText`, `dataDot`, `morphMark`, annotation geometry, `drawPencil`, `caption`. `demo/music/score.py` holds the sonification. The function table and a minimal example are in [DEMO.md](../../../../../demo/dataviz/DEMO.md#engine-reference).
 
 ## 11. Variation space
 
@@ -118,4 +118,4 @@ You decide the dataset, the chart, the human scale, the notes, the opening, the 
 
 ---
 
-How our demo was made (story, shots, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build): [DEMO.md](../../../../../demo/dataviz/DEMO.md). Read it after your treatment exists.

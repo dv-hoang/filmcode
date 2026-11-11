@@ -114,4 +114,4 @@ You decide the book, the room, the characters (or none), the spreads and mechani
 
 ---
 
-How our demo was made (story, shots, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build): [DEMO.md](../../../../../demo/paper-popup/DEMO.md). Read it after your treatment exists.

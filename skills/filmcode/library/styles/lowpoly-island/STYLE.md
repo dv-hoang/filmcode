@@ -107,4 +107,4 @@ You decide the world (island, town, orchard, factory floor, planet), what grows 
 
 ---
 
-How our demo was made (story, shots, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build): [DEMO.md](../../../../../demo/lowpoly-island/DEMO.md). Read it after your treatment exists.

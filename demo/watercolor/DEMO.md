@@ -2,10 +2,10 @@
 
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
-Demo: *Alborada* (45.0 s, 1920x1080, 30 fps, stereo sound) · [watercolor.mp4](watercolor.mp4) · poster [poster.jpg](poster.jpg) · engine: Canvas2D stroke engine (`engine.js` `mk`/`drawS`, variable-width ribbon + dashed bristle tracks), procedural plant generators, per-plant sprite cache, headless Chrome frame capture.
+Demo: *Alborada* (45.0 s, 1920x1080, 30 fps, stereo sound) · [watercolor.mp4](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/watercolor.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/) · engine: Canvas2D stroke engine (`engine.js` `mk`/`drawS`, variable-width ribbon + dashed bristle tracks), procedural plant generators, per-plant sprite cache, headless Chrome frame capture.
 
 
-> The bundled video is *Alborada*; the breakdown below documents the original reference demo and its technique notes.
+> The demo video is *Alborada*; the breakdown below documents the original reference demo and its technique notes. Alborada's own source and build instructions are in [source/](source/).
 
 The reference demo is a naturalist's field journal: one long sideways walk through the Australian landscape along a rainfall gradient, hand-written notes and a quiet rainfall gauge, then a pull-out to a painted map that moves through deep time.
 
@@ -118,7 +118,7 @@ styles/watercolor/demo/
  aus.js coastline rings (from extract_aus.mjs) paper.jpg (paper.py) fonts/ + fonts.css (fetch_fonts.mjs)
  tts/lines.json voice script tts/gen.py Kokoro asr.py whisper check voices/ v01–v13.wav + dur.json
  music/ prep.sh (source files) · analyze.py · lag.py · jump.py · edit.py → score.wav
- mix.py SFX + voice + music → mix.wav render.mjs stills / video / part mux.sh → ../watercolor.mp4
+ mix.py SFX + voice + music → mix.wav render.mjs stills / video / part mux.sh → the published demo
 ```
 
 All commands from the repo root, Python = `.venv/bin/python`:
@@ -141,11 +141,11 @@ OUT=$D/out/review node $D/render.mjs stills 5 20 43 66 90 106
 .venv/bin/python $D/mix.py
 # 5. video: 6816 frames at 60 fps, ~50 ms/frame/worker (8 workers ≈ 2 min; keep 2–3 when other jobs run)
 node $D/render.mjs video 8 # → $D/out/seg_0..7.mp4 + out/list.txt (x264 crf 12 intermediates)
-# 6. mux (≈70 s): concat + x264 slow crf 16 g 120 + loudnorm −14 → styles/watercolor/watercolor.mp4
+# 6. mux (≈70 s): concat + x264 slow crf 16 g 120 + loudnorm −14 → the published demo
 sh $D/mux.sh # or: sh $D/mux.sh path/to/test.mp4
 # 7. subtitles: VO table → srt
 # ($D/out/srt_cues.json = VO rows as {t0: s-.15, t1: s+dur+.45, text: "en\nzh"}, dumped from scene.js with a 5-line node script)
-.venv/bin/python core/render/srt.py $D/out/srt_cues.json styles/watercolor/watercolor.srt
+.venv/bin/python core/render/srt.py $D/out/srt_cues.json alborada.srt
 ```
 
 Partial re-render (used for the end-card sign-off): `node $D/render.mjs part 99.4 113.6 $D/out/seg_7.mp4` re-creates the last 8-worker segment exactly (frames 5964–6815), then `sh $D/mux.sh`.

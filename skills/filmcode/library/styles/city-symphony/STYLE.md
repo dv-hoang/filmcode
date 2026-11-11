@@ -137,4 +137,4 @@ Recipe for another place: one single-camera time-lapse of ≥ 12 hours (the cloc
 - Number cards: 2–4 at most; the day ring may be dropped for non-daily structures.
 - Fixed: footage only, the frame-blended light, cuts on the beat, the brake, few words, one quote, the hard stop, the release-print grade.
 
-See [`DEMO.md`](DEMO.md) for the example film.
+See [`DEMO.md`](../../../../../demo/city-symphony/DEMO.md) for the example film.

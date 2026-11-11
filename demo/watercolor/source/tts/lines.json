@@ -1,0 +1,59 @@
+[
+  {
+    "id": "v01",
+    "text": "Before the light reaches the hill, the cherries are already red.",
+    "voice": "af_heart",
+    "speed": 0.92
+  },
+  {
+    "id": "v02",
+    "text": "My grandmother planted these rows in nineteen seventy-one.",
+    "voice": "af_heart",
+    "speed": 0.92,
+    "asr": "My grandmother planted these rows in 1971."
+  },
+  {
+    "id": "v03",
+    "text": "At seventeen hundred metres, coffee ripens slowly. That is the whole secret.",
+    "voice": "af_heart",
+    "speed": 0.92,
+    "asr": "At 1700 meters, coffee ripens slowly. That is the whole secret."
+  },
+  {
+    "id": "v04",
+    "text": "We pick only what is red. The rest waits for another morning.",
+    "voice": "af_heart",
+    "speed": 0.92,
+    "asr": "We pick only what is read. The rest waits for another morning."
+  },
+  {
+    "id": "v05",
+    "text": "By seven, four baskets. By noon, the mill will have all of it.",
+    "voice": "af_heart",
+    "speed": 0.92
+  },
+  {
+    "id": "v06",
+    "text": "Water, then skins, then the beans. The cherry gives up everything.",
+    "voice": "af_heart",
+    "speed": 0.92
+  },
+  {
+    "id": "v07",
+    "text": "The beds face east, so the sun works first.",
+    "voice": "af_heart",
+    "speed": 0.92
+  },
+  {
+    "id": "v08",
+    "text": "By afternoon the patio smells like bread and wet stone.",
+    "voice": "af_heart",
+    "speed": 0.92
+  },
+  {
+    "id": "v09",
+    "text": "And then, one cup. This one is ours.",
+    "voice": "af_heart",
+    "speed": 0.92
+  }
+]

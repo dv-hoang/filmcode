@@ -146,4 +146,4 @@ The agent decides the structure, the stations, the scales visited, the camera pa
 
 ---
 
-How our demo was made (story, shots, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build): [DEMO.md](../../../../../demo/circuit-board/DEMO.md). Read it after your treatment exists.

@@ -102,4 +102,4 @@ You decide the place, the system, the tiny actor, the structure, the opening, th
 
 ---
 
-How our demo was made (story, shots, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build): [DEMO.md](../../../../../demo/tilt-shift/DEMO.md). Read it after your treatment exists.

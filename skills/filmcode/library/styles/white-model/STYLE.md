@@ -110,4 +110,4 @@ Decide per film: place and scale, which layers in what order, their colours, the
 
 ---
 
-How our demo was made (story, shots, score, title card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, title card, build): [DEMO.md](../../../../../demo/white-model/DEMO.md). Read it after your treatment exists.

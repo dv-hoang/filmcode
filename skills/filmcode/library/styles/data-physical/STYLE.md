@@ -114,4 +114,4 @@ Decided per film: the unit and its materials, the base and its shape, which seri
 
 ---
 
-How our demo was made (story, shots, score, title card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, title card, build): [DEMO.md](../../../../../demo/data-physical/DEMO.md). Read it after your treatment exists.

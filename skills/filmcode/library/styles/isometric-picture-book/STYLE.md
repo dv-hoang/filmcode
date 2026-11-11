@@ -127,4 +127,4 @@ The agent decides the place, its cut-aways, the cast size, the rules and their o
 
 ---
 
-How our demo was made (story, shots, narration, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, narration, score, end card, build): [DEMO.md](../../../../../demo/isometric-picture-book/DEMO.md). Read it after your treatment exists.

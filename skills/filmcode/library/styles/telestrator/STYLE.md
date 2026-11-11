@@ -132,4 +132,4 @@ The agent decides per film: the sport (football, basketball pick-and-roll with s
 
 ---
 
-How our demo was made (story, shots, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build): [DEMO.md](../../../../../demo/telestrator/DEMO.md). Read it after your treatment exists.

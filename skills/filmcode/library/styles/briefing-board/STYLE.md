@@ -117,4 +117,4 @@ The agent decides per film: structure, which objects are photographed, plan vs e
 
 ---
 
-How our demo was made (story, shots, score, title card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, title card, build): [DEMO.md](../../../../../demo/briefing-board/DEMO.md). Read it after your treatment exists.

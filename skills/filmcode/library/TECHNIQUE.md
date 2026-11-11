@@ -159,4 +159,4 @@ Fonts: Google Fonts (OFL), self-hosted in the project. The typefaces a `STYLE.md
 | 3D with depth of field and real materials | `styles/brick-toy/`, `styles/paper-popup/` |
 | a CRT or VHS look | `core/post/crt.js`, `styles/ascii-crt/`, `styles/backrooms/` |
 
-Each style's `DEMO.md` says how its demo was built. Open it and the code only after your treatment exists, to learn a technique, never to rebuild our film. This edition of the plugin doesn't include the demo sources: read `DEMO.md` for how a demo was built and write your own code.
+Each style's `demo/<slug>/DEMO.md` says how its demo was built. Open it and the code only after your treatment exists, to learn a technique, never to rebuild our film. This edition doesn't include the demo sources: read the demo note for how a demo was built and write your own code.

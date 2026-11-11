@@ -119,4 +119,4 @@ You decide the story, the figures (or none), what the lamp means, what leaves th
 
 ---
 
-How our demo was made (story, shots, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build): [DEMO.md](../../../../../demo/shadow-puppet/DEMO.md). Read it after your treatment exists.

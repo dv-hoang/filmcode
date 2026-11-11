@@ -135,4 +135,4 @@ The agent decides per film: the event, the sources, the sync point, which time s
 
 ---
 
-How our demo was made (story, shots, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build): [DEMO.md](../../../../../demo/visual-investigation/DEMO.md). Read it after your treatment exists.

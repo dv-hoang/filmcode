@@ -42,7 +42,7 @@ The benchmark lifts quality more than any rule below.
 
 ## 4. Write the treatment
 
-Write `TREATMENT.md` before drawing anything, and before you open the style's `DEMO.md` or demo code (an Edit & Documentary style gathers its material first: AGENTS.md, "Treatment first"):
+Write `TREATMENT.md` before drawing anything, and before you open the style's `demo/<slug>/DEMO.md` or demo code (an Edit & Documentary style gathers its material first: AGENTS.md, "Treatment first"):
 
 1. **Three candidate structures**, a few lines each (for example: a single journey, a before/after, a countdown, a list that turns), then the one you chose and why. Choose the opening image, the ending and the shape of the score from the topic too; the first idea that comes to mind for a style is usually its cliché.
 2. **Logline and arc**: one sentence, then setup → turn → ending.
@@ -114,7 +114,7 @@ Render 6–9 key shots with the real drawing code, tiled into one sheet (`core/r
 
 - Run the review loop (TECHNIQUE.md §8): contact sheets, 0.2 s strips of key actions, one full-speed viewing with sound.
 - **One fix round.** Fix everything the review and the checks below find in one round, then check once more. Small fixes that second check turns up (a level, a frame) belong to the same round; anything bigger, tell the user in one line when you deliver. The user's notes after delivery are new rounds: change only what they ask.
-- **Not the demo again.** After the treatment, read `DEMO.md` and compare: structure, opening, signature shot, camera path, score shape, ending. At least four of the six must differ; rethink the ones that match.
+- **Not the demo again.** After the treatment, read `demo/<slug>/DEMO.md` and compare: structure, opening, signature shot, camera path, score shape, ending. At least four of the six must differ; rethink the ones that match.
 - Voice: every line transcribes back correctly (speech-to-text check). For Chinese, one misheard character in a short line is normal: listen, and if it is right, let the check expect what the model heard (TECHNIQUE.md §4).
 - Loudness about −14 LUFS; no black frames, no NaN frames; subtitles in sync and not covering key action.
 - Every row of the sound design table is actually in the mix.

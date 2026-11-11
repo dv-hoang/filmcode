@@ -146,4 +146,4 @@ The agent decides per film: structure, which archive and documents, which format
 - **Three structures:** a calendar machine (one counter runs the whole film and stops at milestones); a document that asks and footage that answers (the turn at the middle); one object's journey through a process, then the scale of the whole.
 - Subjects that fit: construction and engineering histories, industrial anniversaries, mass events, labour and collective effort, infrastructure openings, any "many people, one machine rhythm" story with archive film and documents behind it.
 
-Our demo: [DEMO.md](DEMO.md).
+Our demo: [DEMO.md](../../../../../demo/kino-montage/DEMO.md).

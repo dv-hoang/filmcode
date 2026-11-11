@@ -105,7 +105,7 @@ A menu: use the ones your story needs.
 
 ## 10. Engine
 
-In `demo/src/`: `paper.js` (`sheet()` = one lit paper layer with an optional glow map and reveal uniforms; `skyPanel`, `moon`, `text`, `burst`), `stage.js` (scene, top spot, backlight uniforms, `aim()` camera), `post.js` (DoF, bloom, transitions, grade), `world.js` (paper motifs: peaks, firs, the train's carriages; the first shot), `shots.js` (the other shots), `lib.js`. `src/main.js` reads one timeline and draws each shot, two during a dissolve; each shot is `build(E) → { S, update(t), post(), grade() }`. API table and a minimal shot: [DEMO.md](DEMO.md) "Engine reference".
+In `demo/src/`: `paper.js` (`sheet()` = one lit paper layer with an optional glow map and reveal uniforms; `skyPanel`, `moon`, `text`, `burst`), `stage.js` (scene, top spot, backlight uniforms, `aim()` camera), `post.js` (DoF, bloom, transitions, grade), `world.js` (paper motifs: peaks, firs, the train's carriages; the first shot), `shots.js` (the other shots), `lib.js`. `src/main.js` reads one timeline and draws each shot, two during a dissolve; each shot is `build(E) → { S, update(t), post(), grade() }`. API table and a minimal shot: [DEMO.md](../../../../../demo/paper-lantern/DEMO.md) "Engine reference".
 
 ## 11. Variation space
 
@@ -117,4 +117,4 @@ You decide the places, the figures (or none), the ladders, the light source, the
 
 ---
 
-How our demo was made (story, shots, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build): [DEMO.md](../../../../../demo/paper-lantern/DEMO.md). Read it after your treatment exists.

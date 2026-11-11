@@ -7,119 +7,119 @@ Users may name a style in English or by its folder. Find it here, then read `sty
 
 | Style | Folder | Our demo |
 |---|---|---|
-| Caption News | [`caption-news`](caption-news/STYLE.md) | *The Bee Ledger* |
-| 1920s Newsreel | [`newsreel`](newsreel/STYLE.md) | *Knock-Knee Alert* |
-| Live Countdown Split-screen | [`countdown`](countdown/STYLE.md) | *Counting Itself Down* |
-| Time-lapse Symphony | [`city-symphony`](city-symphony/STYLE.md) | *One Day in New York* |
-| Visual Investigation | [`visual-investigation`](visual-investigation/STYLE.md) | *The Hindenburg: Four Minutes, 32 Seconds* |
-| Constructivist Montage | [`kino-montage`](kino-montage/STYLE.md) | *410 Days* |
-| Sports Telestrator | [`telestrator`](telestrator/STYLE.md) | *Freeze Frame* |
-| Broadcast News Package | [`news-package`](news-package/STYLE.md) | *The Week in AI* |
+| Caption News | [`caption-news`](caption-news/STYLE.md) | *The Bee Ledger* · [notes](../../../../demo/caption-news/DEMO.md) |
+| 1920s Newsreel | [`newsreel`](newsreel/STYLE.md) | *Knock-Knee Alert* · [notes](../../../../demo/newsreel/DEMO.md) |
+| Live Countdown Split-screen | [`countdown`](countdown/STYLE.md) | *Counting Itself Down* · [notes](../../../../demo/countdown/DEMO.md) |
+| Time-lapse Symphony | [`city-symphony`](city-symphony/STYLE.md) | *One Day in New York* · [notes](../../../../demo/city-symphony/DEMO.md) |
+| Visual Investigation | [`visual-investigation`](visual-investigation/STYLE.md) | *The Hindenburg: Four Minutes, 32 Seconds* · [notes](../../../../demo/visual-investigation/DEMO.md) |
+| Constructivist Montage | [`kino-montage`](kino-montage/STYLE.md) | *410 Days* · [notes](../../../../demo/kino-montage/DEMO.md) |
+| Sports Telestrator | [`telestrator`](telestrator/STYLE.md) | *Freeze Frame* · [notes](../../../../demo/telestrator/DEMO.md) |
+| Broadcast News Package | [`news-package`](news-package/STYLE.md) | *The Week in AI* · [notes](../../../../demo/news-package/DEMO.md) |
 
 ## Evidence Films
 
 | Style | Folder | Our demo |
 |---|---|---|
-| Satellite Briefing | [`satellite-briefing`](satellite-briefing/STYLE.md) | *The Map Still Says Sea* |
-| Engineering Briefing Board | [`briefing-board`](briefing-board/STYLE.md) | *The Ship Decides* |
-| LiDAR Survey | [`lidar-survey`](lidar-survey/STYLE.md) | *The Fields Under the Forest* |
-| Projection on White Model | [`white-model`](white-model/STYLE.md) | *How a Flattened City Grew Back* |
-| Data Physicalization | [`data-physical`](data-physical/STYLE.md) | *Two Spirals* |
-| Exploded Teardown | [`teardown`](teardown/STYLE.md) | *21 Keys, Opened* |
-| Microscope Story | [`microscope`](microscope/STYLE.md) | *Measured Blue* |
-| Archive Light Table | [`archive-lighttable`](archive-lighttable/STYLE.md) | *Two Seconds Short* |
+| Satellite Briefing | [`satellite-briefing`](satellite-briefing/STYLE.md) | *The Map Still Says Sea* · [notes](../../../../demo/satellite-briefing/DEMO.md) |
+| Engineering Briefing Board | [`briefing-board`](briefing-board/STYLE.md) | *The Ship Decides* · [notes](../../../../demo/briefing-board/DEMO.md) |
+| LiDAR Survey | [`lidar-survey`](lidar-survey/STYLE.md) | *The Fields Under the Forest* · [notes](../../../../demo/lidar-survey/DEMO.md) |
+| Projection on White Model | [`white-model`](white-model/STYLE.md) | *How a Flattened City Grew Back* · [notes](../../../../demo/white-model/DEMO.md) |
+| Data Physicalization | [`data-physical`](data-physical/STYLE.md) | *Two Spirals* · [notes](../../../../demo/data-physical/DEMO.md) |
+| Exploded Teardown | [`teardown`](teardown/STYLE.md) | *21 Keys, Opened* · [notes](../../../../demo/teardown/DEMO.md) |
+| Microscope Story | [`microscope`](microscope/STYLE.md) | *Measured Blue* · [notes](../../../../demo/microscope/DEMO.md) |
+| Archive Light Table | [`archive-lighttable`](archive-lighttable/STYLE.md) | *Two Seconds Short* · [notes](../../../../demo/archive-lighttable/DEMO.md) |
 
 ## Hand-drawn & Painting
 
 | Style | Folder | Our demo |
 |---|---|---|
-| Crayon Picture Book | [`crayon-book`](crayon-book/STYLE.md) | *The Moon Can't Sleep* |
-| Watercolor Brush | [`watercolor`](watercolor/STYLE.md) | *Alborada* · [watch](watercolor/watercolor.mp4) |
-| Chinese Ink Wash | [`ink-wash`](ink-wash/STYLE.md) | *The Swordsman and the River* |
-| Impasto Oil Painting | [`impasto`](impasto/STYLE.md) | *The Colour of Rain* |
-| One-line Drawing | [`one-line`](one-line/STYLE.md) | *The Line That Never Lifted* |
-| Whiteboard Explainer | [`whiteboard`](whiteboard/STYLE.md) | *Einstein in Your Pocket* |
-| Urban Sketch · Pen & Wash | [`urban-sketch`](urban-sketch/STYLE.md) | *Where the Wind Went* |
-| Chalkboard | [`chalkboard`](chalkboard/STYLE.md) | *The Story of Chinese Characters* |
+| Crayon Picture Book | [`crayon-book`](crayon-book/STYLE.md) | *The Moon Can't Sleep* · [notes](../../../../demo/crayon-book/DEMO.md) |
+| Watercolor Brush | [`watercolor`](watercolor/STYLE.md) | *Alborada* · [notes](../../../../demo/watercolor/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/watercolor.mp4) |
+| Chinese Ink Wash | [`ink-wash`](ink-wash/STYLE.md) | *The Swordsman and the River* · [notes](../../../../demo/ink-wash/DEMO.md) |
+| Impasto Oil Painting | [`impasto`](impasto/STYLE.md) | *The Colour of Rain* · [notes](../../../../demo/impasto/DEMO.md) |
+| One-line Drawing | [`one-line`](one-line/STYLE.md) | *The Line That Never Lifted* · [notes](../../../../demo/one-line/DEMO.md) |
+| Whiteboard Explainer | [`whiteboard`](whiteboard/STYLE.md) | *Einstein in Your Pocket* · [notes](../../../../demo/whiteboard/DEMO.md) |
+| Urban Sketch · Pen & Wash | [`urban-sketch`](urban-sketch/STYLE.md) | *Where the Wind Went* · [notes](../../../../demo/urban-sketch/DEMO.md) |
+| Chalkboard | [`chalkboard`](chalkboard/STYLE.md) | *The Story of Chinese Characters* · [notes](../../../../demo/chalkboard/DEMO.md) |
 
 ## East Asian Traditions
 
 | Style | Folder | Our demo |
 |---|---|---|
-| Shadow Puppetry | [`shadow-puppet`](shadow-puppet/STYLE.md) | *Hou Yi Shoots the Suns* |
-| Ukiyo-e | [`ukiyoe`](ukiyoe/STYLE.md) | *Toward the Mountain* |
-| Red Paper-cut | [`papercut-red`](papercut-red/STYLE.md) | *Nian Comes to Town* |
-| Paper-cut Lightbox | [`paper-lantern`](paper-lantern/STYLE.md) | *The Last Night Train* |
+| Shadow Puppetry | [`shadow-puppet`](shadow-puppet/STYLE.md) | *Hou Yi Shoots the Suns* · [notes](../../../../demo/shadow-puppet/DEMO.md) |
+| Ukiyo-e | [`ukiyoe`](ukiyoe/STYLE.md) | *Toward the Mountain* · [notes](../../../../demo/ukiyoe/DEMO.md) |
+| Red Paper-cut | [`papercut-red`](papercut-red/STYLE.md) | *Nian Comes to Town* · [notes](../../../../demo/papercut-red/DEMO.md) |
+| Paper-cut Lightbox | [`paper-lantern`](paper-lantern/STYLE.md) | *The Last Night Train* · [notes](../../../../demo/paper-lantern/DEMO.md) |
 
 ## Print & Printmaking
 
 | Style | Folder | Our demo |
 |---|---|---|
-| Risograph Print | [`risograph`](risograph/STYLE.md) | *Sunday Ride* |
-| Halftone Dossier | [`halftone-dossier`](halftone-dossier/STYLE.md) | *Case File: Chubby* |
-| Woodcut Print | [`woodcut`](woodcut/STYLE.md) | *The Bell Founder* |
-| Copperplate Engraving | [`engraving`](engraving/STYLE.md) | *The Honeybee, Plate VII* |
-| Silkscreen Travel Poster | [`silkscreen-poster`](silkscreen-poster/STYLE.md) | *The Long Way Home* |
-| Printed Long Take | [`printed-long-take`](printed-long-take/STYLE.md) | *Thirty-Three Cranes* |
+| Risograph Print | [`risograph`](risograph/STYLE.md) | *Sunday Ride* · [notes](../../../../demo/risograph/DEMO.md) |
+| Halftone Dossier | [`halftone-dossier`](halftone-dossier/STYLE.md) | *Case File: Chubby* · [notes](../../../../demo/halftone-dossier/DEMO.md) |
+| Woodcut Print | [`woodcut`](woodcut/STYLE.md) | *The Bell Founder* · [notes](../../../../demo/woodcut/DEMO.md) |
+| Copperplate Engraving | [`engraving`](engraving/STYLE.md) | *The Honeybee, Plate VII* · [notes](../../../../demo/engraving/DEMO.md) |
+| Silkscreen Travel Poster | [`silkscreen-poster`](silkscreen-poster/STYLE.md) | *The Long Way Home* · [notes](../../../../demo/silkscreen-poster/DEMO.md) |
+| Printed Long Take | [`printed-long-take`](printed-long-take/STYLE.md) | *Thirty-Three Cranes* · [notes](../../../../demo/printed-long-take/DEMO.md) |
 
 ## Graphic & Type
 
 | Style | Folder | Our demo |
 |---|---|---|
-| Swiss Motion Graphics | [`swiss-motion`](swiss-motion/STYLE.md) | *Five Rules for a Poster* |
-| 60s Spy Title Sequence | [`spy-titles`](spy-titles/STYLE.md) | *The Velvet Cipher* |
-| Art Deco | [`art-deco`](art-deco/STYLE.md) | *Midnight at the Starlight Hotel* |
-| Blueprint | [`blueprint`](blueprint/STYLE.md) | *Patent Pending: The Cloud Catcher* |
-| Stained Glass | [`stained-glass`](stained-glass/STYLE.md) | *The Dragon of the East Window* |
-| Pictogram Motion | [`pictogram-motion`](pictogram-motion/STYLE.md) | *Left Behind* |
-| ASCII / CRT Terminal | [`ascii-crt`](ascii-crt/STYLE.md) | *Tranquility.log* |
+| Swiss Motion Graphics | [`swiss-motion`](swiss-motion/STYLE.md) | *Five Rules for a Poster* · [notes](../../../../demo/swiss-motion/DEMO.md) |
+| 60s Spy Title Sequence | [`spy-titles`](spy-titles/STYLE.md) | *The Velvet Cipher* · [notes](../../../../demo/spy-titles/DEMO.md) |
+| Art Deco | [`art-deco`](art-deco/STYLE.md) | *Midnight at the Starlight Hotel* · [notes](../../../../demo/art-deco/DEMO.md) |
+| Blueprint | [`blueprint`](blueprint/STYLE.md) | *Patent Pending: The Cloud Catcher* · [notes](../../../../demo/blueprint/DEMO.md) |
+| Stained Glass | [`stained-glass`](stained-glass/STYLE.md) | *The Dragon of the East Window* · [notes](../../../../demo/stained-glass/DEMO.md) |
+| Pictogram Motion | [`pictogram-motion`](pictogram-motion/STYLE.md) | *Left Behind* · [notes](../../../../demo/pictogram-motion/DEMO.md) |
+| ASCII / CRT Terminal | [`ascii-crt`](ascii-crt/STYLE.md) | *Tranquility.log* · [notes](../../../../demo/ascii-crt/DEMO.md) |
 
 ## Information & Keynote
 
 | Style | Folder | Our demo |
 |---|---|---|
-| Data Storytelling | [`dataviz`](dataviz/STYLE.md) | *A Hundred Summers* |
-| Isometric Infographic | [`iso-infographic`](iso-infographic/STYLE.md) | *From Bean to Cup* |
-| Dark Tech Keynote | [`dark-keynote`](dark-keynote/STYLE.md) | *Room to Think* |
-| Living Screencast | [`living-screencast`](living-screencast/STYLE.md) | *Clawd Moves In* |
-| Sci-fi Hologram HUD | [`hologram-hud`](hologram-hud/STYLE.md) | *Volt · Spec Scan* |
-| Transit Map | [`transit-map`](transit-map/STYLE.md) | *6 Kilometres* |
-| Isometric Picture Book | [`isometric-picture-book`](isometric-picture-book/STYLE.md) | *Seventy-Two Seats* |
-| Circuit Board | [`circuit-board`](circuit-board/STYLE.md) | *Seven Milliseconds* |
+| Data Storytelling | [`dataviz`](dataviz/STYLE.md) | *A Hundred Summers* · [notes](../../../../demo/dataviz/DEMO.md) |
+| Isometric Infographic | [`iso-infographic`](iso-infographic/STYLE.md) | *From Bean to Cup* · [notes](../../../../demo/iso-infographic/DEMO.md) |
+| Dark Tech Keynote | [`dark-keynote`](dark-keynote/STYLE.md) | *Room to Think* · [notes](../../../../demo/dark-keynote/DEMO.md) |
+| Living Screencast | [`living-screencast`](living-screencast/STYLE.md) | *Clawd Moves In* · [notes](../../../../demo/living-screencast/DEMO.md) |
+| Sci-fi Hologram HUD | [`hologram-hud`](hologram-hud/STYLE.md) | *Volt · Spec Scan* · [notes](../../../../demo/hologram-hud/DEMO.md) |
+| Transit Map | [`transit-map`](transit-map/STYLE.md) | *6 Kilometres* · [notes](../../../../demo/transit-map/DEMO.md) |
+| Isometric Picture Book | [`isometric-picture-book`](isometric-picture-book/STYLE.md) | *Seventy-Two Seats* · [notes](../../../../demo/isometric-picture-book/DEMO.md) |
+| Circuit Board | [`circuit-board`](circuit-board/STYLE.md) | *Seven Milliseconds* · [notes](../../../../demo/circuit-board/DEMO.md) |
 
 ## Cartoon & Anime
 
 | Style | Folder | Our demo |
 |---|---|---|
-| 1930s Rubber Hose Cartoon | [`rubber-hose`](rubber-hose/STYLE.md) | *Coffee Cup Chase* |
-| 80s Cel Anime | [`cel-anime-80s`](cel-anime-80s/STYLE.md) | *City Lights, 1987* |
-| Sci-Fi Sitcom Toon | [`scifi-toon`](scifi-toon/STYLE.md) | *Coffee Run* |
-| Mid-century Cartoon | [`midcentury-toon`](midcentury-toon/STYLE.md) | *Meet Pip* |
+| 1930s Rubber Hose Cartoon | [`rubber-hose`](rubber-hose/STYLE.md) | *Coffee Cup Chase* · [notes](../../../../demo/rubber-hose/DEMO.md) |
+| 80s Cel Anime | [`cel-anime-80s`](cel-anime-80s/STYLE.md) | *City Lights, 1987* · [notes](../../../../demo/cel-anime-80s/DEMO.md) |
+| Sci-Fi Sitcom Toon | [`scifi-toon`](scifi-toon/STYLE.md) | *Coffee Run* · [notes](../../../../demo/scifi-toon/DEMO.md) |
+| Mid-century Cartoon | [`midcentury-toon`](midcentury-toon/STYLE.md) | *Meet Pip* · [notes](../../../../demo/midcentury-toon/DEMO.md) |
 
 ## Games
 
 | Style | Folder | Our demo |
 |---|---|---|
-| 16-bit Pixel RPG | [`pixel-rpg`](pixel-rpg/STYLE.md) | *The Last Save Point* |
-| HD-2D | [`hd-2d`](hd-2d/STYLE.md) | *The Lampbearer* |
-| Microgame Frenzy | [`microgame`](microgame/STYLE.md) | *Five-Second Astronaut* |
-| Game Show Flat | [`game-show`](game-show/STYLE.md) | *Rhythm of AI, 1997 → 2026* |
+| 16-bit Pixel RPG | [`pixel-rpg`](pixel-rpg/STYLE.md) | *The Last Save Point* · [notes](../../../../demo/pixel-rpg/DEMO.md) |
+| HD-2D | [`hd-2d`](hd-2d/STYLE.md) | *The Lampbearer* · [notes](../../../../demo/hd-2d/DEMO.md) |
+| Microgame Frenzy | [`microgame`](microgame/STYLE.md) | *Five-Second Astronaut* · [notes](../../../../demo/microgame/DEMO.md) |
+| Game Show Flat | [`game-show`](game-show/STYLE.md) | *Rhythm of AI, 1997 → 2026* · [notes](../../../../demo/game-show/DEMO.md) |
 
 ## Cinema & Eras
 
 | Style | Folder | Our demo |
 |---|---|---|
-| 1920s Silent Film | [`silent-film`](silent-film/STYLE.md) | *The Runaway Loaf* |
-| Liminal Found Footage | [`backrooms`](backrooms/STYLE.md) | *Night Shift Orientation* |
+| 1920s Silent Film | [`silent-film`](silent-film/STYLE.md) | *The Runaway Loaf* · [notes](../../../../demo/silent-film/DEMO.md) |
+| Liminal Found Footage | [`backrooms`](backrooms/STYLE.md) | *Night Shift Orientation* · [notes](../../../../demo/backrooms/DEMO.md) |
 
 ## Materials & 3D
 
 | Style | Folder | Our demo |
 |---|---|---|
-| Brick Toy | [`brick-toy`](brick-toy/STYLE.md) | *Rocket from Spare Parts* |
-| Paper Pop-up Book | [`paper-popup`](paper-popup/STYLE.md) | *Pip's Paper Adventure* |
-| Tilt-Shift Miniature | [`tilt-shift`](tilt-shift/STYLE.md) | *Toy Town Rush Hour* |
-| Low-poly Isometric Island | [`lowpoly-island`](lowpoly-island/STYLE.md) | *The Island That Grew* |
-| Glass Product Render | [`glass-product`](glass-product/STYLE.md) | *Aura — Hear the Light* |
-| Memphis Diorama | [`memphis-diorama`](memphis-diorama/STYLE.md) | *Four Seasons in Pomelo Town* |
-| Desktop Flythrough | [`desktop-flythrough`](desktop-flythrough/STYLE.md) | *Before the Ding* |
+| Brick Toy | [`brick-toy`](brick-toy/STYLE.md) | *Rocket from Spare Parts* · [notes](../../../../demo/brick-toy/DEMO.md) |
+| Paper Pop-up Book | [`paper-popup`](paper-popup/STYLE.md) | *Pip's Paper Adventure* · [notes](../../../../demo/paper-popup/DEMO.md) |
+| Tilt-Shift Miniature | [`tilt-shift`](tilt-shift/STYLE.md) | *Toy Town Rush Hour* · [notes](../../../../demo/tilt-shift/DEMO.md) |
+| Low-poly Isometric Island | [`lowpoly-island`](lowpoly-island/STYLE.md) | *The Island That Grew* · [notes](../../../../demo/lowpoly-island/DEMO.md) |
+| Glass Product Render | [`glass-product`](glass-product/STYLE.md) | *Aura — Hear the Light* · [notes](../../../../demo/glass-product/DEMO.md) |
+| Memphis Diorama | [`memphis-diorama`](memphis-diorama/STYLE.md) | *Four Seasons in Pomelo Town* · [notes](../../../../demo/memphis-diorama/DEMO.md) |
+| Desktop Flythrough | [`desktop-flythrough`](desktop-flythrough/STYLE.md) | *Before the Ding* · [notes](../../../../demo/desktop-flythrough/DEMO.md) |

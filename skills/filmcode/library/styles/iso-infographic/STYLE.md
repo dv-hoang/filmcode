@@ -100,7 +100,7 @@ A menu: use the ones your story needs.
 
 ## 10. Engine
 
-`demo/engine.js` is dependency-free Canvas 2D: `Iso` (projection, camera, depth-sorted queue: `box`, `prism`, `cyl`, `cone`, `roof`, `sphere`, `flat`, `line3`, `bill`, `text3`, `push/pop` local frames, `desat` + `keep` one-colour hook), `tri()` three-tone generator, `pin`, `inset`, `cutLine`, `hatch`, `ring`, `ICON.*` + `iconGrid`, `person`, and `shape()` which turns any 2D outline into a shaded isometric solid. API table and a minimal example (a shape the demo never uses): [DEMO.md](DEMO.md) "Engine reference".
+`demo/engine.js` is dependency-free Canvas 2D: `Iso` (projection, camera, depth-sorted queue: `box`, `prism`, `cyl`, `cone`, `roof`, `sphere`, `flat`, `line3`, `bill`, `text3`, `push/pop` local frames, `desat` + `keep` one-colour hook), `tri()` three-tone generator, `pin`, `inset`, `cutLine`, `hatch`, `ring`, `ICON.*` + `iconGrid`, `person`, and `shape()` which turns any 2D outline into a shaded isometric solid. API table and a minimal example (a shape the demo never uses): [DEMO.md](../../../../../demo/iso-infographic/DEMO.md) "Engine reference".
 
 ## 11. Variation space
 
@@ -112,4 +112,4 @@ You decide the system, the board (or several), whether there is a tracked subjec
 
 ---
 
-How our demo was made (story, shots, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build): [DEMO.md](../../../../../demo/iso-infographic/DEMO.md). Read it after your treatment exists.

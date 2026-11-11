@@ -105,4 +105,4 @@ You decide the object (always fictional), internals, accent, structure, opening,
 
 ---
 
-How our demo was made (story, shots, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build): [DEMO.md](../../../../../demo/glass-product/DEMO.md). Read it after your treatment exists.

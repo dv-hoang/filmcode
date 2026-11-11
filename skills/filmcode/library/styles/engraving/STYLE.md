@@ -118,4 +118,4 @@ Swapping `demo/content.json` and rebuilding is a technical check that the engine
 
 ---
 
-How our demo was made (story, shots, score, end card, build, content fields): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build, content fields): [DEMO.md](../../../../../demo/engraving/DEMO.md). Read it after your treatment exists.

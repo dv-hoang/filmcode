@@ -138,4 +138,4 @@ The agent decides the place, the subject that gets the red, the route of the tak
 
 ---
 
-How our demo was made (story, shots, score, end card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build): [DEMO.md](../../../../../demo/printed-long-take/DEMO.md). Read it after your treatment exists.

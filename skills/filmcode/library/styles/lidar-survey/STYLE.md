@@ -113,4 +113,4 @@ The agent decides the place and dataset, which classes to peel or keep, the fron
 
 ---
 
-How our demo was made (story, shots, score, title card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, title card, build): [DEMO.md](../../../../../demo/lidar-survey/DEMO.md). Read it after your treatment exists.

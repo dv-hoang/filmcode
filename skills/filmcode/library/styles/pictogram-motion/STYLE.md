@@ -104,7 +104,7 @@ A menu: use the ones your film needs.
 
 ## 10. Engine
 
-In `demo/`: `engine.js` (palette, `G.pattern` / `G.drawPattern` with whole-row offsets, `G.motif`, pictograms such as `G.umbrella`, `G.drop`, `G.cloud`, `G.sunIcon`, `G.moon`, `G.bolt`, `G.foot`, `G.item`, `G.maskText`, easings), `film.js` (shot list in film seconds, sound events, scenes, HUD, captions, grid transitions, motion blur), `mix.py` (picture-locked score, foley and voice from the same events). API table and a minimal example: [DEMO.md](DEMO.md#engine-reference).
+In `demo/`: `engine.js` (palette, `G.pattern` / `G.drawPattern` with whole-row offsets, `G.motif`, pictograms such as `G.umbrella`, `G.drop`, `G.cloud`, `G.sunIcon`, `G.moon`, `G.bolt`, `G.foot`, `G.item`, `G.maskText`, easings), `film.js` (shot list in film seconds, sound events, scenes, HUD, captions, grid transitions, motion blur), `mix.py` (picture-locked score, foley and voice from the same events). API table and a minimal example: [DEMO.md](../../../../../demo/pictogram-motion/DEMO.md#engine-reference).
 
 ## 11. Variation space
 
@@ -116,4 +116,4 @@ You decide the items, grouping, verbs, palette, chapter order, any long take, th
 
 ---
 
-How our demo was made (story, shots, score, end card, build, engine reference): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, end card, build, engine reference): [DEMO.md](../../../../../demo/pictogram-motion/DEMO.md). Read it after your treatment exists.

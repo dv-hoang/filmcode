@@ -122,4 +122,4 @@ Decided per film: which product and revision, which layers to separate and in wh
 
 ---
 
-How our demo was made (story, shots, score, title card, build): [DEMO.md](DEMO.md). Read it after your treatment exists.
+How our demo was made (story, shots, score, title card, build): [DEMO.md](../../../../../demo/teardown/DEMO.md). Read it after your treatment exists.

@@ -131,4 +131,4 @@ A menu; use the ones the story needs, each once.
 - **Music**: Charleston band, march band, swing orchestra, or a period record carrying a whole section.
 - **Packaging**: invent your own ident name and emblem; keep the grammar (searchlights, globe, fanfare, place cards), change the shapes.
 
-Our demo, its story and build: [`DEMO.md`](DEMO.md).
+Our demo, its story and build: [`DEMO.md`](../../../../../demo/newsreel/DEMO.md).

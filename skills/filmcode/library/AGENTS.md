@@ -1,6 +1,6 @@
 # FilmCode: instructions for agents
 
-This repository is a library of film styles. Each style has a `styles/<slug>/STYLE.md` (what the style is) and one demo film made entirely in code (`DEMO.md` and `demo/`). People pick a style and ask for a film about **their own** topic. Your job is to direct and produce that film.
+This repository is a library of film styles. Each style has a `styles/<slug>/STYLE.md` (what the style is) and `demo/<slug>/DEMO.md` (how its demo was made). People pick a style and ask for a film about **their own** topic. Your job is to direct and produce that film.
 
 | The request | Go to |
 |---|---|
@@ -30,7 +30,7 @@ This repository is a library of film styles. Each style has a `styles/<slug>/STY
 
 - **`STYLE.md` is fixed**: the style's invariants (look, colour, type, motion, camera grammar, sound palette, native moves, pitfalls). Keep all of it.
 - **Everything else is yours to direct** from the user's topic: story, structure, characters, settings, shots, timings, references, how data is charted. Never bend the topic toward the demo.
-- **Treatment first, demo later.** Write your own `TREATMENT.md`, with three candidate structures and your choice (DIRECTOR.md §4), before you open `DEMO.md` or the demo code. Then use the demo only to learn techniques (a brush engine, a rig, a shader, a mix), never its story, arc, shots, props or timeline. A style cut from real material (Edit & Documentary) needs its material before the treatment. This edition has no demo sources, so the `demo/tools/` its `STYLE.md` names aren't here: search for material and log each item's page, author and licence yourself, as its `STYLE.md` describes.
+- **Treatment first, demo later.** Write your own `TREATMENT.md`, with three candidate structures and your choice (DIRECTOR.md §4), before you open `demo/<slug>/DEMO.md` or the demo code. Then use the demo only to learn techniques (a brush engine, a rig, a shader, a mix), never its story, arc, shots, props or timeline. A style cut from real material (Edit & Documentary) needs its material before the treatment. This edition has no demo sources, so the `demo/tools/` its `STYLE.md` names aren't here: search for material and log each item's page, author and licence yourself, as its `STYLE.md` describes.
 - **Scene styles** (a set-up guide, a spec walkthrough, a museum plate, a trail guide) list use cases in their `STYLE.md`. Read them as grammar for the order in which information arrives and how long each part needs on screen, then build the user's content in your own structure. Swapping text into a demo's `content.json` is only a technical check, never the way to deliver.
 - Never build inside `styles/`: copy what you need into the film's project folder.
 
@@ -42,7 +42,7 @@ If the user hasn't picked a style:
 - Suggest two or three that fit their topic.
 - If they have their own styles, list those first, under "My styles" (in their language).
 - Show them the full list below in the chat, in the user's language: English names and English category names. Don't drop, merge or rename anything.
-- The Watercolor demo ships at `styles/watercolor/watercolor.mp4`, with `poster.jpg` beside it. The other demo films are not included; if the user wants to watch one, say it is not bundled and do not invent a link.
+- The demo notes for every style are in the repository's `demo/<slug>/DEMO.md`, outside the installed skill. The Watercolor demo video is hosted on Supabase (`https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/watercolor.mp4`); the poster is `demo/watercolor/poster.jpg`. The other demo videos are not included; if the user wants to watch one, say it is not bundled and do not invent a link.
 - Then ask them to type the name. The list goes in your own message (a command's output isn't shown to them), and the question is plain text, not `ask_user_question`: its few options would hide the rest of the list.
 
 <!-- style-list:start -->
