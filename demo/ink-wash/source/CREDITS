@@ -1,0 +1,16 @@
+# CREDITS — A House Made of Rain
+
+A 10-second Chinese Ink Wash film, made entirely in code.
+
+## Picture
+Procedural rice paper, tapered bristled strokes, blurred ink washes and dry
+rain marks (`film.js`). No image or video sources.
+
+## Type
+Cormorant Garamond Italic — SIL Open Font License 1.1
+(`fonts/OFL-Cormorant.txt`).
+
+## Sound
+Original guqin notes, rain air, steps and seal, built from numpy and the
+library's physical models (`core/audio/pluck.py`, `core/audio/sfx.py`).
+No samples.

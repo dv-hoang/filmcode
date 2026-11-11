@@ -10,7 +10,7 @@ STYLES = ROOT / "skills" / "filmcode" / "library" / "styles"
 DEMO = ROOT / "demo"
 TEASERS = json.loads((DEMO / "teaser" / "styles.json").read_text(encoding="utf-8"))
 BASE = "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos"
-REAL = {"crayon-book", "ascii-crt", "swiss-motion"}   # hand-built demos, not generated style cards
+REAL = {"crayon-book", "ascii-crt", "swiss-motion", "ink-wash"}   # hand-built demos, not generated style cards
 WATER_URL = f"{BASE}/watercolor.mp4"
 ORDER = ["Edit & Documentary", "Evidence Films", "Hand-drawn & Painting", "East Asian Traditions",
          "Print & Printmaking", "Graphic & Type", "Information & Keynote", "Cartoon & Anime",
@@ -161,7 +161,7 @@ def main():
 <body>
 <header>
   <h1>FilmCode demos</h1>
-  <p class="lede">Every style has a demo. Watercolor is a 45-second film, Crayon Picture Book, ASCII / CRT Terminal and Swiss Motion Graphics are hand-built 10-second films, and the other styles are 10-second style teasers. Every video plays in the page.</p>
+  <p class="lede">Every style has a demo. Watercolor is a 45-second film, Crayon Picture Book, ASCII / CRT Terminal, Swiss Motion Graphics and Chinese Ink Wash are hand-built 10-second films, and the other styles are 10-second style teasers. Every video plays in the page.</p>
 </header>
 <main class="wrap"><div class="grid">
 {chr(10).join(card_html)}
@@ -176,9 +176,9 @@ def main():
     readme = ROOT / "README.md"
     t = readme.read_text(encoding="utf-8")
     section = ("## Demo video\n\n"
-               "Every style has a demo: Watercolor is a 45 s film, Crayon Picture Book, ASCII / CRT Terminal and "
-               "Swiss Motion Graphics are hand-built 10 s films, and the other 62 styles are 10 s style teasers. "
-               "Every video plays in [`demo/index.html`](demo/index.html). Enable GitHub Pages "
+               "Every style has a demo: Watercolor is a 45 s film, Crayon Picture Book, ASCII / CRT Terminal, "
+               "Swiss Motion Graphics and Chinese Ink Wash are hand-built 10 s films, and the other 61 styles are "
+               "10 s style teasers. Every video plays in [`demo/index.html`](demo/index.html). Enable GitHub Pages "
                "(Settings -> Pages -> Deploy from a branch -> `main` / root) and open "
                "`https://dv-hoang.github.io/filmcode/demo/`.\n\n")
     t = re.sub(r"## Demo video\n.*?\n## Layout", section + "## Layout", t, flags=re.S)

@@ -9,7 +9,7 @@ OUT=${1:-$ROOT/films/teasers}
 for f in "$OUT"/*.mp4; do
   [ -f "$f" ] || continue
   slug=$(basename "$f" .mp4)
-  case "$slug" in crayon-book|ascii-crt|swiss-motion) continue;; esac
+  case "$slug" in crayon-book|ascii-crt|swiss-motion|ink-wash) continue;; esac
   echo "upload $slug"
   if ! sh "$ROOT/scripts/upload-supabase.sh" "$f" "$slug.mp4"; then
     echo "FAIL $slug" >&2

@@ -4,15 +4,16 @@
  "en": "Chinese Ink Wash",
  "category_en": "Hand-drawn & Painting",
  "film": "A House Made of Rain",
- "line": "A 10-second Chinese Ink Wash style teaser: \"A House Made of Rain\".",
+ "line": "A traveller crosses the rain toward a small house, and the painting builds itself in ink.",
  "uses": [
   "Wuxia",
   "Cultural brands",
   "Poetry"
  ],
- "frame_sec": 5.0,
+ "frame_sec": 6.2,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ink-wash.mp4",
  "demo_topic": "A House Made of Rain",
- "demo_seconds": 10
+ "demo_seconds": 10,
+ "demo_kind": "film"
 }

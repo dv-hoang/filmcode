@@ -1,7 +1,8 @@
-# Chinese Ink Wash — 10 s teaser
+# Chinese Ink Wash — A House Made of Rain
 
-Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ink-wash.mp4) — "A House Made of Rain"
+Watch: [10 s demo](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ink-wash.mp4)
+Source: [source/](source/)
 
-A 10-second style card for FilmCode (Hand-drawn & Painting): palette `#f2ecde`, `#d2402f`, `#2e8b57`, `#b02e22`; a serif typeface; a orbit motion motif. Silent, generated, not a story.
+10.0 s, 1920x1080, 24 fps, stereo. A traveller with a red umbrella crosses the rain toward a small ink house; mountains, mist and rain are painted in five tones, then a vertical title and vermilion seal close the page.
 
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/ink-wash/STYLE.md)
+Style rules: [STYLE.md](../../skills/filmcode/library/styles/ink-wash/STYLE.md) · build: [source/build.sh](source/build.sh)
