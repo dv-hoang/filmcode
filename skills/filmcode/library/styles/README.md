@@ -8,8 +8,8 @@ Archived styles (not offered to agents) live in [`_archive/`](_archive/). See [`
 | Style | Folder | Our demo |
 |---|---|---|
 | 1920s Newsreel | [`newsreel`](newsreel/STYLE.md) | *Nine Minutes of Rain* (10 s) · [notes](../../../../demo/newsreel/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/newsreel.mp4) |
-| Broadcast News Package | [`broadcast-package`](broadcast-package/STYLE.md) | *The Quiet Deadline* (10 s) · [notes](../../../../demo/broadcast-package/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/news-package.mp4) |
-| Social Caption News | [`social-captions`](social-captions/STYLE.md) | *The Last Dispatch* (10 s) · [notes](../../../../demo/social-captions/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/caption-news.mp4) |
+| Broadcast News Package | [`broadcast-package`](broadcast-package/STYLE.md) | *The Quiet Deadline* (10 s) · [notes](../../../../demo/broadcast-package/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/broadcast-package.mp4) |
+| Social Caption News | [`social-captions`](social-captions/STYLE.md) | *The Last Dispatch* (10 s) · [notes](../../../../demo/social-captions/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/social-captions.mp4) |
 | Sports Telestrator | [`telestrator`](telestrator/STYLE.md) | *One Frame of Evidence* (10 s) · [notes](../../../../demo/telestrator/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/telestrator.mp4) |
 | Visual Investigation | [`visual-investigation`](visual-investigation/STYLE.md) | *Signal Lost* (10 s) · [notes](../../../../demo/visual-investigation/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/visual-investigation.mp4) |
 
@@ -21,8 +21,8 @@ Archived styles (not offered to agents) live in [`_archive/`](_archive/). See [`
 | Exploded Teardown | [`teardown`](teardown/STYLE.md) | *What the Ice Kept* (10 s) · [notes](../../../../demo/teardown/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/teardown.mp4) |
 | LiDAR Survey | [`lidar-survey`](lidar-survey/STYLE.md) | *The Weight of a Shadow* (10 s) · [notes](../../../../demo/lidar-survey/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/lidar-survey.mp4) |
 | Microscope Story | [`microscope`](microscope/STYLE.md) | *The Shape of a Street* (10 s) · [notes](../../../../demo/microscope/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/microscope.mp4) |
-| Photo Briefing Board | [`photo-briefing`](photo-briefing/STYLE.md) | *A Map of Moving Water* (10 s) · [notes](../../../../demo/photo-briefing/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/briefing-board.mp4) |
-| Projected White Model | [`projected-model`](projected-model/STYLE.md) | *Traces in the Concrete* (10 s) · [notes](../../../../demo/projected-model/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/white-model.mp4) |
+| Photo Briefing Board | [`photo-briefing`](photo-briefing/STYLE.md) | *A Map of Moving Water* (10 s) · [notes](../../../../demo/photo-briefing/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/photo-briefing.mp4) |
+| Projected White Model | [`projected-model`](projected-model/STYLE.md) | *Traces in the Concrete* (10 s) · [notes](../../../../demo/projected-model/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/projected-model.mp4) |
 | Satellite Briefing | [`satellite-briefing`](satellite-briefing/STYLE.md) | *The Forest Under the Forest* (10 s) · [notes](../../../../demo/satellite-briefing/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/satellite-briefing.mp4) |
 
 ## Hand-drawn & Painting
@@ -42,7 +42,7 @@ Archived styles (not offered to agents) live in [`_archive/`](_archive/). See [`
 
 | Style | Folder | Our demo |
 |---|---|---|
-| Paper-cut Lightbox | [`paper-lightbox`](paper-lightbox/STYLE.md) | *Ten Thousand Cranes* (10 s) · [notes](../../../../demo/paper-lightbox/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/paper-lantern.mp4) |
+| Paper-cut Lightbox | [`paper-lightbox`](paper-lightbox/STYLE.md) | *Ten Thousand Cranes* (10 s) · [notes](../../../../demo/paper-lightbox/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/paper-lightbox.mp4) |
 | Red Paper-cut | [`papercut-red`](papercut-red/STYLE.md) | *The Mountain That Moved* (10 s) · [notes](../../../../demo/papercut-red/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/papercut-red.mp4) |
 | Shadow Puppetry | [`shadow-puppet`](shadow-puppet/STYLE.md) | *The Lantern Keeper* (10 s) · [notes](../../../../demo/shadow-puppet/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/shadow-puppet.mp4) |
 | Ukiyo-e | [`ukiyoe`](ukiyoe/STYLE.md) | *A River in Winter* (10 s) · [notes](../../../../demo/ukiyoe/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ukiyoe.mp4) |
@@ -72,7 +72,7 @@ Archived styles (not offered to agents) live in [`_archive/`](_archive/). See [`
 
 | Style | Folder | Our demo |
 |---|---|---|
-| Dark Product Keynote | [`product-keynote`](product-keynote/STYLE.md) | *The Data Behind the Day* (10 s) · [notes](../../../../demo/product-keynote/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/dark-keynote.mp4) |
+| Dark Product Keynote | [`product-keynote`](product-keynote/STYLE.md) | *The Data Behind the Day* (10 s) · [notes](../../../../demo/product-keynote/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/product-keynote.mp4) |
 | Data Storytelling | [`dataviz`](dataviz/STYLE.md) | *The Quiet Launch* (10 s) · [notes](../../../../demo/dataviz/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/dataviz.mp4) |
 | Isometric Infographic | [`iso-infographic`](iso-infographic/STYLE.md) | *A Product in Three Acts* (10 s) · [notes](../../../../demo/iso-infographic/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/iso-infographic.mp4) |
 | Living Screencast | [`living-screencast`](living-screencast/STYLE.md) | *The Map of a Decision* (10 s) · [notes](../../../../demo/living-screencast/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/living-screencast.mp4) |
@@ -92,7 +92,7 @@ Archived styles (not offered to agents) live in [`_archive/`](_archive/). See [`
 | Style | Folder | Our demo |
 |---|---|---|
 | 16-bit Pixel RPG | [`pixel-rpg`](pixel-rpg/STYLE.md) | *The Final Save* (10 s) · [notes](../../../../demo/pixel-rpg/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/pixel-rpg.mp4) |
-| HD-2D Diorama | [`hd2d-diorama`](hd2d-diorama/STYLE.md) | *A Level Without a Map* (10 s) · [notes](../../../../demo/hd2d-diorama/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/hd-2d.mp4) |
+| HD-2D Diorama | [`hd2d-diorama`](hd2d-diorama/STYLE.md) | *A Level Without a Map* (10 s) · [notes](../../../../demo/hd2d-diorama/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/hd2d-diorama.mp4) |
 | Microgame Frenzy | [`microgame`](microgame/STYLE.md) | *The Bonus Round* (10 s) · [notes](../../../../demo/microgame/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/microgame.mp4) |
 
 ## Cinema & Eras
@@ -100,7 +100,7 @@ Archived styles (not offered to agents) live in [`_archive/`](_archive/). See [`
 | Style | Folder | Our demo |
 |---|---|---|
 | 1920s Silent Film | [`silent-film`](silent-film/STYLE.md) | *The Silent Projector* (10 s) · [notes](../../../../demo/silent-film/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/silent-film.mp4) |
-| Liminal Found Footage | [`liminal-footage`](liminal-footage/STYLE.md) | *A Night in 1927* (10 s) · [notes](../../../../demo/liminal-footage/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/backrooms.mp4) |
+| Liminal Found Footage | [`liminal-footage`](liminal-footage/STYLE.md) | *A Night in 1927* (10 s) · [notes](../../../../demo/liminal-footage/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/liminal-footage.mp4) |
 
 ## Materials & 3D
 
@@ -108,7 +108,7 @@ Archived styles (not offered to agents) live in [`_archive/`](_archive/). See [`
 |---|---|---|
 | Brick Toy | [`brick-toy`](brick-toy/STYLE.md) | *The Table of Objects* (10 s) · [notes](../../../../demo/brick-toy/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/brick-toy.mp4) |
 | Glass Product Render | [`glass-product`](glass-product/STYLE.md) | *The Model Room* (10 s) · [notes](../../../../demo/glass-product/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/glass-product.mp4) |
-| Low-poly Isometric | [`lowpoly-isometric`](lowpoly-isometric/STYLE.md) | *The Paper Machine* (10 s) · [notes](../../../../demo/lowpoly-isometric/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/lowpoly-island.mp4) |
+| Low-poly Isometric | [`lowpoly-isometric`](lowpoly-isometric/STYLE.md) | *The Paper Machine* (10 s) · [notes](../../../../demo/lowpoly-isometric/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/lowpoly-isometric.mp4) |
 | Paper Pop-up Book | [`paper-popup`](paper-popup/STYLE.md) | *A City on a Desk* (10 s) · [notes](../../../../demo/paper-popup/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/paper-popup.mp4) |
 | Tilt-Shift Miniature | [`tilt-shift`](tilt-shift/STYLE.md) | *The Glass Prototype* (10 s) · [notes](../../../../demo/tilt-shift/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/tilt-shift.mp4) |
 

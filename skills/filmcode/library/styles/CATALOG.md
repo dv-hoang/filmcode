@@ -33,4 +33,4 @@ Restructured from 66 → **54** live styles. Cut styles live under `_archive/` (
 | `lowpoly-island` | `lowpoly-isometric` | Low-poly Isometric |
 | `backrooms` | `liminal-footage` | Liminal Found Footage |
 
-Supabase object names for renamed styles may still use the **old** slug until re-uploaded.
+Supabase objects for renamed styles now use the **new** slug (`social-captions.mp4`, etc.). Old object names remain as leftovers and can be deleted from the bucket later.
