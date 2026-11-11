@@ -1,5 +1,7 @@
 # Desktop Flythrough — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/desktop-flythrough.mp4) — "The Object in Pieces"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: * · Before the Ding* (59.95 s) · `desktop-flythrough.mp4` · source in [`demo/`](demo)

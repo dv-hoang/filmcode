@@ -1,5 +1,7 @@
 # Mid-century Cartoon — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/midcentury-toon.mp4) — "The Last Arcade"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Meet Pip* (40.0 s) · `midcentury-toon.mp4` · source in [`demo/`](demo/)

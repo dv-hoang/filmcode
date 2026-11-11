@@ -11,5 +11,8 @@
   "Coaching"
  ],
  "frame_sec": 13.6,
- "dur": 54.4
+ "dur": 54.4,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/telestrator.mp4",
+ "demo_topic": "One Frame of Evidence",
+ "demo_seconds": 10
 }

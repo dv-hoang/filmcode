@@ -11,5 +11,8 @@
   "Space"
  ],
  "frame_sec": 38.88,
- "dur": 54.0
+ "dur": 54.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/brick-toy.mp4",
+ "demo_topic": "The Table of Objects",
+ "demo_seconds": 10
 }

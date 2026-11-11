@@ -11,5 +11,8 @@
   "Variety shows"
  ],
  "frame_sec": 74.4,
- "dur": 148.8
+ "dur": 148.8,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/game-show.mp4",
+ "demo_topic": "Player Two",
+ "demo_seconds": 10
 }

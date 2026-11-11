@@ -11,5 +11,8 @@
   "Poetry"
  ],
  "frame_sec": 26.4,
- "dur": 44.0
+ "dur": 44.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ukiyoe.mp4",
+ "demo_topic": "A River in Winter",
+ "demo_seconds": 10
 }

@@ -11,5 +11,8 @@
   "Nostalgia"
  ],
  "frame_sec": 27.25,
- "dur": 54.5
+ "dur": 54.5,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/pixel-rpg.mp4",
+ "demo_topic": "The Final Save",
+ "demo_seconds": 10
 }

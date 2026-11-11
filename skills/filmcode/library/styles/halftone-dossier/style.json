@@ -11,5 +11,8 @@
   "Social shorts"
  ],
  "frame_sec": 9.0,
- "dur": 30.0
+ "dur": 30.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/halftone-dossier.mp4",
+ "demo_topic": "A City in Six Colours",
+ "demo_seconds": 10
 }

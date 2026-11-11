@@ -1,5 +1,7 @@
 # Live Countdown Split-screen — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/countdown.mp4) — "A City at Four in the Morning"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Counting Itself Down* (, 59.5 s) · `countdown.mp4` · source in [`demo/`](demo)

@@ -11,5 +11,8 @@
   "Tech brands"
  ],
  "frame_sec": 50.23,
- "dur": 59.8
+ "dur": 59.8,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ascii-crt.mp4",
+ "demo_topic": "The Moving Sign",
+ "demo_seconds": 10
 }

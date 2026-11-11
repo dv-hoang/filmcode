@@ -1,5 +1,7 @@
 # Living Screencast — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/living-screencast.mp4) — "The Map of a Decision"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Clawd Moves In* (59.4 s) · `living-screencast.mp4` · source in [`demo/`](demo/) · CommandCode in its desktop app, with Clawd (the CommandCode pixel mascot) as the protagonist. Unofficial fan film; the CommandCode team did not make or endorse it.

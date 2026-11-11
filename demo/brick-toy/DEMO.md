@@ -1,5 +1,7 @@
 # Brick Toy — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/brick-toy.mp4) — "The Table of Objects"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Rocket from Spare Parts* (54 s) · `brick-toy.mp4` · source in [`demo/`](demo/) · asset credits [`demo/CREDITS`](demo/CREDITS)

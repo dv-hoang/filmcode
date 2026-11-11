@@ -11,5 +11,8 @@
   "Spec explainers"
  ],
  "frame_sec": 9.75,
- "dur": 38.8
+ "dur": 38.8,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/teardown.mp4",
+ "demo_topic": "What the Ice Kept",
+ "demo_seconds": 10
 }

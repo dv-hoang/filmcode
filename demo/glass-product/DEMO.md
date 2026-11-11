@@ -1,5 +1,7 @@
 # Glass Product Render — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/glass-product.mp4) — "The Model Room"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Aura — Hear the Light* (32 s) · `glass-product.mp4` · source in [`demo/`](demo/)

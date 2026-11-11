@@ -11,5 +11,8 @@
   "Lifestyle brands"
  ],
  "frame_sec": 16.2,
- "dur": 33.4
+ "dur": 33.4,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/urban-sketch.mp4",
+ "demo_topic": "A Window Facing North",
+ "demo_seconds": 10
 }

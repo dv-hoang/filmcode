@@ -1,5 +1,7 @@
 # 80s Cel Anime — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/cel-anime-80s.mp4) — "A Robot's Day Off"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *City Lights, 1987* (59 s) · `cel-anime-80s.mp4` · source in [`demo/`](demo/)

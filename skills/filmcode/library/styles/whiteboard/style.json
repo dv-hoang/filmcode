@@ -11,5 +11,8 @@
   "Science"
  ],
  "frame_sec": 55.5,
- "dur": 111.0
+ "dur": 111.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/whiteboard.mp4",
+ "demo_topic": "The Garden That Waited",
+ "demo_seconds": 10
 }

@@ -11,5 +11,8 @@
   "Energy data"
  ],
  "frame_sec": 37.8,
- "dur": 39.4
+ "dur": 39.4,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/data-physical.mp4",
+ "demo_topic": "The Missing Kilometre",
+ "demo_seconds": 10
 }

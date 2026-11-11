@@ -1,5 +1,7 @@
 # Circuit Board — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/circuit-board.mp4) — "The Case for Less"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Seven Milliseconds* (60 s, Chinese voice-over, bilingual subtitles) · `circuit-board.mp4` · source in [`demo/`](demo)

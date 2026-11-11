@@ -1,5 +1,7 @@
 # Pictogram Motion — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/pictogram-motion.mp4) — "One Colour Only"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Left Behind* (50.0 s, 1920×1080, 24 fps) · `pictogram-motion.mp4` · source in [`demo/`](demo)

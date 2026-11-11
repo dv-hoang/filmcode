@@ -11,5 +11,8 @@
   "Kids"
  ],
  "frame_sec": 30.0,
- "dur": 50.0
+ "dur": 50.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/rubber-hose.mp4",
+ "demo_topic": "The Late Delivery",
+ "demo_seconds": 10
 }

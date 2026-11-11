@@ -11,5 +11,8 @@
   "Lessons"
  ],
  "frame_sec": 42.5,
- "dur": 49.3
+ "dur": 49.3,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/chalkboard.mp4",
+ "demo_topic": "The Last Sketchbook",
+ "demo_seconds": 10
 }

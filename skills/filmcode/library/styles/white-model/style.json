@@ -11,5 +11,8 @@
   "City data"
  ],
  "frame_sec": 30.4,
- "dur": 40.0
+ "dur": 40.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/white-model.mp4",
+ "demo_topic": "Traces in the Concrete",
+ "demo_seconds": 10
 }

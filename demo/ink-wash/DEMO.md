@@ -1,5 +1,7 @@
 # Chinese Ink Wash — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ink-wash.mp4) — "A House Made of Rain"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *The Swordsman and the River* (48 s) · `ink-wash.mp4` · source in [`demo/`](demo/)

@@ -1,5 +1,7 @@
 # Tilt-Shift Miniature — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/tilt-shift.mp4) — "The Glass Prototype"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Toy Town Rush Hour* (38 s) · `tilt-shift.mp4` · source in [`demo/`](demo/)

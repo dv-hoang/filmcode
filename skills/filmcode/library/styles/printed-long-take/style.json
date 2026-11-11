@@ -11,5 +11,8 @@
   "Landscapes"
  ],
  "frame_sec": 15.4,
- "dur": 60.0
+ "dur": 60.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/printed-long-take.mp4",
+ "demo_topic": "The Woodcutter's Map",
+ "demo_seconds": 10
 }

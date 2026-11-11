@@ -1,5 +1,7 @@
 # Crayon Picture Book — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/crayon-book.mp4) — "The Orchard at First Light"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *The Moon Can't Sleep* (52 s) · `crayon-book.mp4` · source in [`demo/`](demo/)

@@ -1,5 +1,7 @@
 # Memphis Diorama — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/memphis-diorama.mp4) — "The Weight of Light"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Four Seasons in Pomelo Town* (, 45 s) · `memphis-diorama.mp4` · source in [`demo/`](demo)

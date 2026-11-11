@@ -1,5 +1,7 @@
 # One-line Drawing — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/one-line.mp4) — "Paper Boats at Dusk"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *The Line That Never Lifted* (47.5 s) · `one-line.mp4` · source in [`demo/`](demo/)

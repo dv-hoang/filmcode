@@ -11,5 +11,8 @@
   "Social shorts"
  ],
  "frame_sec": 11.5,
- "dur": 57.5
+ "dur": 57.5,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/scifi-toon.mp4",
+ "demo_topic": "The Cat in the Rain",
+ "demo_seconds": 10
 }

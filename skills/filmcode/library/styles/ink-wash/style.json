@@ -11,5 +11,8 @@
   "Poetry"
  ],
  "frame_sec": 34.56,
- "dur": 48.0
+ "dur": 48.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ink-wash.mp4",
+ "demo_topic": "A House Made of Rain",
+ "demo_seconds": 10
 }

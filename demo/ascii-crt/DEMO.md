@@ -1,5 +1,7 @@
 # ASCII / CRT Terminal — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ascii-crt.mp4) — "The Moving Sign"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *TRANQUILITY.LOG* (59.8 s) · `ascii-crt.mp4` · source in [`demo/`](demo/)

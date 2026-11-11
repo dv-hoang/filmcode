@@ -11,5 +11,8 @@
   "Onboarding"
  ],
  "frame_sec": 5.94,
- "dur": 59.4
+ "dur": 59.4,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/living-screencast.mp4",
+ "demo_topic": "The Map of a Decision",
+ "demo_seconds": 10
 }

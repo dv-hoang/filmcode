@@ -1,5 +1,7 @@
 # Red Paper-cut — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/papercut-red.mp4) — "The Mountain That Moved"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Nian Comes to Town* (49 s) · `papercut-red.mp4` · source in [`demo/`](demo/)

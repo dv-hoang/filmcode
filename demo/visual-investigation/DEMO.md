@@ -1,5 +1,7 @@
 # Visual Investigation — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/visual-investigation.mp4) — "Signal Lost"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *The Hindenburg: Four Minutes, 32 Seconds* (, 60.0 s) · `visual-investigation.mp4` · source in [`demo/`](demo)

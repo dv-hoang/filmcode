@@ -11,5 +11,8 @@
   "Invitations"
  ],
  "frame_sec": 17.52,
- "dur": 58.4
+ "dur": 58.4,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/art-deco.mp4",
+ "demo_topic": "The Type Specimen",
+ "demo_seconds": 10
 }

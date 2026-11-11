@@ -1,5 +1,7 @@
 # Copperplate Engraving — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/engraving.mp4) — "The Bell Foundry"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *The Honeybee, Plate VII* (40.0 s) · `engraving.mp4` · source in [`demo/`](demo/) · all words from [`demo/content.json`](demo/content.json)

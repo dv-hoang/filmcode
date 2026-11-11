@@ -11,5 +11,8 @@
   "Festivals"
  ],
  "frame_sec": 21.76,
- "dur": 54.4
+ "dur": 54.4,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/shadow-puppet.mp4",
+ "demo_topic": "The Lantern Keeper",
+ "demo_seconds": 10
 }

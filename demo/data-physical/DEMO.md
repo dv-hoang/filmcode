@@ -1,5 +1,7 @@
 # Data Physicalization — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/data-physical.mp4) — "The Missing Kilometre"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Two Spirals* (39.4 s) · `data-physical.mp4` · source in [`demo/`](demo)

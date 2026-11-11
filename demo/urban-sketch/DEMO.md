@@ -1,5 +1,7 @@
 # Urban Sketch · Pen & Wash — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/urban-sketch.mp4) — "A Window Facing North"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Where the Wind Went* (33.4 s, 1920×1080, 24 fps, no voice-over) · `urban-sketch.mp4` · source in [`demo/`](demo/)

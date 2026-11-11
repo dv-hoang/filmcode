@@ -11,5 +11,8 @@
   "Silent storytelling"
  ],
  "frame_sec": 39.02,
- "dur": 54.2
+ "dur": 54.2,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/silent-film.mp4",
+ "demo_topic": "The Silent Projector",
+ "demo_seconds": 10
 }

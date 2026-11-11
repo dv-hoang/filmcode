@@ -1,5 +1,7 @@
 # Data Storytelling — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/dataviz.mp4) — "The Quiet Launch"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *A Hundred Summers* (50.0 s) · `dataviz.mp4` · source in [`demo/`](demo/)

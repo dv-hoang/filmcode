@@ -1,5 +1,7 @@
 # Low-poly Isometric Island — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/lowpoly-island.mp4) — "The Paper Machine"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *The Island That Grew* (53 s) · `lowpoly-island.mp4` · source in [`demo/`](demo/)

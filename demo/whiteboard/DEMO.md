@@ -1,5 +1,7 @@
 # Whiteboard Explainer — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/whiteboard.mp4) — "The Garden That Waited"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Einstein in Your Pocket* (111 s) · `whiteboard.mp4` · source in [`demo/`](demo/)

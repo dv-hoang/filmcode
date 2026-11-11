@@ -1,5 +1,7 @@
 # Engineering Briefing Board — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/briefing-board.mp4) — "A Map of Moving Water"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *The Ship Decides* (, 40.0 s) · `briefing-board.mp4` · source in [`demo/`](demo)

@@ -1,5 +1,7 @@
 # Impasto · Palette Knife — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/impasto.mp4) — "The Colour of Distance"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *The Colour of Rain* (39.7 s) · `impasto.mp4` · source in [`demo/`](demo/)

@@ -1,5 +1,7 @@
 # Halftone Dossier — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/halftone-dossier.mp4) — "A City in Six Colours"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: * Case File: Chubby* (30.0 s) · `halftone-dossier.mp4` · source in [`demo/`](demo) · engine: one self-contained `demo/index.html` (SVG scene graph + two Canvas 2D overlays), rendered frame by frame by Playwright headless Chromium at 1920×1080 / 30 fps; score and SFX synthesized in `demo/music.py`.

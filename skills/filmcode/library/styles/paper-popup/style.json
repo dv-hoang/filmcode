@@ -11,5 +11,8 @@
   "Story films"
  ],
  "frame_sec": 26.6,
- "dur": 133.0
+ "dur": 133.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/paper-popup.mp4",
+ "demo_topic": "A City on a Desk",
+ "demo_seconds": 10
 }

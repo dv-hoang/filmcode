@@ -11,5 +11,8 @@
   "Geography"
  ],
  "frame_sec": 13.6,
- "dur": 37.8
+ "dur": 37.8,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/satellite-briefing.mp4",
+ "demo_topic": "The Forest Under the Forest",
+ "demo_seconds": 10
 }

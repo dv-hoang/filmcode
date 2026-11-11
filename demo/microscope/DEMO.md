@@ -1,5 +1,7 @@
 # Microscope Story — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/microscope.mp4) — "The Shape of a Street"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Measured Blue* (39.5 s) · `microscope.mp4` · source in [`demo/`](demo)

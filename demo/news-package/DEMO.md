@@ -1,5 +1,7 @@
 # Broadcast News Package — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/news-package.mp4) — "The Quiet Deadline"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *The Week in AI* ( AI, 53.5 s) · `news-package.mp4` · subtitles `news-package.srt` (external only, Chinese + English) · source in [`demo/`](demo)

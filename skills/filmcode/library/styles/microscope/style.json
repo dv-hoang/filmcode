@@ -11,5 +11,8 @@
   "Skincare science"
  ],
  "frame_sec": 24.6,
- "dur": 39.5
+ "dur": 39.5,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/microscope.mp4",
+ "demo_topic": "The Shape of a Street",
+ "demo_seconds": 10
 }

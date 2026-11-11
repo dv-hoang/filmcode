@@ -1,5 +1,7 @@
 # Exploded Teardown — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/teardown.mp4) — "What the Ice Kept"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *21 Keys, Opened* (38.75 s) · `teardown.mp4` · source in [`demo/`](demo)

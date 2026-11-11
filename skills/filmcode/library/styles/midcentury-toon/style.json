@@ -11,5 +11,8 @@
   "How-to"
  ],
  "frame_sec": 3.2,
- "dur": 40.0
+ "dur": 40.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/midcentury-toon.mp4",
+ "demo_topic": "The Last Arcade",
+ "demo_seconds": 10
 }

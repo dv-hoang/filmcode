@@ -1,5 +1,7 @@
 # Game Show Flat — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/game-show.mp4) — "Player Two"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *AI · Rhythm of AI 1997 → 2026* (148.8 s, 1920×1080, 30 fps) · `game-show.mp4` · source in [`demo/`](demo) · engine: plain SVG DOM with a pure `render(t)`, screenshotted by Playwright + Chrome Headless Shell; original score synthesized in numpy from the picture's own `events.json`.

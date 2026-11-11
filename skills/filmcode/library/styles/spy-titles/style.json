@@ -11,5 +11,8 @@
   "Trailers"
  ],
  "frame_sec": 26.46,
- "dur": 44.1
+ "dur": 44.1,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/spy-titles.mp4",
+ "demo_topic": "A Signal in Red",
+ "demo_seconds": 10
 }

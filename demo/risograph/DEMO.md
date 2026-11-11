@@ -1,5 +1,7 @@
 # Risograph Print — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/risograph.mp4) — "The Ink Workshop"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Sunday Ride* (40 s) · `risograph.mp4` · source in [`demo/`](demo/)

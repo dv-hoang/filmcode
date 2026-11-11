@@ -11,5 +11,8 @@
   "Holiday stories"
  ],
  "frame_sec": 40.68,
- "dur": 56.5
+ "dur": 56.5,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/stained-glass.mp4",
+ "demo_topic": "The Diagonal Rule",
+ "demo_seconds": 10
 }

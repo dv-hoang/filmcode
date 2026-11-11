@@ -11,5 +11,8 @@
   "Trade shows"
  ],
  "frame_sec": 25.5,
- "dur": 39.0
+ "dur": 39.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/hologram-hud.mp4",
+ "demo_topic": "The Room That Thinks",
+ "demo_seconds": 10
 }

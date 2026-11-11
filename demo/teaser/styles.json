@@ -1,0 +1,1042 @@
+[
+ {
+  "slug": "crayon-book",
+  "en": "Crayon Picture Book",
+  "category": "Hand-drawn & Painting",
+  "num": 1,
+  "topic": "The Orchard at First Light",
+  "colors": {
+   "bg": "#f4efe3",
+   "ink": "#1d1a17",
+   "accent": "#d2402f",
+   "support": "#2e8b57"
+  },
+  "type": "serif",
+  "motif": "rings",
+  "seed": 6702
+ },
+ {
+  "slug": "ink-wash",
+  "en": "Chinese Ink Wash",
+  "category": "Hand-drawn & Painting",
+  "num": 3,
+  "topic": "A House Made of Rain",
+  "colors": {
+   "bg": "#f2ecde",
+   "ink": "#b02e22",
+   "accent": "#d2402f",
+   "support": "#2e8b57"
+  },
+  "type": "serif",
+  "motif": "orbit",
+  "seed": 3640
+ },
+ {
+  "slug": "impasto",
+  "en": "Impasto Oil Painting",
+  "category": "Hand-drawn & Painting",
+  "num": 4,
+  "topic": "The Colour of Distance",
+  "colors": {
+   "bg": "#f4efe3",
+   "ink": "#1d1a17",
+   "accent": "#d97757",
+   "support": "#f0a07a"
+  },
+  "type": "serif",
+  "motif": "columns",
+  "seed": 3095
+ },
+ {
+  "slug": "one-line",
+  "en": "One-line Drawing",
+  "category": "Hand-drawn & Painting",
+  "num": 5,
+  "topic": "Paper Boats at Dusk",
+  "colors": {
+   "bg": "#f4efe4",
+   "ink": "#1d1a17",
+   "accent": "#d2402f",
+   "support": "#2e8b57"
+  },
+  "type": "serif",
+  "motif": "wave",
+  "seed": 3562
+ },
+ {
+  "slug": "whiteboard",
+  "en": "Whiteboard Explainer",
+  "category": "Hand-drawn & Painting",
+  "num": 6,
+  "topic": "The Garden That Waited",
+  "colors": {
+   "bg": "#23262c",
+   "ink": "#d97757",
+   "accent": "#1f8a8a",
+   "support": "#2a5cb3"
+  },
+  "type": "serif",
+  "motif": "grid",
+  "seed": 5778
+ },
+ {
+  "slug": "shadow-puppet",
+  "en": "Shadow Puppetry",
+  "category": "East Asian Traditions",
+  "num": 7,
+  "topic": "The Lantern Keeper",
+  "colors": {
+   "bg": "#f2ecde",
+   "ink": "#1f1a17",
+   "accent": "#b02e22",
+   "support": "#000"
+  },
+  "type": "serif",
+  "motif": "rings",
+  "seed": 9619
+ },
+ {
+  "slug": "ukiyoe",
+  "en": "Ukiyo-e",
+  "category": "East Asian Traditions",
+  "num": 8,
+  "topic": "A River in Winter",
+  "colors": {
+   "bg": "#f2ecde",
+   "ink": "#1f1a17",
+   "accent": "#b02e22",
+   "support": "#3a4a3f"
+  },
+  "type": "serif",
+  "motif": "bands",
+  "seed": 2291
+ },
+ {
+  "slug": "papercut-red",
+  "en": "Red Paper-cut",
+  "category": "East Asian Traditions",
+  "num": 9,
+  "topic": "The Mountain That Moved",
+  "colors": {
+   "bg": "#f2ecde",
+   "ink": "#1f1a17",
+   "accent": "#c8102e",
+   "support": "#d7261e"
+  },
+  "type": "serif",
+  "motif": "orbit",
+  "seed": 7813
+ },
+ {
+  "slug": "paper-lantern",
+  "en": "Paper-cut Lightbox",
+  "category": "East Asian Traditions",
+  "num": 10,
+  "topic": "Ten Thousand Cranes",
+  "colors": {
+   "bg": "#dfe6ee",
+   "ink": "#1e0e08",
+   "accent": "#0a1330",
+   "support": "#6a86c2"
+  },
+  "type": "serif",
+  "motif": "columns",
+  "seed": 9477
+ },
+ {
+  "slug": "risograph",
+  "en": "Risograph Print",
+  "category": "Print & Printmaking",
+  "num": 12,
+  "topic": "The Ink Workshop",
+  "colors": {
+   "bg": "#f4eee2",
+   "ink": "#3d5588",
+   "accent": "#0078bf",
+   "support": "#ffe800"
+  },
+  "type": "serif",
+  "motif": "grid",
+  "seed": 4823
+ },
+ {
+  "slug": "halftone-dossier",
+  "en": "Halftone Dossier",
+  "category": "Print & Printmaking",
+  "num": 13,
+  "topic": "A City in Six Colours",
+  "colors": {
+   "bg": "#f5f0e6",
+   "ink": "#171717",
+   "accent": "#c8363a",
+   "support": "#2a5cb3"
+  },
+  "type": "serif",
+  "motif": "rings",
+  "seed": 14164
+ },
+ {
+  "slug": "woodcut",
+  "en": "Woodcut Print",
+  "category": "Print & Printmaking",
+  "num": 15,
+  "topic": "The Paper Route",
+  "colors": {
+   "bg": "#f5f0e6",
+   "ink": "#171717",
+   "accent": "#c8363a",
+   "support": "#2a5cb3"
+  },
+  "type": "serif",
+  "motif": "orbit",
+  "seed": 3083
+ },
+ {
+  "slug": "swiss-motion",
+  "en": "Swiss Motion Graphics",
+  "category": "Graphic & Type",
+  "num": 16,
+  "topic": "The Grid System",
+  "colors": {
+   "bg": "#ffffff",
+   "ink": "#0b0b0b",
+   "accent": "#ff5a00",
+   "support": "#eae9e5"
+  },
+  "type": "sans",
+  "motif": "columns",
+  "seed": 8259
+ },
+ {
+  "slug": "spy-titles",
+  "en": "60s Spy Title Sequence",
+  "category": "Graphic & Type",
+  "num": 17,
+  "topic": "A Signal in Red",
+  "colors": {
+   "bg": "#ece6d6",
+   "ink": "#1b1714",
+   "accent": "#d23a22",
+   "support": "#efe4c9"
+  },
+  "type": "sans",
+  "motif": "wave",
+  "seed": 5827
+ },
+ {
+  "slug": "art-deco",
+  "en": "Art Deco",
+  "category": "Graphic & Type",
+  "num": 18,
+  "topic": "The Type Specimen",
+  "colors": {
+   "bg": "#f2f2f0",
+   "ink": "#111111",
+   "accent": "#e2483d",
+   "support": "#6b4ce6"
+  },
+  "type": "sans",
+  "motif": "grid",
+  "seed": 3540
+ },
+ {
+  "slug": "blueprint",
+  "en": "Blueprint",
+  "category": "Graphic & Type",
+  "num": 19,
+  "topic": "Fifty Years of Posters",
+  "colors": {
+   "bg": "#0d1116",
+   "ink": "#e7f0f9",
+   "accent": "#e2483d",
+   "support": "#18336b"
+  },
+  "type": "sans",
+  "motif": "rings",
+  "seed": 4972
+ },
+ {
+  "slug": "stained-glass",
+  "en": "Stained Glass",
+  "category": "Graphic & Type",
+  "num": 20,
+  "topic": "The Diagonal Rule",
+  "colors": {
+   "bg": "#f2f2f0",
+   "ink": "#111111",
+   "accent": "#e2483d",
+   "support": "#6b4ce6"
+  },
+  "type": "sans",
+  "motif": "bands",
+  "seed": 9223
+ },
+ {
+  "slug": "pictogram-motion",
+  "en": "Pictogram Motion",
+  "category": "Graphic & Type",
+  "num": 21,
+  "topic": "One Colour Only",
+  "colors": {
+   "bg": "#f2f2f0",
+   "ink": "#111111",
+   "accent": "#e2483d",
+   "support": "#6b4ce6"
+  },
+  "type": "sans",
+  "motif": "orbit",
+  "seed": 14195
+ },
+ {
+  "slug": "ascii-crt",
+  "en": "ASCII / CRT Terminal",
+  "category": "Graphic & Type",
+  "num": 22,
+  "topic": "The Moving Sign",
+  "colors": {
+   "bg": "#f2f2f0",
+   "ink": "#111111",
+   "accent": "#e2483d",
+   "support": "#6b4ce6"
+  },
+  "type": "sans",
+  "motif": "columns",
+  "seed": 4488
+ },
+ {
+  "slug": "dataviz",
+  "en": "Data Storytelling",
+  "category": "Information & Keynote",
+  "num": 23,
+  "topic": "The Quiet Launch",
+  "colors": {
+   "bg": "#0f1419",
+   "ink": "#f2f2f2",
+   "accent": "#4e7cf6",
+   "support": "#19b388"
+  },
+  "type": "sans",
+  "motif": "wave",
+  "seed": 3104
+ },
+ {
+  "slug": "iso-infographic",
+  "en": "Isometric Infographic",
+  "category": "Information & Keynote",
+  "num": 24,
+  "topic": "A Product in Three Acts",
+  "colors": {
+   "bg": "#0f1419",
+   "ink": "#f2f2f2",
+   "accent": "#4e7cf6",
+   "support": "#19b388"
+  },
+  "type": "sans",
+  "motif": "grid",
+  "seed": 12420
+ },
+ {
+  "slug": "dark-keynote",
+  "en": "Dark Tech Keynote",
+  "category": "Information & Keynote",
+  "num": 25,
+  "topic": "The Data Behind the Day",
+  "colors": {
+   "bg": "#0f1419",
+   "ink": "#f2f2f2",
+   "accent": "#ff7a1a",
+   "support": "#b7f34a"
+  },
+  "type": "sans",
+  "motif": "rings",
+  "seed": 8194
+ },
+ {
+  "slug": "rubber-hose",
+  "en": "1930s Rubber Hose Cartoon",
+  "category": "Cartoon & Anime",
+  "num": 26,
+  "topic": "The Late Delivery",
+  "colors": {
+   "bg": "#fff6e5",
+   "ink": "#1f1a17",
+   "accent": "#f2c14e",
+   "support": "#e0543a"
+  },
+  "type": "display",
+  "motif": "bands",
+  "seed": 6630
+ },
+ {
+  "slug": "cel-anime-80s",
+  "en": "80s Cel Anime",
+  "category": "Cartoon & Anime",
+  "num": 27,
+  "topic": "A Robot's Day Off",
+  "colors": {
+   "bg": "#fff6e5",
+   "ink": "#1f1a17",
+   "accent": "#f2c14e",
+   "support": "#e0543a"
+  },
+  "type": "display",
+  "motif": "orbit",
+  "seed": 7603
+ },
+ {
+  "slug": "scifi-toon",
+  "en": "Sci-Fi Sitcom Toon",
+  "category": "Cartoon & Anime",
+  "num": 28,
+  "topic": "The Cat in the Rain",
+  "colors": {
+   "bg": "#fff6e5",
+   "ink": "#1f1a17",
+   "accent": "#f2c14e",
+   "support": "#e0543a"
+  },
+  "type": "display",
+  "motif": "columns",
+  "seed": 5630
+ },
+ {
+  "slug": "pixel-rpg",
+  "en": "16-bit Pixel RPG",
+  "category": "Games",
+  "num": 29,
+  "topic": "The Final Save",
+  "colors": {
+   "bg": "#111318",
+   "ink": "#f2f2f2",
+   "accent": "#ff2e88",
+   "support": "#1fd1d1"
+  },
+  "type": "mono",
+  "motif": "wave",
+  "seed": 4517
+ },
+ {
+  "slug": "hd-2d",
+  "en": "HD-2D",
+  "category": "Games",
+  "num": 31,
+  "topic": "A Level Without a Map",
+  "colors": {
+   "bg": "#111318",
+   "ink": "#f2f2f2",
+   "accent": "#ff2e88",
+   "support": "#1fd1d1"
+  },
+  "type": "mono",
+  "motif": "rings",
+  "seed": 1139
+ },
+ {
+  "slug": "microgame",
+  "en": "Microgame Frenzy",
+  "category": "Games",
+  "num": 32,
+  "topic": "The Bonus Round",
+  "colors": {
+   "bg": "#ffc928",
+   "ink": "#2a0f5c",
+   "accent": "#ff2e88",
+   "support": "#1fd1d1"
+  },
+  "type": "mono",
+  "motif": "bands",
+  "seed": 4705
+ },
+ {
+  "slug": "game-show",
+  "en": "Game Show Flat",
+  "category": "Games",
+  "num": 33,
+  "topic": "Player Two",
+  "colors": {
+   "bg": "#111318",
+   "ink": "#f2f2f2",
+   "accent": "#ffa85a",
+   "support": "#ffb870"
+  },
+  "type": "mono",
+  "motif": "orbit",
+  "seed": 4630
+ },
+ {
+  "slug": "silent-film",
+  "en": "1920s Silent Film",
+  "category": "Cinema & Eras",
+  "num": 34,
+  "topic": "The Silent Projector",
+  "colors": {
+   "bg": "#121212",
+   "ink": "#f2ede2",
+   "accent": "#d9b25b",
+   "support": "#8a1c1c"
+  },
+  "type": "serif",
+  "motif": "columns",
+  "seed": 6654
+ },
+ {
+  "slug": "backrooms",
+  "en": "Liminal Found Footage",
+  "category": "Cinema & Eras",
+  "num": 36,
+  "topic": "A Night in 1927",
+  "colors": {
+   "bg": "#e6ece6",
+   "ink": "#4d3d26",
+   "accent": "#8c763c",
+   "support": "#d5bd66"
+  },
+  "type": "serif",
+  "motif": "grid",
+  "seed": 4937
+ },
+ {
+  "slug": "brick-toy",
+  "en": "Brick Toy",
+  "category": "Materials & 3D",
+  "num": 37,
+  "topic": "The Table of Objects",
+  "colors": {
+   "bg": "#1b2a34",
+   "ink": "#f2f2ee",
+   "accent": "#0055bf",
+   "support": "#f2cd37"
+  },
+  "type": "sans",
+  "motif": "rings",
+  "seed": 4631
+ },
+ {
+  "slug": "paper-popup",
+  "en": "Paper Pop-up Book",
+  "category": "Materials & 3D",
+  "num": 41,
+  "topic": "A City on a Desk",
+  "colors": {
+   "bg": "#ece9e2",
+   "ink": "#1d1a17",
+   "accent": "#d97757",
+   "support": "#2a5cb3"
+  },
+  "type": "sans",
+  "motif": "wave",
+  "seed": 6968
+ },
+ {
+  "slug": "tilt-shift",
+  "en": "Tilt-Shift Miniature",
+  "category": "Materials & 3D",
+  "num": 42,
+  "topic": "The Glass Prototype",
+  "colors": {
+   "bg": "#ece9e2",
+   "ink": "#1d1a17",
+   "accent": "#d97757",
+   "support": "#2a5cb3"
+  },
+  "type": "sans",
+  "motif": "grid",
+  "seed": 5675
+ },
+ {
+  "slug": "lowpoly-island",
+  "en": "Low-poly Isometric Island",
+  "category": "Materials & 3D",
+  "num": 43,
+  "topic": "The Paper Machine",
+  "colors": {
+   "bg": "#ece9e2",
+   "ink": "#1d1a17",
+   "accent": "#d97757",
+   "support": "#2a5cb3"
+  },
+  "type": "sans",
+  "motif": "rings",
+  "seed": 10822
+ },
+ {
+  "slug": "glass-product",
+  "en": "Glass Product Render",
+  "category": "Materials & 3D",
+  "num": 44,
+  "topic": "The Model Room",
+  "colors": {
+   "bg": "#ece9e2",
+   "ink": "#1d1a17",
+   "accent": "#d97757",
+   "support": "#2a5cb3"
+  },
+  "type": "sans",
+  "motif": "bands",
+  "seed": 9593
+ },
+ {
+  "slug": "urban-sketch",
+  "en": "Urban Sketch · Pen & Wash",
+  "category": "Hand-drawn & Painting",
+  "num": 45,
+  "topic": "A Window Facing North",
+  "colors": {
+   "bg": "#bcd0dc",
+   "ink": "#b8483e",
+   "accent": "#c9573f",
+   "support": "#c3c96f"
+  },
+  "type": "serif",
+  "motif": "orbit",
+  "seed": 7914
+ },
+ {
+  "slug": "living-screencast",
+  "en": "Living Screencast",
+  "category": "Information & Keynote",
+  "num": 46,
+  "topic": "The Map of a Decision",
+  "colors": {
+   "bg": "#0f1419",
+   "ink": "#f2f2f2",
+   "accent": "#4e7cf6",
+   "support": "#19b388"
+  },
+  "type": "sans",
+  "motif": "columns",
+  "seed": 15932
+ },
+ {
+  "slug": "midcentury-toon",
+  "en": "Mid-century Cartoon",
+  "category": "Cartoon & Anime",
+  "num": 48,
+  "topic": "The Last Arcade",
+  "colors": {
+   "bg": "#fff6e5",
+   "ink": "#1f1a17",
+   "accent": "#f2c14e",
+   "support": "#e0543a"
+  },
+  "type": "display",
+  "motif": "grid",
+  "seed": 12698
+ },
+ {
+  "slug": "hologram-hud",
+  "en": "Sci-fi Hologram HUD",
+  "category": "Information & Keynote",
+  "num": 52,
+  "topic": "The Room That Thinks",
+  "colors": {
+   "bg": "#0f1419",
+   "ink": "#f2f2f2",
+   "accent": "#4e7cf6",
+   "support": "#19b388"
+  },
+  "type": "sans",
+  "motif": "columns",
+  "seed": 7776
+ },
+ {
+  "slug": "engraving",
+  "en": "Copperplate Engraving",
+  "category": "Print & Printmaking",
+  "num": 53,
+  "topic": "The Bell Foundry",
+  "colors": {
+   "bg": "#f1e8d2",
+   "ink": "#1c1510",
+   "accent": "#c8363a",
+   "support": "#2a5cb3"
+  },
+  "type": "serif",
+  "motif": "wave",
+  "seed": 4821
+ },
+ {
+  "slug": "silkscreen-poster",
+  "en": "Silkscreen Travel Poster",
+  "category": "Print & Printmaking",
+  "num": 54,
+  "topic": "The Travel Poster",
+  "colors": {
+   "bg": "#eef1f4",
+   "ink": "#1f2a3c",
+   "accent": "#f2b134",
+   "support": "#f6cd98"
+  },
+  "type": "serif",
+  "motif": "grid",
+  "seed": 16047
+ },
+ {
+  "slug": "satellite-briefing",
+  "en": "Satellite Briefing",
+  "category": "Evidence Films",
+  "num": 55,
+  "topic": "The Forest Under the Forest",
+  "colors": {
+   "bg": "#f2f5f6",
+   "ink": "#070b0e",
+   "accent": "#ffbe55",
+   "support": "#a1a7a9"
+  },
+  "type": "mono",
+  "motif": "rings",
+  "seed": 17430
+ },
+ {
+  "slug": "briefing-board",
+  "en": "Engineering Briefing Board",
+  "category": "Evidence Films",
+  "num": 56,
+  "topic": "A Map of Moving Water",
+  "colors": {
+   "bg": "#f2eee1",
+   "ink": "#101a16",
+   "accent": "#d9b25b",
+   "support": "#1c6a44"
+  },
+  "type": "mono",
+  "motif": "bands",
+  "seed": 10431
+ },
+ {
+  "slug": "lidar-survey",
+  "en": "LiDAR Survey",
+  "category": "Evidence Films",
+  "num": 57,
+  "topic": "The Weight of a Shadow",
+  "colors": {
+   "bg": "#d4fff0",
+   "ink": "#05080a",
+   "accent": "#ffb347",
+   "support": "#1f3f35"
+  },
+  "type": "mono",
+  "motif": "orbit",
+  "seed": 8356
+ },
+ {
+  "slug": "white-model",
+  "en": "Projection on White Model",
+  "category": "Evidence Films",
+  "num": 58,
+  "topic": "Traces in the Concrete",
+  "colors": {
+   "bg": "#f2eee1",
+   "ink": "#101a16",
+   "accent": "#d9b25b",
+   "support": "#1c6a44"
+  },
+  "type": "mono",
+  "motif": "columns",
+  "seed": 6630
+ },
+ {
+  "slug": "data-physical",
+  "en": "Data Physicalization",
+  "category": "Evidence Films",
+  "num": 59,
+  "topic": "The Missing Kilometre",
+  "colors": {
+   "bg": "#c8ccd1",
+   "ink": "#1c1d20",
+   "accent": "#d4521c",
+   "support": "#c4beb4"
+  },
+  "type": "mono",
+  "motif": "wave",
+  "seed": 9365
+ },
+ {
+  "slug": "teardown",
+  "en": "Exploded Teardown",
+  "category": "Evidence Films",
+  "num": 60,
+  "topic": "What the Ice Kept",
+  "colors": {
+   "bg": "#f1efe9",
+   "ink": "#0d0e10",
+   "accent": "#ff6b3d",
+   "support": "#34363a"
+  },
+  "type": "mono",
+  "motif": "grid",
+  "seed": 3944
+ },
+ {
+  "slug": "microscope",
+  "en": "Microscope Story",
+  "category": "Evidence Films",
+  "num": 61,
+  "topic": "The Shape of a Street",
+  "colors": {
+   "bg": "#0b0d0f",
+   "ink": "#f4f1ec",
+   "accent": "#d9b25b",
+   "support": "#2a3036"
+  },
+  "type": "mono",
+  "motif": "rings",
+  "seed": 5916
+ },
+ {
+  "slug": "archive-lighttable",
+  "en": "Archive Light Table",
+  "category": "Evidence Films",
+  "num": 62,
+  "topic": "Three Centimetres of Time",
+  "colors": {
+   "bg": "#f7f9fb",
+   "ink": "#15171a",
+   "accent": "#ff5a1f",
+   "support": "#1c6a44"
+  },
+  "type": "mono",
+  "motif": "bands",
+  "seed": 17550
+ },
+ {
+  "slug": "caption-news",
+  "en": "Caption News",
+  "category": "Edit & Documentary",
+  "num": 63,
+  "topic": "The Last Dispatch",
+  "colors": {
+   "bg": "#0e0e0c",
+   "ink": "#f7f5ef",
+   "accent": "#ffc21a",
+   "support": "#151512"
+  },
+  "type": "sans",
+  "motif": "orbit",
+  "seed": 8103
+ },
+ {
+  "slug": "newsreel",
+  "en": "1920s Newsreel",
+  "category": "Edit & Documentary",
+  "num": 64,
+  "topic": "Nine Minutes of Rain",
+  "colors": {
+   "bg": "#fff",
+   "ink": "#0a0908",
+   "accent": "#17140f",
+   "support": "#efe7d6"
+  },
+  "type": "sans",
+  "motif": "columns",
+  "seed": 3876
+ },
+ {
+  "slug": "countdown",
+  "en": "Live Countdown Split-screen",
+  "category": "Edit & Documentary",
+  "num": 65,
+  "topic": "A City at Four in the Morning",
+  "colors": {
+   "bg": "#06080a",
+   "ink": "#f2f5f7",
+   "accent": "#ff5b1f",
+   "support": "#0b0e11"
+  },
+  "type": "sans",
+  "motif": "wave",
+  "seed": 5011
+ },
+ {
+  "slug": "city-symphony",
+  "en": "Time-lapse Symphony",
+  "category": "Edit & Documentary",
+  "num": 66,
+  "topic": "The Archive Drawer",
+  "colors": {
+   "bg": "#ede8df",
+   "ink": "#000000",
+   "accent": "#d9772f",
+   "support": "#b0aaa0"
+  },
+  "type": "sans",
+  "motif": "grid",
+  "seed": 9937
+ },
+ {
+  "slug": "visual-investigation",
+  "en": "Visual Investigation",
+  "category": "Edit & Documentary",
+  "num": 67,
+  "topic": "Signal Lost",
+  "colors": {
+   "bg": "#0b0c0e",
+   "ink": "#eceae4",
+   "accent": "#ff4a2e",
+   "support": "#141619"
+  },
+  "type": "sans",
+  "motif": "rings",
+  "seed": 22336
+ },
+ {
+  "slug": "kino-montage",
+  "en": "Constructivist Montage",
+  "category": "Edit & Documentary",
+  "num": 68,
+  "topic": "The Long Route Home",
+  "colors": {
+   "bg": "#141210",
+   "ink": "#ede4d0",
+   "accent": "#d52b1e",
+   "support": "#2a5cb3"
+  },
+  "type": "sans",
+  "motif": "bands",
+  "seed": 7986
+ },
+ {
+  "slug": "telestrator",
+  "en": "Sports Telestrator",
+  "category": "Edit & Documentary",
+  "num": 69,
+  "topic": "One Frame of Evidence",
+  "colors": {
+   "bg": "#f4f1e8",
+   "ink": "#080c0e",
+   "accent": "#ffd400",
+   "support": "#0c1411"
+  },
+  "type": "sans",
+  "motif": "orbit",
+  "seed": 7299
+ },
+ {
+  "slug": "news-package",
+  "en": "Broadcast News Package",
+  "category": "Edit & Documentary",
+  "num": 70,
+  "topic": "The Quiet Deadline",
+  "colors": {
+   "bg": "#f4f1e8",
+   "ink": "#0e1013",
+   "accent": "#d8b30c",
+   "support": "#121417"
+  },
+  "type": "sans",
+  "motif": "columns",
+  "seed": 7775
+ },
+ {
+  "slug": "memphis-diorama",
+  "en": "Memphis Diorama",
+  "category": "Materials & 3D",
+  "num": 71,
+  "topic": "The Weight of Light",
+  "colors": {
+   "bg": "#fffcf6",
+   "ink": "#25214a",
+   "accent": "#2f5bff",
+   "support": "#ffd36e"
+  },
+  "type": "sans",
+  "motif": "wave",
+  "seed": 12182
+ },
+ {
+  "slug": "transit-map",
+  "en": "Transit Map",
+  "category": "Information & Keynote",
+  "num": 72,
+  "topic": "Everything on One Screen",
+  "colors": {
+   "bg": "#1b1918",
+   "ink": "#f2eee5",
+   "accent": "#4e7cf6",
+   "support": "#1b1c1e"
+  },
+  "type": "sans",
+  "motif": "grid",
+  "seed": 6635
+ },
+ {
+  "slug": "chalkboard",
+  "en": "Chalkboard",
+  "category": "Hand-drawn & Painting",
+  "num": 73,
+  "topic": "The Last Sketchbook",
+  "colors": {
+   "bg": "#f4efe3",
+   "ink": "#1d1a17",
+   "accent": "#d2402f",
+   "support": "#2e8b57"
+  },
+  "type": "serif",
+  "motif": "rings",
+  "seed": 5732
+ },
+ {
+  "slug": "isometric-picture-book",
+  "en": "Isometric Picture Book",
+  "category": "Information & Keynote",
+  "num": 74,
+  "topic": "The Slow Reveal",
+  "colors": {
+   "bg": "#f1e8d8",
+   "ink": "#2a2e29",
+   "accent": "#e2ae3a",
+   "support": "#eae2d3"
+  },
+  "type": "sans",
+  "motif": "bands",
+  "seed": 25560
+ },
+ {
+  "slug": "printed-long-take",
+  "en": "Printed Long Take",
+  "category": "Print & Printmaking",
+  "num": 75,
+  "topic": "The Woodcutter's Map",
+  "colors": {
+   "bg": "#ede5cd",
+   "ink": "#16171b",
+   "accent": "#c4332b",
+   "support": "#dfa443"
+  },
+  "type": "serif",
+  "motif": "orbit",
+  "seed": 14962
+ },
+ {
+  "slug": "circuit-board",
+  "en": "Circuit Board",
+  "category": "Information & Keynote",
+  "num": 76,
+  "topic": "The Case for Less",
+  "colors": {
+   "bg": "#f2eee1",
+   "ink": "#05190f",
+   "accent": "#1c6a44",
+   "support": "#4aa977"
+  },
+  "type": "sans",
+  "motif": "columns",
+  "seed": 9161
+ },
+ {
+  "slug": "desktop-flythrough",
+  "en": "Desktop Flythrough",
+  "category": "Materials & 3D",
+  "num": 77,
+  "topic": "The Object in Pieces",
+  "colors": {
+   "bg": "#fdfdfc",
+   "ink": "#1d1a2e",
+   "accent": "#e8890c",
+   "support": "#e7e4f3"
+  },
+  "type": "sans",
+  "motif": "wave",
+  "seed": 18294
+ }
+]

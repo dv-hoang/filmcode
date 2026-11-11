@@ -11,5 +11,8 @@
   "Anniversaries"
  ],
  "frame_sec": 30.2,
- "dur": 54.6
+ "dur": 54.6,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/newsreel.mp4",
+ "demo_topic": "Nine Minutes of Rain",
+ "demo_seconds": 10
 }

@@ -1,5 +1,7 @@
 # Paper-cut Lightbox — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/paper-lantern.mp4) — "Ten Thousand Cranes"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *The Last Night Train* (51.0 s, 1920×1080, 30 fps) · `paper-lantern.mp4` · source in [`demo/`](demo) · engine: three.js 0.170 (WebGL, SSAA 2×, VSM soft shadows, custom DoF + bloom compositor), Canvas2D-drawn paper layers, headless Chrome frame capture.

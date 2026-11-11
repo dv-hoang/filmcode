@@ -1,5 +1,7 @@
 # 1920s Newsreel — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/newsreel.mp4) — "Nine Minutes of Rain"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Knock-Knee Alert* (, 54.6 s) · `newsreel.mp4` · source in [`demo/`](demo)

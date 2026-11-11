@@ -77,9 +77,7 @@ Chinese narration uses offline Kokoro by default. edge-tts sounds better but sen
 
 ## Demo video
 
-GitHub does not play MP4 files in the repository file view. `demo/index.html` is a small player page: enable GitHub Pages (Settings → Pages → Deploy from a branch → `main` / root) and open `https://dv-hoang.github.io/filmcode/demo/`.
-
-The player streams the Watercolor demo from Supabase; no video is stored in the repository.
+Every style has a demo: Watercolor is a 45 s film (`watercolor.mp4`), and the other 65 styles are 10 s style teasers. They are hosted on Supabase and listed in [`demo/index.html`](demo/index.html). Enable GitHub Pages (Settings -> Pages -> Deploy from a branch -> `main` / root) and open `https://dv-hoang.github.io/filmcode/demo/`.
 
 ## Layout
 

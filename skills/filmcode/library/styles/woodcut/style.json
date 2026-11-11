@@ -11,5 +11,8 @@
   "Book trailers"
  ],
  "frame_sec": 49.14,
- "dur": 58.5
+ "dur": 58.5,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/woodcut.mp4",
+ "demo_topic": "The Paper Route",
+ "demo_seconds": 10
 }

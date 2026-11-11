@@ -1,5 +1,7 @@
 # 60s Spy Title Sequence — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/spy-titles.mp4) — "A Signal in Red"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *The Velvet Cipher* (44 s) · `spy-titles.mp4` · source in [`demo/`](demo/)

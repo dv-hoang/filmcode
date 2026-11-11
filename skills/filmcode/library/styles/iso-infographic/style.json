@@ -11,5 +11,8 @@
   "Annual reports"
  ],
  "frame_sec": 35.28,
- "dur": 58.8
+ "dur": 58.8,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/iso-infographic.mp4",
+ "demo_topic": "A Product in Three Acts",
+ "demo_seconds": 10
 }

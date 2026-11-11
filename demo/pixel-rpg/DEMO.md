@@ -1,5 +1,7 @@
 # 16-bit Pixel RPG — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/pixel-rpg.mp4) — "The Final Save"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *The Last Save Point* (54.5 s) · `pixel-rpg.mp4` · source in [`demo/`](demo/)

@@ -11,5 +11,8 @@
   "Museums"
  ],
  "frame_sec": 22.3,
- "dur": 40.0
+ "dur": 40.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/archive-lighttable.mp4",
+ "demo_topic": "Three Centimetres of Time",
+ "demo_seconds": 10
 }

@@ -1,5 +1,7 @@
 # Time-lapse Symphony — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/city-symphony.mp4) — "The Archive Drawer"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 **"One Day in New York"**, 52 s, 1920×1080 at 30 fps, 1.85:1 matte inside the frame, no voice, original score. An unofficial film made from real footage and records: CC BY time-lapses, street footage and aerials from Wikimedia Commons and Flickr (each with a passed licence review or a source page that still shows the licence), U.S. Marine Corps Fleet Week footage (public domain, DVIDS), a public-domain Edison film of 1899 from the Library of Congress, a NASA photograph from the International Space Station, Carol M. Highsmith's public-domain photographs (Library of Congress) and a scan of Walt Whitman's *Leaves of Grass* (1860, Internet Archive). No person or institution in it endorses the film. Facts: [`demo/FACTS.md`](demo/FACTS.md). Assets: [`demo/CREDITS`](demo/CREDITS), [`demo/SOURCES.md`](demo/SOURCES.md).

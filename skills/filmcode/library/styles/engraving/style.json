@@ -11,5 +11,8 @@
   "Brand heritage"
  ],
  "frame_sec": 34.0,
- "dur": 40.0
+ "dur": 40.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/engraving.mp4",
+ "demo_topic": "The Bell Foundry",
+ "demo_seconds": 10
 }

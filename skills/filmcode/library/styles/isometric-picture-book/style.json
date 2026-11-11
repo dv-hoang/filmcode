@@ -11,5 +11,8 @@
   "Comparisons"
  ],
  "frame_sec": 37.5,
- "dur": 59.8
+ "dur": 59.8,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/isometric-picture-book.mp4",
+ "demo_topic": "The Slow Reveal",
+ "demo_seconds": 10
 }

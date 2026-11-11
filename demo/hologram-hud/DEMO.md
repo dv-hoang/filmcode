@@ -1,5 +1,7 @@
 # Sci-fi Hologram HUD — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/hologram-hud.mp4) — "The Room That Thinks"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Volt · Spec Scan* (39 s: a 34 s scene plus a 5 s end card) · `hologram-hud.mp4` · source in [`demo/`](demo/)

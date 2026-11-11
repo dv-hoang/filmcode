@@ -11,5 +11,8 @@
   "Collective effort"
  ],
  "frame_sec": 2.5,
- "dur": 60.0
+ "dur": 60.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/kino-montage.mp4",
+ "demo_topic": "The Long Route Home",
+ "demo_seconds": 10
 }

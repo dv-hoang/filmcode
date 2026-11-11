@@ -1,5 +1,7 @@
 # 1930s Rubber Hose Cartoon — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/rubber-hose.mp4) — "The Late Delivery"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Coffee Cup Chase* (50 s) · `rubber-hose.mp4` · source in [`demo/`](demo/)

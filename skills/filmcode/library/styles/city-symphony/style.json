@@ -11,5 +11,8 @@
   "Openers"
  ],
  "frame_sec": 11.2,
- "dur": 52.0
+ "dur": 52.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/city-symphony.mp4",
+ "demo_topic": "The Archive Drawer",
+ "demo_seconds": 10
 }

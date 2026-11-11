@@ -1,5 +1,7 @@
 # Chalkboard — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/chalkboard.mp4) — "The Last Sketchbook"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *The Story of Chinese Characters* (49.3 s) · `chalkboard.mp4` · `chalkboard.srt` · source in [`demo/`](demo)

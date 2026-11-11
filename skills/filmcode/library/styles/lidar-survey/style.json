@@ -11,5 +11,8 @@
   "Site surveys"
  ],
  "frame_sec": 18.6,
- "dur": 40.0
+ "dur": 40.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/lidar-survey.mp4",
+ "demo_topic": "The Weight of a Shadow",
+ "demo_seconds": 10
 }

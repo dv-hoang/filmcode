@@ -15,5 +15,8 @@
  "by": {
   "name": "EianLu",
   "url": "https://x.com/EianLu"
- }
+ },
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/memphis-diorama.mp4",
+ "demo_topic": "The Weight of Light",
+ "demo_seconds": 10
 }

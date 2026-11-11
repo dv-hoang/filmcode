@@ -11,5 +11,8 @@
   "Kids' learning"
  ],
  "frame_sec": 43.68,
- "dur": 52.0
+ "dur": 52.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/crayon-book.mp4",
+ "demo_topic": "The Orchard at First Light",
+ "demo_seconds": 10
 }

@@ -11,5 +11,8 @@
   "Emotional ads"
  ],
  "frame_sec": 28.58,
- "dur": 39.7
+ "dur": 39.7,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/impasto.mp4",
+ "demo_topic": "The Colour of Distance",
+ "demo_seconds": 10
 }

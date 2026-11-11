@@ -11,5 +11,8 @@
   "Folk tales"
  ],
  "frame_sec": 35.28,
- "dur": 49.0
+ "dur": 49.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/papercut-red.mp4",
+ "demo_topic": "The Mountain That Moved",
+ "demo_seconds": 10
 }

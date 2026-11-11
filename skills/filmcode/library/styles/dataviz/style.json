@@ -11,5 +11,8 @@
   "Climate & science"
  ],
  "frame_sec": 42.0,
- "dur": 50.0
+ "dur": 50.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/dataviz.mp4",
+ "demo_topic": "The Quiet Launch",
+ "demo_seconds": 10
 }

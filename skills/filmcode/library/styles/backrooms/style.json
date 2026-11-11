@@ -11,5 +11,8 @@
   "Game teasers"
  ],
  "frame_sec": 35.82,
- "dur": 59.7
+ "dur": 59.7,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/backrooms.mp4",
+ "demo_topic": "A Night in 1927",
+ "demo_seconds": 10
 }

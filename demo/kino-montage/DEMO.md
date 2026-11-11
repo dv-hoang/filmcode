@@ -1,5 +1,7 @@
 # Constructivist Montage — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/kino-montage.mp4) — "The Long Route Home"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *410 Days* (410, 60.0 s) · `kino-montage.mp4` · subtitles `kino-montage.srt` · source in [`demo/`](demo)

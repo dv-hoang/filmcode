@@ -1,5 +1,7 @@
 # Isometric Picture Book — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/isometric-picture-book.mp4) — "The Slow Reveal"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Seventy-Two Seats* (59.8 s, Chinese narration, bilingual subtitles) · `isometric-picture-book.mp4` · `isometric-picture-book.srt` · source in [`demo/`](demo)

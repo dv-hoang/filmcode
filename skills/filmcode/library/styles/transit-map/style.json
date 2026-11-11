@@ -11,5 +11,8 @@
   "Networks"
  ],
  "frame_sec": 36.2,
- "dur": 47.0
+ "dur": 47.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/transit-map.mp4",
+ "demo_topic": "Everything on One Screen",
+ "demo_seconds": 10
 }

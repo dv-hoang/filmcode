@@ -1,5 +1,7 @@
 # Dark Tech Keynote — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/dark-keynote.mp4) — "The Data Behind the Day"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Room to Think* (42 s) · `dark-keynote.mp4` · source in [`demo/`](demo/) · a launch film for **Tidy**, a fictional app that sorts your desktop, photos and inbox in one press.

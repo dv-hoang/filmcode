@@ -1,5 +1,7 @@
 # 1920s Silent Film — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/silent-film.mp4) — "The Silent Projector"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *The Runaway Loaf* (54.2 s) · `silent-film.mp4` · source in [`demo/`](demo/)

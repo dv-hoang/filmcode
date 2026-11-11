@@ -11,5 +11,8 @@
   "Products"
  ],
  "frame_sec": 56.85,
- "dur": 60.0
+ "dur": 60.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/desktop-flythrough.mp4",
+ "demo_topic": "The Object in Pieces",
+ "demo_seconds": 10
 }

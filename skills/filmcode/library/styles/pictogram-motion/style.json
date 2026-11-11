@@ -11,5 +11,8 @@
   "Explainers told through signs and objects"
  ],
  "frame_sec": 9.2,
- "dur": 50.0
+ "dur": 50.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/pictogram-motion.mp4",
+ "demo_topic": "One Colour Only",
+ "demo_seconds": 10
 }

@@ -1,5 +1,7 @@
 # Silkscreen Travel Poster — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/silkscreen-poster.mp4) — "The Travel Poster"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *The Long Way Home * (50 s) · `silkscreen-poster.mp4` · subtitles `silkscreen-poster.srt` · source in [`demo/`](demo)

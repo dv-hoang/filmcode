@@ -1,5 +1,7 @@
 # Archive Light Table — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/archive-lighttable.mp4) — "Three Centimetres of Time"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Two Seconds Short* (40.0 s) · `archive-lighttable.mp4` · source in [`demo/`](demo)

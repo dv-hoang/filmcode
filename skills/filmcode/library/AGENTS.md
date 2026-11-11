@@ -42,7 +42,7 @@ If the user hasn't picked a style:
 - Suggest two or three that fit their topic.
 - If they have their own styles, list those first, under "My styles" (in their language).
 - Show them the full list below in the chat, in the user's language: English names and English category names. Don't drop, merge or rename anything.
-- The demo notes for every style are in the repository's `demo/<slug>/DEMO.md`, outside the installed skill. The Watercolor demo video is hosted on Supabase (`https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/watercolor.mp4`); the poster is `demo/watercolor/poster.jpg`. The other demo videos are not included; if the user wants to watch one, say it is not bundled and do not invent a link.
+- Every style has a demo hosted on Supabase: `https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/<slug>.mp4` (10 s), and Watercolor's 45 s film is `https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/watercolor.mp4`. URLs are in `demo/<slug>/DEMO.md` and `demo/index.html`; the demo notes and videos are outside the installed skill.
 - Then ask them to type the name. The list goes in your own message (a command's output isn't shown to them), and the question is plain text, not `ask_user_question`: its few options would hide the rest of the list.
 
 <!-- style-list:start -->

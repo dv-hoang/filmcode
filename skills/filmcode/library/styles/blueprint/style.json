@@ -11,5 +11,8 @@
   "Tech explainers"
  ],
  "frame_sec": 33.62,
- "dur": 46.7
+ "dur": 46.7,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/blueprint.mp4",
+ "demo_topic": "Fifty Years of Posters",
+ "demo_seconds": 10
 }

@@ -1,5 +1,7 @@
 # Shadow Puppetry — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/shadow-puppet.mp4) — "The Lantern Keeper"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Hou Yi Shoots the Suns* (54 s) · `shadow-puppet.mp4` · source in [`demo/`](demo/)

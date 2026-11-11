@@ -11,5 +11,8 @@
   "Beauty"
  ],
  "frame_sec": 19.2,
- "dur": 32.0
+ "dur": 32.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/glass-product.mp4",
+ "demo_topic": "The Model Room",
+ "demo_seconds": 10
 }

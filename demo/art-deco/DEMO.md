@@ -1,5 +1,7 @@
 # Art Deco — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/art-deco.mp4) — "The Type Specimen"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Midnight at the Starlight Hotel* (58.4 s) · `art-deco.mp4` · source in [`demo/`](demo/)

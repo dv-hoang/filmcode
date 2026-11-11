@@ -1,5 +1,7 @@
 # Liminal Found Footage — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/backrooms.mp4) — "A Night in 1927"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Night Shift Orientation* (59.7 s) · `backrooms.mp4` · source in [`demo/`](demo/)

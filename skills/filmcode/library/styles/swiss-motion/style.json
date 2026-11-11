@@ -11,5 +11,8 @@
   "Design education"
  ],
  "frame_sec": 31.68,
- "dur": 44.0
+ "dur": 44.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/swiss-motion.mp4",
+ "demo_topic": "The Grid System",
+ "demo_seconds": 10
 }

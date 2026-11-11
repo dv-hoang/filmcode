@@ -11,5 +11,8 @@
   "Market updates"
  ],
  "frame_sec": 18.4,
- "dur": 53.5
+ "dur": 53.5,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/news-package.mp4",
+ "demo_topic": "The Quiet Deadline",
+ "demo_seconds": 10
 }

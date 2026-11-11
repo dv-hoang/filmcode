@@ -1,5 +1,7 @@
 # Projection on White Model — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/white-model.mp4) — "Traces in the Concrete"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *How a Flattened City Grew Back* (40.0 s) · `white-model.mp4` · source in [`demo/`](demo)

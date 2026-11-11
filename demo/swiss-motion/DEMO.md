@@ -1,5 +1,7 @@
 # Swiss Motion Graphics — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/swiss-motion.mp4) — "The Grid System"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Five Rules for a Poster* (44 s) · `swiss-motion.mp4` · source in [`demo/`](demo/)

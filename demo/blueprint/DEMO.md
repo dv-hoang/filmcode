@@ -1,5 +1,7 @@
 # Blueprint — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/blueprint.mp4) — "Fifty Years of Posters"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Patent Pending: The Cloud Catcher* (46.7 s) · `blueprint.mp4` · source in [`demo/`](demo/)

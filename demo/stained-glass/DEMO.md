@@ -1,5 +1,7 @@
 # Stained Glass — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/stained-glass.mp4) — "The Diagonal Rule"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *The Dragon of the East Window* (56.5 s) · `stained-glass.mp4` · source in [`demo/`](demo/)

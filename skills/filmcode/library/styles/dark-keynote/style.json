@@ -11,5 +11,8 @@
   "Keynotes"
  ],
  "frame_sec": 8.4,
- "dur": 42.0
+ "dur": 42.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/dark-keynote.mp4",
+ "demo_topic": "The Data Behind the Day",
+ "demo_seconds": 10
 }

@@ -11,5 +11,8 @@
   "Devices"
  ],
  "frame_sec": 58.0,
- "dur": 60.0
+ "dur": 60.0,
+ "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/circuit-board.mp4",
+ "demo_topic": "The Case for Less",
+ "demo_seconds": 10
 }

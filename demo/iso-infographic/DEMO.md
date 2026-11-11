@@ -1,5 +1,7 @@
 # Isometric Infographic — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/iso-infographic.mp4) — "A Product in Three Acts"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *From Bean to Cup* (58.8 s) · `iso-infographic.mp4` · source in [`demo/`](demo/)

@@ -1,5 +1,7 @@
 # Paper Pop-up Book — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/paper-popup.mp4) — "A City on a Desk"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *The Little Sprite's Adventure* (*Pip's Paper Adventure*,) (133.0 s, 1920×1080, 60 fps) · `paper-popup.mp4` · source in [`demo/`](demo) · engine: three.js r170 (WebGL2) rendered frame by frame in headless Chrome, Canvas2D for all paper art, Python for score editing and mixing

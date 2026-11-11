@@ -1,5 +1,7 @@
 # Printed Long Take — our demo
 
+Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/printed-long-take.mp4) — "The Woodcutter's Map"
+
 One example among many. Don't reuse its story, arc, shots, props or timings.
 
 Demo: *Thirty-Three Cranes* (60.0 s) · `printed-long-take.mp4` (English narration) · source in [`demo/`](demo)
