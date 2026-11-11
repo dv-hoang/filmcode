@@ -3,15 +3,15 @@
  "num": "67",
  "en": "Visual Investigation",
  "category_en": "Edit & Documentary",
- "film": "The Hindenburg: Four Minutes, 32 Seconds",
- "line": "Newsreel, photos, testimony and the 1937 inquiry on one clock: five sources point to the same spot.",
+ "film": "Signal Lost",
+ "line": "A 10-second Visual Investigation style teaser: \"Signal Lost\".",
  "uses": [
   "Reconstructions",
   "Fact-checks",
   "Incident reports"
  ],
- "frame_sec": 30.9,
- "dur": 60.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/visual-investigation.mp4",
  "demo_topic": "Signal Lost",
  "demo_seconds": 10

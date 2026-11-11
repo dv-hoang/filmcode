@@ -3,15 +3,15 @@
  "num": "68",
  "en": "Constructivist Montage",
  "category_en": "Edit & Documentary",
- "film": "410 Days",
- "line": "The Empire State's 1931 brochure credits its builders; the site film and Hine's photos answer: 2,500 a day.",
+ "film": "The Long Route Home",
+ "line": "A 10-second Constructivist Montage style teaser: \"The Long Route Home\".",
  "uses": [
   "Industry histories",
   "Milestones",
   "Collective effort"
  ],
- "frame_sec": 2.5,
- "dur": 60.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/kino-montage.mp4",
  "demo_topic": "The Long Route Home",
  "demo_seconds": 10

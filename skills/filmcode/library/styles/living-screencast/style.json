@@ -3,15 +3,15 @@
  "num": "46",
  "en": "Living Screencast",
  "category_en": "Information & Keynote",
- "film": "Clawd Moves In",
- "line": "Clawd hops out of the terminal into the CommandCode app and acts out plan mode and self-checks in one take.",
+ "film": "The Map of a Decision",
+ "line": "A 10-second Living Screencast style teaser: \"The Map of a Decision\".",
  "uses": [
   "Product tutorials",
   "Feature launches",
   "Onboarding"
  ],
- "frame_sec": 5.94,
- "dur": 59.4,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/living-screencast.mp4",
  "demo_topic": "The Map of a Decision",
  "demo_seconds": 10

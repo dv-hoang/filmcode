@@ -3,15 +3,15 @@
  "num": "66",
  "en": "Time-lapse Symphony",
  "category_en": "Edit & Documentary",
- "film": "One Day in New York",
- "line": "One day in New York in time-lapse: rivers of light, a grid on the sixteenths, 1899 beside today.",
+ "film": "The Archive Drawer",
+ "line": "A 10-second Time-lapse Symphony style teaser: \"The Archive Drawer\".",
  "uses": [
   "City films",
   "Music montages",
   "Openers"
  ],
- "frame_sec": 11.2,
- "dur": 52.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/city-symphony.mp4",
  "demo_topic": "The Archive Drawer",
  "demo_seconds": 10

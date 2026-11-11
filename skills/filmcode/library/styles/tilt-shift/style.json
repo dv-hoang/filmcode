@@ -3,15 +3,15 @@
  "num": "42",
  "en": "Tilt-Shift Miniature",
  "category_en": "Materials & 3D",
- "film": "Toy Town Rush Hour",
- "line": "Morning rush hour in a town that looks like a model: traffic, trains and tiny people.",
+ "film": "The Glass Prototype",
+ "line": "A 10-second Tilt-Shift Miniature style teaser: \"The Glass Prototype\".",
  "uses": [
   "City promos",
   "Real estate",
   "Transport"
  ],
- "frame_sec": 22.8,
- "dur": 38.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/tilt-shift.mp4",
  "demo_topic": "The Glass Prototype",
  "demo_seconds": 10

@@ -3,15 +3,15 @@
  "num": "06",
  "en": "Whiteboard Explainer",
  "category_en": "Hand-drawn & Painting",
- "film": "Einstein in Your Pocket",
- "line": "How your phone knows where you are: GPS, atomic clocks, and the 38 microseconds relativity adds every day.",
+ "film": "The Garden That Waited",
+ "line": "A 10-second Whiteboard Explainer style teaser: \"The Garden That Waited\".",
  "uses": [
   "Explainers",
   "Online courses",
   "Science"
  ],
- "frame_sec": 55.5,
- "dur": 111.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/whiteboard.mp4",
  "demo_topic": "The Garden That Waited",
  "demo_seconds": 10

@@ -3,15 +3,15 @@
  "num": "16",
  "en": "Swiss Motion Graphics",
  "category_en": "Graphic & Type",
- "film": "Five Rules for a Poster",
- "line": "A concert poster lays itself out by five Swiss design rules; the fifth is to break just one.",
+ "film": "The Grid System",
+ "line": "A 10-second Swiss Motion Graphics style teaser: \"The Grid System\".",
  "uses": [
   "Brand identity",
   "Events",
   "Design education"
  ],
- "frame_sec": 31.68,
- "dur": 44.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/swiss-motion.mp4",
  "demo_topic": "The Grid System",
  "demo_seconds": 10

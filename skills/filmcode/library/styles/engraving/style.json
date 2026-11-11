@@ -3,15 +3,15 @@
  "num": "53",
  "en": "Copperplate Engraving",
  "category_en": "Print & Printmaking",
- "film": "The Honeybee, Plate VII",
- "line": "A natural-history plate engraves itself: the burin cuts the copper, the bee builds up line by line, and a watercolour wash brings it to life.",
+ "film": "The Bell Foundry",
+ "line": "A 10-second Copperplate Engraving style teaser: \"The Bell Foundry\".",
  "uses": [
   "Museum labels",
   "Science explainers",
   "Brand heritage"
  ],
- "frame_sec": 34.0,
- "dur": 40.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/engraving.mp4",
  "demo_topic": "The Bell Foundry",
  "demo_seconds": 10

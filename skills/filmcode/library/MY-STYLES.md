@@ -30,7 +30,7 @@ Never write into `styles/` or edit the library's guides for this. The name and s
 - **Change a library style.** The user names one (see **Finding the style** in `AGENTS.md`). If they haven't, do as **Finding the style** does for a film: the full list of library styles in your message, the gallery link, two or three suggestions on top when you know what they'll use it for, then a plain-text question asking them to type the name (not `ask_user_question`). One base only. If they want to mix two, take the one whose §1 *Essence* is closest as the base and take only what they want from the other, as changes (list it in `borrows`).
 - **Start from a blank page.** The user describes the look in their own words, or brings a picture or a film they like. Choose one library style as the **technique base** (the closest materials and engine: what the code will build on) and at most two to borrow moves from. Make that the first question: your choice and why in one line each, with the next closest as the other options.
 
-Either way, read the base `STYLE.md` in full before the first question. In this flow you may read the base's `DEMO.md` before any treatment: the style frame needs its techniques. The demo film's story must still differ from the base demo's (DIRECTOR.md §11, *Not the demo again*, compared with the base).
+Either way, read the base `STYLE.md` in full before the first question. In this flow you may read the base's `DEMO.md` before any treatment: it shows the style's palette, type and motion. The style's own story must still differ from the base style's.
 
 ## 2. Plan it together
 
@@ -135,5 +135,5 @@ Only a kept style is theirs: listed when the skill starts, and found by name.
 ## 7. Revise or use it
 
 - **Not right yet**: change `STYLE.md` and `CHANGES.md`, then render the style frame and the demo film again and replace `demo/` and `DEMO.md`. Change only what the user asks.
-- **Using it**: find it through `~/filmcode-my-styles/README.md`. Read its `STYLE.md` in place of a library `STYLE.md` and follow the normal workflow in `AGENTS.md`, treatment first, at the style's default size unless the user asks for another. For techniques, read the style's own `DEMO.md` and `demo/` first, then the base's (`demo/<based_on>/DEMO.md` in the repository). The demo film is one example: never reuse its story, shots or timeline. The films are the user's: no FilmCode credit, no watermark.
+- **Using it**: find it through `~/filmcode-my-styles/README.md`. Read its `STYLE.md` in place of a library `STYLE.md` and follow the normal workflow in `AGENTS.md`, treatment first, at the style's default size unless the user asks for another. For techniques, read the style's own `STYLE.md` first, then the base's `STYLE.md`; `DEMO.md` shows the teaser look. The demo film is one example: never reuse its story, shots or timeline. The films are the user's: no FilmCode credit, no watermark.
 - **After a library update**: if the base `STYLE.md` changed since `library_version`, mention it once and offer to bring the useful fixes into their copy. Don't change their style without asking.

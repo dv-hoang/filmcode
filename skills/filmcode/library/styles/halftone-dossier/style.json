@@ -3,15 +3,15 @@
  "num": "13",
  "en": "Halftone Dossier",
  "category_en": "Print & Printmaking",
- "film": "Case File: Chubby",
- "line": "A chubby orange cat stands trial for testing gravity and 4 a.m. parkour, and walks free.",
+ "film": "A City in Six Colours",
+ "line": "A 10-second Halftone Dossier style teaser: \"A City in Six Colours\".",
  "uses": [
   "Humour",
   "Pet content",
   "Social shorts"
  ],
- "frame_sec": 9.0,
- "dur": 30.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/halftone-dossier.mp4",
  "demo_topic": "A City in Six Colours",
  "demo_seconds": 10

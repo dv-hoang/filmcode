@@ -3,15 +3,15 @@
  "num": "28",
  "en": "Sci-Fi Sitcom Toon",
  "category_en": "Cartoon & Anime",
- "film": "Coffee Run",
- "line": "A jaded genius opens a portal just to buy coffee and tumbles through ever-stranger universes.",
+ "film": "The Cat in the Rain",
+ "line": "A 10-second Sci-Fi Sitcom Toon style teaser: \"The Cat in the Rain\".",
  "uses": [
   "Comedy",
   "Tech brands",
   "Social shorts"
  ],
- "frame_sec": 11.5,
- "dur": 57.5,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/scifi-toon.mp4",
  "demo_topic": "The Cat in the Rain",
  "demo_seconds": 10

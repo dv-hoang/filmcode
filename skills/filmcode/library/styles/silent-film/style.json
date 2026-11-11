@@ -3,15 +3,15 @@
  "num": "34",
  "en": "1920s Silent Film",
  "category_en": "Cinema & Eras",
- "film": "The Runaway Loaf",
- "line": "A baker's boy chases a runaway loaf downhill, then breaks it in half for a hungry girl.",
+ "film": "The Silent Projector",
+ "line": "A 10-second 1920s Silent Film style teaser: \"The Silent Projector\".",
  "uses": [
   "Comedy",
   "Retro brands",
   "Silent storytelling"
  ],
- "frame_sec": 39.02,
- "dur": 54.2,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/silent-film.mp4",
  "demo_topic": "The Silent Projector",
  "demo_seconds": 10

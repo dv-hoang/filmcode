@@ -3,15 +3,15 @@
  "num": "20",
  "en": "Stained Glass",
  "category_en": "Graphic & Type",
- "film": "The Dragon of the East Window",
- "line": "Sunlight crosses a cathedral window from dawn to dusk, waking each pane of a knight-and-dragon tale.",
+ "film": "The Diagonal Rule",
+ "line": "A 10-second Stained Glass style teaser: \"The Diagonal Rule\".",
  "uses": [
   "Legends",
   "Heritage",
   "Holiday stories"
  ],
- "frame_sec": 40.68,
- "dur": 56.5,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/stained-glass.mp4",
  "demo_topic": "The Diagonal Rule",
  "demo_seconds": 10

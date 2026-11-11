@@ -3,15 +3,15 @@
  "num": "69",
  "en": "Sports Telestrator",
  "category_en": "Edit & Documentary",
- "film": "Freeze Frame",
- "line": "Down 3–0 at half-time, Fenerbahçe scored three in 12 minutes: freeze, draw, split screen, shot map.",
+ "film": "One Frame of Evidence",
+ "line": "A 10-second Sports Telestrator style teaser: \"One Frame of Evidence\".",
  "uses": [
   "Sports analysis",
   "Match recaps",
   "Coaching"
  ],
- "frame_sec": 13.6,
- "dur": 54.4,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/telestrator.mp4",
  "demo_topic": "One Frame of Evidence",
  "demo_seconds": 10

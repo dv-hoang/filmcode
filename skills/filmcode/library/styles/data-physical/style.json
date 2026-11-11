@@ -3,15 +3,15 @@
  "num": "59",
  "en": "Data Physicalization",
  "category_en": "Evidence Films",
- "film": "Two Spirals",
- "line": "Twelve years of wind and solar stacked as real plates, spiralling round a walnut dial until solar overtakes.",
+ "film": "The Missing Kilometre",
+ "line": "A 10-second Data Physicalization style teaser: \"The Missing Kilometre\".",
  "uses": [
   "Annual reports",
   "Investor decks",
   "Energy data"
  ],
- "frame_sec": 37.8,
- "dur": 39.4,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/data-physical.mp4",
  "demo_topic": "The Missing Kilometre",
  "demo_seconds": 10

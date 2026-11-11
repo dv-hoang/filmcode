@@ -3,15 +3,15 @@
  "num": "36",
  "en": "Liminal Found Footage",
  "category_en": "Cinema & Eras",
- "film": "Night Shift Orientation",
- "line": "A new night-shift hire films their first night in an endless yellow office, following the rules on the wall.",
+ "film": "A Night in 1927",
+ "line": "A 10-second Liminal Found Footage style teaser: \"A Night in 1927\".",
  "uses": [
   "Horror",
   "Mystery & ARG",
   "Game teasers"
  ],
- "frame_sec": 35.82,
- "dur": 59.7,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/backrooms.mp4",
  "demo_topic": "A Night in 1927",
  "demo_seconds": 10

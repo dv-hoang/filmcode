@@ -3,15 +3,15 @@
  "num": "74",
  "en": "Isometric Picture Book",
  "category_en": "Information & Keynote",
- "film": "Seventy-Two Seats",
- "line": "Travellers board an isometric plane, and the order shows why one way is nearly twice as fast.",
+ "film": "The Slow Reveal",
+ "line": "A 10-second Isometric Picture Book style teaser: \"The Slow Reveal\".",
  "uses": [
   "Everyday rules",
   "Queues",
   "Comparisons"
  ],
- "frame_sec": 37.5,
- "dur": 59.8,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/isometric-picture-book.mp4",
  "demo_topic": "The Slow Reveal",
  "demo_seconds": 10

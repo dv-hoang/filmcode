@@ -3,15 +3,15 @@
  "num": "09",
  "en": "Red Paper-cut",
  "category_en": "East Asian Traditions",
- "film": "Nian Comes to Town",
- "line": "On New Year's Eve the beast Nian comes to town, and one girl's giant paper-cut lights up the village to scare it off.",
+ "film": "The Mountain That Moved",
+ "line": "A 10-second Red Paper-cut style teaser: \"The Mountain That Moved\".",
  "uses": [
   "Lunar New Year",
   "Festive greetings",
   "Folk tales"
  ],
- "frame_sec": 35.28,
- "dur": 49.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/papercut-red.mp4",
  "demo_topic": "The Mountain That Moved",
  "demo_seconds": 10

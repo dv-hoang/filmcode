@@ -3,15 +3,15 @@
  "num": "29",
  "en": "16-bit Pixel RPG",
  "category_en": "Games",
- "film": "The Last Save Point",
- "line": "At the final boss door a hero saves the game, and the save screen replays the whole journey.",
+ "film": "The Final Save",
+ "line": "A 10-second 16-bit Pixel RPG style teaser: \"The Final Save\".",
  "uses": [
   "Game trailers",
   "Recaps",
   "Nostalgia"
  ],
- "frame_sec": 27.25,
- "dur": 54.5,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/pixel-rpg.mp4",
  "demo_topic": "The Final Save",
  "demo_seconds": 10

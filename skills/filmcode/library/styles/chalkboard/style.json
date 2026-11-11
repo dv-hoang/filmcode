@@ -3,15 +3,15 @@
  "num": "73",
  "en": "Chalkboard",
  "category_en": "Hand-drawn & Painting",
- "film": "The Story of Chinese Characters",
- "line": "Chalk writes a popular claim about two characters, wipes it, and traces back three thousand years.",
+ "film": "The Last Sketchbook",
+ "line": "A 10-second Chalkboard style teaser: \"The Last Sketchbook\".",
  "uses": [
   "Word origins",
   "Myth-busting",
   "Lessons"
  ],
- "frame_sec": 42.5,
- "dur": 49.3,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/chalkboard.mp4",
  "demo_topic": "The Last Sketchbook",
  "demo_seconds": 10

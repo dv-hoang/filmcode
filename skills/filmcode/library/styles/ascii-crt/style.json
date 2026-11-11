@@ -3,15 +3,15 @@
  "num": "22",
  "en": "ASCII / CRT Terminal",
  "category_en": "Graphic & Type",
- "film": "Tranquility.log",
- "line": "A moon-base AI wakes after forty years to a signal from Earth, and replies by drawing “home” in characters.",
+ "film": "The Moving Sign",
+ "line": "A 10-second ASCII / CRT Terminal style teaser: \"The Moving Sign\".",
  "uses": [
   "Developer tools",
   "Sci-fi",
   "Tech brands"
  ],
- "frame_sec": 50.23,
- "dur": 59.8,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ascii-crt.mp4",
  "demo_topic": "The Moving Sign",
  "demo_seconds": 10

@@ -3,15 +3,15 @@
  "num": "08",
  "en": "Ukiyo-e",
  "category_en": "East Asian Traditions",
- "film": "Toward the Mountain",
- "line": "A traveller walks toward a distant mountain; every shot is a woodblock print, a great wave at the climax, the mountain and the whole scroll at the end.",
+ "film": "A River in Winter",
+ "line": "A 10-second Ukiyo-e style teaser: \"A River in Winter\".",
  "uses": [
   "Travel",
   "Japanese culture",
   "Poetry"
  ],
- "frame_sec": 26.4,
- "dur": 44.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ukiyoe.mp4",
  "demo_topic": "A River in Winter",
  "demo_seconds": 10

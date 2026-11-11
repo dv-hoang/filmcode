@@ -3,15 +3,15 @@
  "num": "27",
  "en": "80s Cel Anime",
  "category_en": "Cartoon & Anime",
- "film": "City Lights, 1987",
- "line": "A courier girl rides through a rain-soaked neon city to deliver a tape before the dawn launch.",
+ "film": "A Robot's Day Off",
+ "line": "A 10-second 80s Cel Anime style teaser: \"A Robot's Day Off\".",
  "uses": [
   "Music videos",
   "Game trailers",
   "Nostalgia"
  ],
- "frame_sec": 17.7,
- "dur": 59.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/cel-anime-80s.mp4",
  "demo_topic": "A Robot's Day Off",
  "demo_seconds": 10

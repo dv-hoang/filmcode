@@ -3,15 +3,15 @@
  "num": "26",
  "en": "1930s Rubber Hose Cartoon",
  "category_en": "Cartoon & Anime",
- "film": "Coffee Cup Chase",
- "line": "A coffee cup chases a runaway sugar cube around the kitchen, 1930s-cartoon style.",
+ "film": "The Late Delivery",
+ "line": "A 10-second 1930s Rubber Hose Cartoon style teaser: \"The Late Delivery\".",
  "uses": [
   "Food & drink",
   "Retro ads",
   "Kids"
  ],
- "frame_sec": 30.0,
- "dur": 50.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/rubber-hose.mp4",
  "demo_topic": "The Late Delivery",
  "demo_seconds": 10

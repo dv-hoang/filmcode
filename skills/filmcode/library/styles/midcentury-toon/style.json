@@ -3,15 +3,15 @@
  "num": "48",
  "en": "Mid-century Cartoon",
  "category_en": "Cartoon & Anime",
- "film": "Meet Pip",
- "line": "A robot vacuum set up in three steps, told like a 1950s classroom film.",
+ "film": "The Last Arcade",
+ "line": "A 10-second Mid-century Cartoon style teaser: \"The Last Arcade\".",
  "uses": [
   "Set-up guides",
   "Help centres",
   "How-to"
  ],
- "frame_sec": 3.2,
- "dur": 40.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/midcentury-toon.mp4",
  "demo_topic": "The Last Arcade",
  "demo_seconds": 10

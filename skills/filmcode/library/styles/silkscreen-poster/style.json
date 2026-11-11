@@ -3,15 +3,15 @@
  "num": "54",
  "en": "Silkscreen Travel Poster",
  "category_en": "Print & Printmaking",
- "film": "The Long Way Home",
- "line": "A traveller crosses the world one full-bleed screen print at a time, a ticket stub counting the distance from home, until the far side turns into the way back.",
+ "film": "The Travel Poster",
+ "line": "A 10-second Silkscreen Travel Poster style teaser: \"The Travel Poster\".",
  "uses": [
   "Destination guides",
   "Tourism",
   "Event posters"
  ],
- "frame_sec": 44.5,
- "dur": 50.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/silkscreen-poster.mp4",
  "demo_topic": "The Travel Poster",
  "demo_seconds": 10

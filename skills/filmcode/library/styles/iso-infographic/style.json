@@ -3,15 +3,15 @@
  "num": "24",
  "en": "Isometric Infographic",
  "category_en": "Information & Keynote",
- "film": "From Bean to Cup",
- "line": "A coffee's journey from the plantation to your hands, across one isometric world.",
+ "film": "A Product in Three Acts",
+ "line": "A 10-second Isometric Infographic style teaser: \"A Product in Three Acts\".",
  "uses": [
   "Process explainers",
   "Supply chains",
   "Annual reports"
  ],
- "frame_sec": 35.28,
- "dur": 58.8,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/iso-infographic.mp4",
  "demo_topic": "A Product in Three Acts",
  "demo_seconds": 10

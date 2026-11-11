@@ -3,15 +3,15 @@
  "num": "18",
  "en": "Art Deco",
  "category_en": "Graphic & Type",
- "film": "Midnight at the Starlight Hotel",
- "line": "A grand hotel, 1930: a bellboy races lifts and revolving doors to deliver one letter before midnight.",
+ "film": "The Type Specimen",
+ "line": "A 10-second Art Deco style teaser: \"The Type Specimen\".",
  "uses": [
   "Luxury & hospitality",
   "Galas",
   "Invitations"
  ],
- "frame_sec": 17.52,
- "dur": 58.4,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/art-deco.mp4",
  "demo_topic": "The Type Specimen",
  "demo_seconds": 10

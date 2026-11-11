@@ -3,15 +3,15 @@
  "num": "01",
  "en": "Crayon Picture Book",
  "category_en": "Hand-drawn & Painting",
- "film": "The Moon Can't Sleep",
- "line": "The moon can't sleep, so a little girl climbs onto the roof to sing it a lullaby.",
+ "film": "The Orchard at First Light",
+ "line": "A 10-second Crayon Picture Book style teaser: \"The Orchard at First Light\".",
  "uses": [
   "Picture books",
   "Bedtime stories",
   "Kids' learning"
  ],
- "frame_sec": 43.68,
- "dur": 52.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/crayon-book.mp4",
  "demo_topic": "The Orchard at First Light",
  "demo_seconds": 10

@@ -3,15 +3,15 @@
  "num": "62",
  "en": "Archive Light Table",
  "category_en": "Evidence Films",
- "film": "Two Seconds Short",
- "line": "The telegram said 57 seconds; under a loupe, the Wrights' glass negatives and the archive say 59.",
+ "film": "Three Centimetres of Time",
+ "line": "A 10-second Archive Light Table style teaser: \"Three Centimetres of Time\".",
  "uses": [
   "Brand history",
   "Archive stories",
   "Museums"
  ],
- "frame_sec": 22.3,
- "dur": 40.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/archive-lighttable.mp4",
  "demo_topic": "Three Centimetres of Time",
  "demo_seconds": 10

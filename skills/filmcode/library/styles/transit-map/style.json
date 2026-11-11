@@ -3,15 +3,15 @@
  "num": "72",
  "en": "Transit Map",
  "category_en": "Information & Keynote",
- "film": "6 Kilometres",
- "line": "A printed metro map grows from one 6 km line in 1993 to 21 lines and 906 km.",
+ "film": "Everything on One Screen",
+ "line": "A 10-second Transit Map style teaser: \"Everything on One Screen\".",
  "uses": [
   "Transport",
   "Growth over time",
   "Networks"
  ],
- "frame_sec": 36.2,
- "dur": 47.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/transit-map.mp4",
  "demo_topic": "Everything on One Screen",
  "demo_seconds": 10

@@ -3,15 +3,15 @@
  "num": "45",
  "en": "Urban Sketch · Pen & Wash",
  "category_en": "Hand-drawn & Painting",
- "film": "Where the Wind Went",
- "line": "A park that is only a pen sketch; wherever the wind carries her straw hat, colour follows.",
+ "film": "A Window Facing North",
+ "line": "A 10-second Urban Sketch · Pen & Wash style teaser: \"A Window Facing North\".",
  "uses": [
   "City & travel",
   "Architecture",
   "Lifestyle brands"
  ],
- "frame_sec": 16.2,
- "dur": 33.4,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/urban-sketch.mp4",
  "demo_topic": "A Window Facing North",
  "demo_seconds": 10

@@ -3,15 +3,15 @@
  "num": "55",
  "en": "Satellite Briefing",
  "category_en": "Evidence Films",
- "film": "The Map Still Says Sea",
- "line": "A satellite follows the map to the Aral Sea and finds a desert; only the part someone dammed came back.",
+ "film": "The Forest Under the Forest",
+ "line": "A 10-second Satellite Briefing style teaser: \"The Forest Under the Forest\".",
  "uses": [
   "Climate",
   "News explainers",
   "Geography"
  ],
- "frame_sec": 13.6,
- "dur": 37.8,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/satellite-briefing.mp4",
  "demo_topic": "The Forest Under the Forest",
  "demo_seconds": 10

@@ -3,15 +3,15 @@
  "num": "33",
  "en": "Game Show Flat",
  "category_en": "Games",
- "film": "Rhythm of AI, 1997 → 2026",
- "line": "The history of AI as a rhythm game: models take the stage on the beat, and a report card closes the show.",
+ "film": "Player Two",
+ "line": "A 10-second Game Show Flat style teaser: \"Player Two\".",
  "uses": [
   "Tech timelines",
   "Year in review",
   "Variety shows"
  ],
- "frame_sec": 74.4,
- "dur": 148.8,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/game-show.mp4",
  "demo_topic": "Player Two",
  "demo_seconds": 10

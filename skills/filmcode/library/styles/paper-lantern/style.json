@@ -3,15 +3,15 @@
  "num": "10",
  "en": "Paper-cut Lightbox",
  "category_en": "East Asian Traditions",
- "film": "The Last Night Train",
- "line": "An old night train makes its last run, from a snowy mountain halt through a long tunnel to the sea, its lit windows going out one by one at the end of the line.",
+ "film": "Ten Thousand Cranes",
+ "line": "A 10-second Paper-cut Lightbox style teaser: \"Ten Thousand Cranes\".",
  "uses": [
   "Journeys and travel",
   "Farewells and anniversaries",
   "Places and their stories"
  ],
- "frame_sec": 9.6,
- "dur": 51.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/paper-lantern.mp4",
  "demo_topic": "Ten Thousand Cranes",
  "demo_seconds": 10

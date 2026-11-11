@@ -1,6 +1,6 @@
 # FilmCode: instructions for agents
 
-This repository is a library of film styles. Each style has a `styles/<slug>/STYLE.md` (what the style is) and `demo/<slug>/DEMO.md` (how its demo was made). People pick a style and ask for a film about **their own** topic. Your job is to direct and produce that film.
+This repository is a library of film styles. Each style has a `styles/<slug>/STYLE.md` (what the style is) and `demo/<slug>/DEMO.md` (what its demo looks like). People pick a style and ask for a film about **their own** topic. Your job is to direct and produce that film.
 
 | The request | Go to |
 |---|---|
@@ -30,7 +30,7 @@ This repository is a library of film styles. Each style has a `styles/<slug>/STY
 
 - **`STYLE.md` is fixed**: the style's invariants (look, colour, type, motion, camera grammar, sound palette, native moves, pitfalls). Keep all of it.
 - **Everything else is yours to direct** from the user's topic: story, structure, characters, settings, shots, timings, references, how data is charted. Never bend the topic toward the demo.
-- **Treatment first, demo later.** Write your own `TREATMENT.md`, with three candidate structures and your choice (DIRECTOR.md §4), before you open `demo/<slug>/DEMO.md` or the demo code. Then use the demo only to learn techniques (a brush engine, a rig, a shader, a mix), never its story, arc, shots, props or timeline. A style cut from real material (Edit & Documentary) needs its material before the treatment. This edition has no demo sources, so the `demo/tools/` its `STYLE.md` names aren't here: search for material and log each item's page, author and licence yourself, as its `STYLE.md` describes.
+- **Treatment first, demo later.** Write your own `TREATMENT.md`, with three candidate structures and your choice (DIRECTOR.md §4), before you open the demo note. Then use the style's `STYLE.md` for techniques and the demo only for its look (palette, type, motion), never its story, arc, shots, props or timeline. A style cut from real material (Edit & Documentary) needs its material before the treatment. This edition has no demo sources, so the `demo/tools/` its `STYLE.md` names aren't here: search for material and log each item's page, author and licence yourself, as its `STYLE.md` describes.
 - **Scene styles** (a set-up guide, a spec walkthrough, a museum plate, a trail guide) list use cases in their `STYLE.md`. Read them as grammar for the order in which information arrives and how long each part needs on screen, then build the user's content in your own structure. Swapping text into a demo's `content.json` is only a technical check, never the way to deliver.
 - Never build inside `styles/`: copy what you need into the film's project folder.
 

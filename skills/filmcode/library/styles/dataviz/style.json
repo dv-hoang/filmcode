@@ -3,15 +3,15 @@
  "num": "23",
  "en": "Data Storytelling",
  "category_en": "Information & Keynote",
- "film": "A Hundred Summers",
- "line": "A hundred years of summer temperatures, where the chart itself tells the story.",
+ "film": "The Quiet Launch",
+ "line": "A 10-second Data Storytelling style teaser: \"The Quiet Launch\".",
  "uses": [
   "Data journalism",
   "Reports",
   "Climate & science"
  ],
- "frame_sec": 42.0,
- "dur": 50.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/dataviz.mp4",
  "demo_topic": "The Quiet Launch",
  "demo_seconds": 10

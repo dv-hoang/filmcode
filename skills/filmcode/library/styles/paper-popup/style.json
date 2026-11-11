@@ -3,15 +3,15 @@
  "num": "41",
  "en": "Paper Pop-up Book",
  "category_en": "Materials & 3D",
- "film": "Pip's Paper Adventure",
- "line": "A pop-up book opens on a desk; a sprite named Pip adventures through paper worlds and jumps out into ours.",
+ "film": "A City on a Desk",
+ "line": "A 10-second Paper Pop-up Book style teaser: \"A City on a Desk\".",
  "uses": [
   "Children's books",
   "Game trailers",
   "Story films"
  ],
- "frame_sec": 26.6,
- "dur": 133.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/paper-popup.mp4",
  "demo_topic": "A City on a Desk",
  "demo_seconds": 10

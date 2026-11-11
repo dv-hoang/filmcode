@@ -3,15 +3,15 @@
  "num": "70",
  "en": "Broadcast News Package",
  "category_en": "Edit & Documentary",
- "film": "The Week in AI",
- "line": "Four AI stories from one week in a full on-air package: rundown, headline strap, price board, spec card.",
+ "film": "The Quiet Deadline",
+ "line": "A 10-second Broadcast News Package style teaser: \"The Quiet Deadline\".",
  "uses": [
   "News round-ups",
   "Bulletins",
   "Market updates"
  ],
- "frame_sec": 18.4,
- "dur": 53.5,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/news-package.mp4",
  "demo_topic": "The Quiet Deadline",
  "demo_seconds": 10

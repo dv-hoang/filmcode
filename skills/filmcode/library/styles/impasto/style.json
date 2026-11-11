@@ -3,15 +3,15 @@
  "num": "04",
  "en": "Impasto Oil Painting",
  "category_en": "Hand-drawn & Painting",
- "film": "The Colour of Rain",
- "line": "In a grey, rainy square one red umbrella opens, and a waltz paints the whole plaza in colour.",
+ "film": "The Colour of Distance",
+ "line": "A 10-second Impasto Oil Painting style teaser: \"The Colour of Distance\".",
  "uses": [
   "Music videos",
   "Art & culture",
   "Emotional ads"
  ],
- "frame_sec": 28.58,
- "dur": 39.7,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/impasto.mp4",
  "demo_topic": "The Colour of Distance",
  "demo_seconds": 10

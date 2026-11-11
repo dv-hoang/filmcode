@@ -3,15 +3,15 @@
  "num": "44",
  "en": "Glass Product Render",
  "category_en": "Materials & 3D",
- "film": "Aura — Hear the Light",
- "line": "Unboxing and close-ups of Aura, fictional glass earbuds, in strip-light sweeps and caustics.",
+ "film": "The Model Room",
+ "line": "A 10-second Glass Product Render style teaser: \"The Model Room\".",
  "uses": [
   "Product launches",
   "Consumer tech",
   "Beauty"
  ],
- "frame_sec": 19.2,
- "dur": 32.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/glass-product.mp4",
  "demo_topic": "The Model Room",
  "demo_seconds": 10

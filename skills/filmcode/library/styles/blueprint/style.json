@@ -3,15 +3,15 @@
  "num": "19",
  "en": "Blueprint",
  "category_en": "Graphic & Type",
- "film": "Patent Pending: The Cloud Catcher",
- "line": "An inventor's blueprint draws, explodes and assembles a cloud-catching machine, and its revision cloud starts to rain.",
+ "film": "Fifty Years of Posters",
+ "line": "A 10-second Blueprint style teaser: \"Fifty Years of Posters\".",
  "uses": [
   "Engineering",
   "Hardware launches",
   "Tech explainers"
  ],
- "frame_sec": 33.62,
- "dur": 46.7,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/blueprint.mp4",
  "demo_topic": "Fifty Years of Posters",
  "demo_seconds": 10

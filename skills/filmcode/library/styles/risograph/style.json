@@ -3,15 +3,15 @@
  "num": "12",
  "en": "Risograph Print",
  "category_en": "Print & Printmaking",
- "film": "Sunday Ride",
- "line": "A Sunday-morning bike ride through the city — bakery, park, riverside — each stop adding an ink until three misregistered plates overprint.",
+ "film": "The Ink Workshop",
+ "line": "A 10-second Risograph Print style teaser: \"The Ink Workshop\".",
  "uses": [
   "Indie brands",
   "Zines",
   "Lifestyle"
  ],
- "frame_sec": 28.8,
- "dur": 40.0,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/risograph.mp4",
  "demo_topic": "The Ink Workshop",
  "demo_seconds": 10

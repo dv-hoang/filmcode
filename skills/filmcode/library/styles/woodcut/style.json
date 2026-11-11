@@ -3,15 +3,15 @@
  "num": "15",
  "en": "Woodcut Print",
  "category_en": "Print & Printmaking",
- "film": "The Bell Founder",
- "line": "A village spends a whole winter casting one bell; the first time it rings, the snow stops.",
+ "film": "The Paper Route",
+ "line": "A 10-second Woodcut Print style teaser: \"The Paper Route\".",
  "uses": [
   "Folk tales",
   "Craft brands",
   "Book trailers"
  ],
- "frame_sec": 49.14,
- "dur": 58.5,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/woodcut.mp4",
  "demo_topic": "The Paper Route",
  "demo_seconds": 10

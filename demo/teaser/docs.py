@@ -28,20 +28,26 @@ def hex6(h):
 def main():
     styles = {p.parent.name: json.loads(p.read_text(encoding="utf-8")) for p in STYLES.glob("*/style.json")}
 
-    # style.json: public demo URL + topic
+    # style.json: public demo URL, new-title metadata
     for e in TEASERS:
         p = STYLES / e["slug"] / "style.json"
         d = json.loads(p.read_text(encoding="utf-8"))
+        d["film"] = e["topic"]
+        d["line"] = f'A 10-second {d["en"]} style teaser: "{e["topic"]}".'
+        d["dur"] = 10.0
+        d["frame_sec"] = 5.0
         d["demo"] = f"{BASE}/{e['slug']}.mp4"
         d["demo_topic"] = e["topic"]
         d["demo_seconds"] = 10
         p.write_text(json.dumps(d, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+        styles[e["slug"]] = d
     wp = STYLES / "watercolor" / "style.json"
     wd = json.loads(wp.read_text(encoding="utf-8"))
     wd["demo"] = WATER_URL
     wd["demo_topic"] = "Alborada"
     wd["demo_seconds"] = 45
     wp.write_text(json.dumps(wd, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    styles["watercolor"] = wd
 
     # style index with a watch link for every row
     idx = ["# Style index", "",
@@ -54,25 +60,37 @@ def main():
         idx += [f"## {cat}", "", "| Style | Folder | Our demo |", "|---|---|---|"]
         for s in group:
             url = WATER_URL if s["slug"] == "watercolor" else f"{BASE}/{s['slug']}.mp4"
-            idx.append(f"| {s['en']} | [`{s['slug']}`]({s['slug']}/STYLE.md) | *{s['film']}* · [notes](../../../../demo/{s['slug']}/DEMO.md) · [watch]({url}) |")
+            label = f"*{s.get('demo_topic') or s['film']}*"
+            if s.get("demo_seconds"):
+                label += f" ({s['demo_seconds']} s)"
+            idx.append(f"| {s['en']} | [`{s['slug']}`]({s['slug']}/STYLE.md) | {label} · [notes](../../../../demo/{s['slug']}/DEMO.md) · [watch]({url}) |")
         idx.append("")
     (STYLES / "README.md").write_text("\n".join(idx).rstrip() + "\n", encoding="utf-8")
 
-    # one watch line in every DEMO.md, except Watercolor's full demo
+    # short teaser notes; the old reference-demo breakdowns are not kept
     for e in TEASERS:
         p = DEMO / e["slug"] / "DEMO.md"
-        lines = p.read_text(encoding="utf-8").splitlines()
-        if any("10 s teaser" in x for x in lines[:12]):
-            continue
-        watch = f'Watch: [10 s teaser]({BASE}/{e["slug"]}.mp4) — "{e["topic"]}"'
-        rest = lines[1:]
-        while rest and not rest[0].strip():
-            rest.pop(0)
-        if lines and lines[0].startswith("# "):
-            lines = [lines[0], "", watch, ""] + rest
-        else:
-            lines = [watch, ""] + lines
-        p.write_text("\n".join(lines) + "\n", encoding="utf-8")
+        c = e["colors"]
+        doc = (
+            f"# {e['en']} — 10 s teaser\n\n"
+            f"Watch: [10 s teaser]({BASE}/{e['slug']}.mp4) — \"{e['topic']}\"\n\n"
+            f"A 10-second style card for FilmCode ({e['category']}): palette `{c['bg']}`, `{c['accent']}`, "
+            f"`{c['support']}`, `{c['ink']}`; a {e['type']} typeface; a {e['motif']} motion motif. "
+            "Silent, generated, not a story.\n\n"
+            f"Style rules: [STYLE.md](../../skills/filmcode/library/styles/{e['slug']}/STYLE.md)\n"
+        )
+        p.write_text(doc, encoding="utf-8")
+
+    # Watercolor keeps its real 45 s film and source, but not the old reference breakdown.
+    wd = json.loads((STYLES / "watercolor" / "style.json").read_text(encoding="utf-8"))
+    (DEMO / "watercolor" / "DEMO.md").write_text(
+        "# Watercolor Brush — Alborada\n\n"
+        f"Watch: [45 s demo]({WATER_URL}) · poster [poster.jpg](poster.jpg) · source [source/](source/)\n\n"
+        f"45.0 s, 1920x1080, 30 fps, stereo sound. {wd['line']}\n\n"
+        "Style rules: [STYLE.md](../../skills/filmcode/library/styles/watercolor/STYLE.md) · "
+        "build notes: [source/SOURCE.md](source/SOURCE.md)\n",
+        encoding="utf-8",
+    )
 
     # gallery page
     cards = []

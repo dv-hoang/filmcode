@@ -3,15 +3,15 @@
  "num": "64",
  "en": "1920s Newsreel",
  "category_en": "Edit & Documentary",
- "film": "Knock-Knee Alert",
- "line": "1926: the papers say the Charleston will ruin America's knees; at Ford's own picnic the kids dance it anyway.",
+ "film": "Nine Minutes of Rain",
+ "line": "A 10-second 1920s Newsreel style teaser: \"Nine Minutes of Rain\".",
  "uses": [
   "History stories",
   "Fads & eras",
   "Anniversaries"
  ],
- "frame_sec": 30.2,
- "dur": 54.6,
+ "frame_sec": 5.0,
+ "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/newsreel.mp4",
  "demo_topic": "Nine Minutes of Rain",
  "demo_seconds": 10
