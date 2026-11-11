@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>First Orange</title>
+<style>
+  @font-face {
+    font-family: 'Cormorant Garamond';
+    src: url('fonts/CormorantGaramond[wght].ttf') format('truetype');
+    font-weight: 200 700;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Cormorant Garamond';
+    src: url('fonts/CormorantGaramond-Italic[wght].ttf') format('truetype');
+    font-weight: 200 700;
+    font-style: italic;
+  }
+  html, body { margin: 0; background: #1d1a17; overflow: hidden; width: 1920px; height: 1080px; position: relative; }
+  canvas { display: block; width: 1920px; height: 1080px; }
+  #title {
+    position: absolute; left: 0; right: 0; top: 168px; z-index: 2;
+    text-align: center;
+    font: 500 92px 'Cormorant Garamond', serif;
+    color: #f4efe3;
+    letter-spacing: 0.08em;
+    opacity: 0;
+    pointer-events: none;
+    text-shadow: 0 2px 18px rgba(0,0,0,.35);
+  }
+  #sub {
+    position: absolute; left: 50%; bottom: 96px; z-index: 2;
+    transform: translateX(-50%);
+    text-align: center;
+    font: italic 400 38px 'Cormorant Garamond', serif;
+    color: #1d1a17;
+    opacity: 0;
+    pointer-events: none;
+    padding: 18px 28px;
+    background: rgba(244,239,227,.72);
+    border-radius: 4px;
+    width: max-content;
+    max-width: 70%;
+  }
+  #credit {
+    position: absolute; left: 0; right: 0; bottom: 48px; z-index: 2;
+    text-align: center;
+    font: 400 20px 'Cormorant Garamond', serif;
+    color: #f4efe3;
+    opacity: 0;
+    letter-spacing: 0.12em;
+    pointer-events: none;
+  }
+</style>
+</head>
+<body>
+<canvas id="c" width="1920" height="1080"></canvas>
+<div id="title"></div>
+<div id="sub"></div>
+<div id="credit">an impasto palette-knife study</div>
+<script type="module" src="main.js"></script>
+</body>
+</html>

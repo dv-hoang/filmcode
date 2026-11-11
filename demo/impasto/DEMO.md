@@ -1,7 +1,9 @@
-# Impasto Oil Painting — 10 s teaser
+# Impasto Oil Painting — First Orange
 
-Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/impasto.mp4) — "The Colour of Distance"
+Watch: [local `first-orange.mp4`](first-orange.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-A 10-second style card for FilmCode (Hand-drawn & Painting): palette `#f4efe3`, `#d97757`, `#f0a07a`, `#1d1a17`; a serif typeface; a columns motion motif. Silent, generated, not a story.
+42.0 s, 1920×1080, 24 fps, stereo sound. In a grey dawn kitchen, one orange waits; when the knife breaks its skin, colour floods the room stroke by stroke — and breakfast begins.
 
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/impasto/STYLE.md)
+Style rules: [STYLE.md](../../skills/filmcode/library/styles/impasto/STYLE.md) · build notes: [source/SOURCE.md](source/SOURCE.md)
+
+Hosted teaser (previous 10 s card): [impasto.mp4 on Supabase](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/impasto.mp4)

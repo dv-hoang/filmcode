@@ -1,0 +1,32 @@
+[
+  {
+    "id": "v01",
+    "text": "Before the sun, one colour waited.",
+    "voice": "af_heart",
+    "speed": 0.92
+  },
+  {
+    "id": "v02",
+    "text": "A knife found it.",
+    "voice": "af_heart",
+    "speed": 0.92
+  },
+  {
+    "id": "v03",
+    "text": "Skin broke.",
+    "voice": "af_heart",
+    "speed": 0.92
+  },
+  {
+    "id": "v04",
+    "text": "And the room remembered how to be warm.",
+    "voice": "af_heart",
+    "speed": 0.92
+  },
+  {
+    "id": "v05",
+    "text": "Breakfast.",
+    "voice": "af_heart",
+    "speed": 0.92
+  }
+]

@@ -1,0 +1,27 @@
+# CREDITS — First Orange
+
+A ~42-second film in the Impasto Oil Painting style, made entirely in code.
+The kitchen, orange and story are invented: no real brand or place is portrayed.
+
+## Voice
+Speech synthesis: Kokoro (kokoro-onnx), voice `af_heart`, English. Model and engine
+are released under the licences of the kokoro-onnx project
+(https://github.com/thewh1teagle/kokoro-onnx). Offline synthesis.
+
+## Music
+Original score, synthesised and sampled for this film (`music/score.py`).
+Acoustic guitar plucks are physically modelled (`core/audio/pluck.py`).
+
+Samples (CC0 1.0): VS Chamber Orchestra: Community Edition (Versilian Studios /
+Sam Gossner), Versilian Community Sample Library (Versilian Studios).
+
+## Typefaces
+- Cormorant Garamond — SIL Open Font License 1.1 (Catharsis Fonts); see `fonts/OFL.txt`
+
+## Picture
+Every frame is drawn with the film's own knife-stroke engine (`engine/impasto.js`).
+No stock footage, no photographs, no third-party images.
+
+## Sound effects
+All foley is synthesised for this film (`mix.py`): room hush, birds, knife scrapes,
+wet peels, juice drips.
