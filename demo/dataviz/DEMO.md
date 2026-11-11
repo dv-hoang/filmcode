@@ -1,6 +1,6 @@
 # Data Storytelling — 10 s teaser
 
-Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/dataviz.mp4) — "The Quiet Launch"
+Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "The Quiet Launch"
 
 A 10-second style card for FilmCode (Information & Keynote): palette `#0f1419`, `#4e7cf6`, `#19b388`, `#f2f2f2`; a sans typeface; a wave motion motif. Silent, generated, not a story.
 

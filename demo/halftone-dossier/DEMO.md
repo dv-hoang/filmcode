@@ -1,6 +1,6 @@
 # Halftone Dossier — 10 s teaser
 
-Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/halftone-dossier.mp4) — "A City in Six Colours"
+Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "A City in Six Colours"
 
 A 10-second style card for FilmCode (Print & Printmaking): palette `#f5f0e6`, `#c8363a`, `#2a5cb3`, `#171717`; a serif typeface; a rings motion motif. Silent, generated, not a story.
 

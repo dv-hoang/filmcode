@@ -6,4 +6,4 @@ Watch: [local `one-lamp-across.mp4`](one-lamp-across.mp4) · poster [poster.jpg]
 
 Style rules: [STYLE.md](../../skills/filmcode/library/styles/shadow-puppet/STYLE.md) · build notes: [source/SOURCE.md](source/SOURCE.md)
 
-Hosted teaser (previous 10 s card): [shadow-puppet.mp4 on Supabase](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/shadow-puppet.mp4)
+Also in the [demo gallery](https://dv-hoang.github.io/filmcode/demo/)

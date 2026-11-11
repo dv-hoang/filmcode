@@ -1,12 +1,18 @@
 # FilmCode
 
-**66 film styles, each with a short film made entirely in code.** Pick a style, bring your own story, and let your Command Code agent direct the film: a treatment, every frame drawn in code, an original score, a mix, and a finished MP4. No video model, no stock footage.
+**66 film styles, each with a short film made entirely in code.** Pick a style, bring your own story, and let your AI agent direct the film: a treatment, every frame drawn in code, an original score, a mix, and a finished MP4. No video model, no stock footage.
 
-FilmCode is a self-contained film-style toolkit for Command Code. The guides, the 66 style prompts and the rendering tools ship inside the skill, so nothing is cloned or fetched to tell the agent what to do. Demo film sources and large assets are left out.
+FilmCode is a self-contained film-style toolkit for AI coding agents (Claude Code, Cursor, Command Code, Codex, and others that load [Agent Skills](https://agentskills.io)). The guides, the 66 style prompts and the rendering tools ship inside the skill, so nothing is cloned or fetched to tell the agent what to do.
+
+## Demo films
+
+Watch every style in the gallery: **[https://dv-hoang.github.io/filmcode/demo/](https://dv-hoang.github.io/filmcode/demo/)**
+
+Watercolor is a 45 s film; Impasto and several hand-drawn, East Asian and print styles are full-length demos; Crayon Picture Book, ASCII / CRT Terminal, Swiss Motion Graphics and Chinese Ink Wash are hand-built 10 s films; the rest are 10 s style teasers. Sources and notes live under [`demo/`](demo/).
 
 ## Install
 
-Command Code installs skills from a GitHub repository:
+**Command Code** (from this GitHub repo):
 
 ```bash
 # global: available in every project
@@ -14,27 +20,29 @@ cmd skills add dv-hoang/filmcode --skill filmcode --global
 
 # or project-only: .commandcode/skills/filmcode/
 cmd skills add dv-hoang/filmcode --skill filmcode
-```
 
-From a local checkout, point a session at the skill directly:
-
-```bash
+# from a local checkout
 cmd --skill ./skills/filmcode
 ```
 
-Or copy `skills/filmcode/` into `~/.commandcode/skills/` (global) or `.commandcode/skills/` (project).
+**Claude Code / Cursor** (and other agents that load a skills folder):
+
+```bash
+# Claude Code (global)
+ln -s "$(pwd)/skills/filmcode" ~/.claude/skills/filmcode
+
+# Cursor (project)
+mkdir -p .cursor/skills && ln -s ../../skills/filmcode .cursor/skills/filmcode
+
+# Or copy
+cp -R skills/filmcode ~/.claude/skills/filmcode
+```
+
+Any agent that reads a `SKILL.md` can use the same folder. Point the session at `./skills/filmcode` if your tool loads skills by path.
 
 ## Use it
 
-Start Command Code in the folder where you want the film to live, then:
-
-```bash
-/skill:filmcode
-```
-
-The namespaced form always resolves to the skill. `/filmcode` also works unless a built-in or custom command owns that name.
-
-Then ask in your own words:
+Start the agent in the folder where you want the film to live, then invoke the skill — e.g. `/skill:filmcode` in Command Code, `/filmcode` elsewhere — and ask in your own words:
 
 > Make a 45-second film in the **watercolor** style about the coffee farm my family runs. Warm female narrator.
 
@@ -54,7 +62,7 @@ Name a style, or describe your topic and let the agent suggest two or three. It 
 
 - **Node 20+, ffmpeg 7+ and Python 3.11+** (or [uv](https://docs.astral.sh/uv/)). The agent reports anything missing; install system tools yourself. Ubuntu 24.04's ffmpeg 6.1 is too old: use a static build.
 - A film takes an agent a while and a fair amount of tokens. Default output is 1920x1080 at 24 fps.
-- The styles were tuned for the model that made the original demo films. Other models may not reproduce them as closely.
+- The styles were tuned for the model that made the demo films. Other models may not reproduce them as closely.
 
 ## What happens on first use
 
@@ -75,20 +83,16 @@ Asset packs (voice model, instruments, HDRIs, textures) download from this repos
 
 Chinese narration uses offline Kokoro by default. edge-tts sounds better but sends the narration text to Microsoft's speech service; the agent asks first and uses it only if you agree.
 
-## Demo video
-
-Every style has a demo: Watercolor is a 45 s film, Crayon Picture Book, ASCII / CRT Terminal, Swiss Motion Graphics and Chinese Ink Wash are hand-built 10 s films, and the other 61 styles are 10 s style teasers. Every video plays in [`demo/index.html`](demo/index.html). Enable GitHub Pages (Settings -> Pages -> Deploy from a branch -> `main` / root) and open `https://dv-hoang.github.io/filmcode/demo/`.
-
 ## Layout
 
 ```
 demo/
 ├── index.html            # demo gallery (GitHub Pages)
 ├── watercolor/           # DEMO.md + poster.jpg + source/
-└── <style>/              # DEMO.md + poster.jpg
+└── <style>/              # DEMO.md + poster.jpg (+ source/ for full demos)
 
 skills/filmcode/
-├── SKILL.md              # Command Code entry point
+├── SKILL.md              # agent skill entry point
 ├── scripts/setup.sh      # copies the vendored library out, installs packages
 └── library/              # self-contained library
     ├── AGENTS.md         # how the agent works
@@ -102,25 +106,16 @@ skills/filmcode/
 
 Your saved styles live in `~/filmcode-my-styles/<name>/`, outside the installed skill, so updates never touch them.
 
-## What differs from the original edition
-
-- Installed with `cmd skills add` and invoked as `/skill:filmcode` instead of a plugin marketplace.
-- `${COMMANDCODE_SKILL_DIR}` replaces the skill-base placeholder.
-- `AskUserQuestion` is mapped to `ask_user_question` (max 4 questions per call, 2-4 options, labels 1-5 words, explanation in `description`); free-text replies are always offered.
-- Commands run through `shell_command`; long installs and renders use background tasks.
-- The library is vendored, so a missing network or upstream repository change cannot break the skill.
-- User-facing names, paths and environment variables are rebranded: `FILMCODE_HOME`, `~/.filmcode/library`, `~/filmcode-my-styles`.
-
 ## Updating
 
-Reinstall the skill after pulling a new version:
+Pull a new version of this repository, then refresh the copy or symlink in your agent's skills folder. Re-run setup if the library's `.edition` stamp changed:
 
 ```bash
-cmd skills add dv-hoang/filmcode --skill filmcode --global --force
+sh skills/filmcode/scripts/setup.sh
 ```
 
 The vendored library re-copies itself when its `.edition` stamp changes; packages and models stay. To ship a new library build, replace `skills/filmcode/library/` wholesale and update its `.edition` file.
 
 ## Licence and credit
 
-MIT. Based on an MIT-licensed open-source film-style library. The upstream demo films and stills are CC BY 4.0 and are not included here. Fonts in `core/fonts/` are OFL; sample libraries and HDRIs keep their own licences (`core/audio/INSTRUMENTS.md`, `core/assets/polyhaven/SOURCES.md`). Films you make are yours.
+MIT. Fonts in `core/fonts/` are OFL; sample libraries and HDRIs keep their own licences (`core/audio/INSTRUMENTS.md`, `core/assets/polyhaven/SOURCES.md`). Films you make are yours.

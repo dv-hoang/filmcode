@@ -15,7 +15,7 @@ The user gives a style and a topic, sometimes more (length, language, voice, mus
 - Voice and subtitles in the language the user writes in. Subtitles burned in and exported as `.srt`.
 - Loudness −14 LUFS.
 
-Say it in the questions when it matters: offline, Kokoro reads Chinese but sounds plain; Microsoft's online service (edge-tts) sounds much better, but it sends the narration text to Microsoft, so in this edition use it only when the user asks for it and agrees to that (TECHNIQUE.md §4). Default: Kokoro.
+Say it in the questions when it matters: offline, Kokoro reads Chinese but sounds plain; Microsoft's online service (edge-tts) sounds much better, but it sends the narration text to Microsoft, so use it only when the user asks for it and agrees to that (TECHNIQUE.md §4). Default: Kokoro.
 
 Requests that only change the plan:
 

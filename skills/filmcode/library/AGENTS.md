@@ -17,8 +17,8 @@ This repository is a library of film styles. Each style has a `styles/<slug>/STY
 ## Start
 
 - **Their own styles first.** If `~/filmcode-my-styles/README.md` exists, read it: it lists every style the user has saved, wherever it's kept, and their own styles ([`MY-STYLES.md`](MY-STYLES.md)) count like library styles. When they name a style, look there first, then in the library.
-- **Their language.** Talk to them in the language they write in. When they started the skill without writing anything, your first question is always the language, even when their settings, memory or earlier messages suggest one: the `ask_user_question` tool, a question of its own headed "Language" with two options, English and Chinese. Command Code always offers a free-text reply, where they type any other language. Use it from then on, and as the film's default language.
-- **No request yet** (they only started the skill, or said hello): offer the ways in with one question, using the `ask_user_question` tool, in their language, with the first as the recommended one:
+- **Their language.** Talk to them in the language they write in. When they started the skill without writing anything, your first question is always the language, even when their settings, memory or earlier messages suggest one: your agent's question tool (or a plain chat question) headed "Language" with two options, English and Chinese, plus a free-text path for any other language. Use it from then on, and as the film's default language.
+- **No request yet** (they only started the skill, or said hello): offer the ways in with one question, using your agent's question tool when available (otherwise a short numbered list), in their language, with the first as the recommended one:
  1. a film in a library style (**Finding the style**);
  2. change a library style and keep it as their own ([`MY-STYLES.md`](MY-STYLES.md));
  3. make their own style from a blank page ([`MY-STYLES.md`](MY-STYLES.md));
@@ -30,7 +30,7 @@ This repository is a library of film styles. Each style has a `styles/<slug>/STY
 
 - **`STYLE.md` is fixed**: the style's invariants (look, colour, type, motion, camera grammar, sound palette, native moves, pitfalls). Keep all of it.
 - **Everything else is yours to direct** from the user's topic: story, structure, characters, settings, shots, timings, references, how data is charted. Never bend the topic toward the demo.
-- **Treatment first, demo later.** Write your own `TREATMENT.md`, with three candidate structures and your choice (DIRECTOR.md §4), before you open the demo note. Then use the style's `STYLE.md` for techniques and the demo only for its look (palette, type, motion), never its story, arc, shots, props or timeline. A style cut from real material (Edit & Documentary) needs its material before the treatment. This edition has no demo sources, so the `demo/tools/` its `STYLE.md` names aren't here: search for material and log each item's page, author and licence yourself, as its `STYLE.md` describes.
+- **Treatment first, demo later.** Write your own `TREATMENT.md`, with three candidate structures and your choice (DIRECTOR.md §4), before you open the demo note. Then use the style's `STYLE.md` for techniques and the demo only for its look (palette, type, motion), never its story, arc, shots, props or timeline. A style cut from real material (Edit & Documentary) needs its material before the treatment. Demo film sources are outside the installed skill: when `demo/tools/` or other helpers named in a `STYLE.md` aren't available locally, search for material and log each item's page, author and licence yourself, as its `STYLE.md` describes.
 - **Scene styles** (a set-up guide, a spec walkthrough, a museum plate, a trail guide) list use cases in their `STYLE.md`. Read them as grammar for the order in which information arrives and how long each part needs on screen, then build the user's content in your own structure. Swapping text into a demo's `content.json` is only a technical check, never the way to deliver.
 - Never build inside `styles/`: copy what you need into the film's project folder.
 
@@ -42,8 +42,8 @@ If the user hasn't picked a style:
 - Suggest two or three that fit their topic.
 - If they have their own styles, list those first, under "My styles" (in their language).
 - Show them the full list below in the chat, in the user's language: English names and English category names. Don't drop, merge or rename anything.
-- Every style has a demo hosted on Supabase: `https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/<slug>.mp4` (10 s), and Watercolor's 45 s film is `https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/watercolor.mp4`. URLs are in `demo/<slug>/DEMO.md` and `demo/index.html`; the demo notes and videos are outside the installed skill.
-- Then ask them to type the name. The list goes in your own message (a command's output isn't shown to them), and the question is plain text, not `ask_user_question`: its few options would hide the rest of the list.
+- Every style has a demo in the gallery: [https://dv-hoang.github.io/filmcode/demo/](https://dv-hoang.github.io/filmcode/demo/). Notes are in `demo/<slug>/DEMO.md` in the repository; the demo notes and videos are outside the installed skill.
+- Then ask them to type the name. The list goes in your own message (a command's output isn't shown to them), and the question is plain text, not a short multiple-choice tool call: its few options would hide the rest of the list.
 
 <!-- style-list:start -->
 All 66 styles:

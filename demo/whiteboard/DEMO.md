@@ -6,4 +6,4 @@ Watch: [local `the-open-top.mp4`](the-open-top.mp4) · poster [poster.jpg](poste
 
 Style rules: [STYLE.md](../../skills/filmcode/library/styles/whiteboard/STYLE.md) · build notes: [source/SOURCE.md](source/SOURCE.md)
 
-Hosted teaser (previous 10 s card): [whiteboard.mp4 on Supabase](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/whiteboard.mp4)
+Also in the [demo gallery](https://dv-hoang.github.io/filmcode/demo/)

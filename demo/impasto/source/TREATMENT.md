@@ -113,7 +113,7 @@ L-cut: scrape under title into settle.
 
 - Voice lines → burned-in + `.srt`; Cormorant (or serif) ≤2 lines, calm plane lower third, clear of orange.  
 - Main title **FIRST ORANGE** laid with knife `appear` (~1 s), holds ≥4 s.  
-- Small credit as crisp DOM text only (no LemoLab).
+- Small credit as crisp DOM text only (no product watermark).
 
 ---
 

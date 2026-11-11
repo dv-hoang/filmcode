@@ -6,4 +6,4 @@ Watch: [local `one-rectangle.mp4`](one-rectangle.mp4) · poster [poster.jpg](pos
 
 Style rules: [STYLE.md](../../skills/filmcode/library/styles/ukiyoe/STYLE.md) · build notes: [source/SOURCE.md](source/SOURCE.md)
 
-Hosted teaser (previous 10 s card): [ukiyoe.mp4 on Supabase](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ukiyoe.mp4)
+Also in the [demo gallery](https://dv-hoang.github.io/filmcode/demo/)

@@ -1,6 +1,6 @@
 # Paper Pop-up Book — 10 s teaser
 
-Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/paper-popup.mp4) — "A City on a Desk"
+Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "A City on a Desk"
 
 A 10-second style card for FilmCode (Materials & 3D): palette `#ece9e2`, `#d97757`, `#2a5cb3`, `#1d1a17`; a sans typeface; a wave motion motif. Silent, generated, not a story.
 

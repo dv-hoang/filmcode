@@ -6,4 +6,4 @@ Watch: [local `one-ember.mp4`](one-ember.mp4) · poster [poster.jpg](poster.jpg)
 
 Style rules: [STYLE.md](../../skills/filmcode/library/styles/woodcut/STYLE.md) · build notes: [source/SOURCE.md](source/SOURCE.md)
 
-Hosted teaser (previous 10 s card): [woodcut.mp4 on Supabase](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/woodcut.mp4)
+Also in the [demo gallery](https://dv-hoang.github.io/filmcode/demo/)

@@ -27,7 +27,7 @@ Never write into `styles/` or edit the library's guides for this. The name and s
 
 ## 1. Where to start
 
-- **Change a library style.** The user names one (see **Finding the style** in `AGENTS.md`). If they haven't, do as **Finding the style** does for a film: the full list of library styles in your message, the gallery link, two or three suggestions on top when you know what they'll use it for, then a plain-text question asking them to type the name (not `ask_user_question`). One base only. If they want to mix two, take the one whose §1 *Essence* is closest as the base and take only what they want from the other, as changes (list it in `borrows`).
+- **Change a library style.** The user names one (see **Finding the style** in `AGENTS.md`). If they haven't, do as **Finding the style** does for a film: the full list of library styles in your message, the gallery link, two or three suggestions on top when you know what they'll use it for, then a plain-text question asking them to type the name (not a short multiple-choice tool call). One base only. If they want to mix two, take the one whose §1 *Essence* is closest as the base and take only what they want from the other, as changes (list it in `borrows`).
 - **Start from a blank page.** The user describes the look in their own words, or brings a picture or a film they like. Choose one library style as the **technique base** (the closest materials and engine: what the code will build on) and at most two to borrow moves from. Make that the first question: your choice and why in one line each, with the next closest as the other options.
 
 Either way, read the base `STYLE.md` in full before the first question. In this flow you may read the base's `DEMO.md` before any treatment: it shows the style's palette, type and motion. The style's own story must still differ from the base style's.
@@ -38,7 +38,7 @@ Interview the user until every section of their `STYLE.md` is decided and they k
 
 **How to ask**
 
-- **One question per message.** Use the `ask_user_question` tool: 2-4 options, the one you recommend first and marked (Recommended), each with a short label (1-5 words) and one line in its `description` on what it does to the film, and **Free conversation** (in their language) as the last option (Command Code also always offers a free-text reply). Without the tool, a short numbered list with your recommendation, and free conversation as its last line.
+- **One question per message.** Use your agent's question tool when available: 2-4 options, the one you recommend first and marked (Recommended), each with a short label (1-5 words) and one line in its `description` on what it does to the film, and **Free conversation** (in their language) as the last option (always leave a free-text path). Without the tool, a short numbered list with your recommendation, and free conversation as its last line.
 - **Free conversation.** When they pick it, stop asking one by one. Post in the chat a checklist: what's decided, and each open item with your recommendation (when changing a library style, also its group from the table below). They answer in their own words, in any order, several at once, or ask you back. When they aren't sure about an item, give two or three concrete directions for it. Update the checklist each round; when everything is decided, or they say "you decide", go to the summary.
 - Every question has your recommendation and the reason, drawn from the base `STYLE.md` and what the user said, with concrete examples from this style, not generic words.
 - Don't ask what you can look up (the base `STYLE.md`, the library, their files).
@@ -124,7 +124,7 @@ Then save it into `style/`:
 
 ## 6. Keep it
 
-Show the user the demo film: where it is, and each change with the second where it can be seen. Then ask with `ask_user_question`:
+Show the user the demo film: where it is, and each change with the second where it can be seen. Then ask (with your agent's question tool when available):
 
 1. **Keep it as my style** (Recommended): check that the name and slug are still free, copy `style/` to `~/filmcode-my-styles/<slug>/` (or the folder they want), add its row to `~/filmcode-my-styles/README.md` (create it if it's missing: a title and a table with one row per style), and tell them where it is and how to use it ("Make a film in my <name> style about…").
 2. **One more round**: change what they ask (§7), then ask again.

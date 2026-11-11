@@ -1,6 +1,6 @@
 # Data Physicalization — 10 s teaser
 
-Watch: [10 s teaser](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/data-physical.mp4) — "The Missing Kilometre"
+Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "The Missing Kilometre"
 
 A 10-second style card for FilmCode (Evidence Films): palette `#c8ccd1`, `#d4521c`, `#c4beb4`, `#1c1d20`; a mono typeface; a wave motion motif. Silent, generated, not a story.
 
