@@ -10,7 +10,7 @@ STYLES = ROOT / "skills" / "filmcode" / "library" / "styles"
 DEMO = ROOT / "demo"
 TEASERS = json.loads((DEMO / "teaser" / "styles.json").read_text(encoding="utf-8"))
 BASE = "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos"
-REAL = {"crayon-book"}   # hand-built demos, not generated style cards
+REAL = {"crayon-book", "ascii-crt"}   # hand-built demos, not generated style cards
 WATER_URL = f"{BASE}/watercolor.mp4"
 ORDER = ["Edit & Documentary", "Evidence Films", "Hand-drawn & Painting", "East Asian Traditions",
          "Print & Printmaking", "Graphic & Type", "Information & Keynote", "Cartoon & Anime",
@@ -116,14 +116,16 @@ def main():
     for c in cards:
         bg, ink = hex6(c["colors"]["bg"]), hex6(c["colors"]["ink"])
         sw = "".join(f'<i class="sw" style="background:{hex6(c["colors"][k])}"></i>' for k in ("bg", "accent", "support", "ink"))
+        poster = f' poster="{c["slug"]}/poster.jpg"'
         card_html.append(
             f'<article class="card" style="background:{bg};color:{ink};border-color:{ink}2e">'
+            f'<video controls playsinline preload="none"{poster} src="{c["url"]}"></video>'
             f'<p class="cat">{html.escape(c["category"])}</p>'
             f'<h2>{html.escape(c["en"])}</h2>'
             f'<p class="topic">&ldquo;{html.escape(c["topic"])}&rdquo;</p>'
             f'<div class="swatches">{sw}</div>'
             f'<a class="watch" style="border-color:{ink}3d" href="{c["url"]}" target="_blank" rel="noopener">'
-            f'Watch <span>{c["seconds"]} s</span></a></article>'
+            f'Open <span>{c["seconds"]} s</span></a></article>'
         )
 
     page = f"""<!doctype html>
@@ -139,14 +141,13 @@ def main():
   header {{ padding-top: 52px; }}
   h1 {{ font-size: clamp(2.1rem, 5vw, 3.6rem); letter-spacing: -.03em; margin: 0 0 10px; }}
   .lede {{ color: #a5abb4; max-width: 62ch; margin: 0; }}
-  .feature {{ margin-top: 28px; }}
-  video {{ display: block; width: 100%; border-radius: 14px; background: #000; }}
-  .grid {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(258px, 1fr)); gap: 14px; padding-top: 28px; padding-bottom: 60px; }}
-  .card {{ border: 1px solid; border-radius: 14px; padding: 18px; display: flex; flex-direction: column; min-height: 208px; }}
+  .grid {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; padding-top: 28px; padding-bottom: 60px; }}
+  .card {{ border: 1px solid; border-radius: 14px; padding: 14px; display: flex; flex-direction: column; }}
+  .card video {{ display: block; width: 100%; aspect-ratio: 16 / 9; border-radius: 9px; background: #000; margin-bottom: 12px; }}
   .cat {{ font-size: .68rem; letter-spacing: .14em; text-transform: uppercase; opacity: .7; margin: 0; }}
   h2 {{ font-size: 1.2rem; line-height: 1.12; margin: .42rem 0 .3rem; }}
   .topic {{ opacity: .82; margin: 0 0 auto; font-size: .96rem; }}
-  .swatches {{ display: flex; gap: 6px; margin: 18px 0 14px; }}
+  .swatches {{ display: flex; gap: 6px; margin: 14px 0 12px; }}
   .sw {{ width: 18px; height: 18px; border-radius: 4px; border: 1px solid rgba(0,0,0,.18); }}
   .watch {{ display: flex; justify-content: space-between; border-top: 1px solid; padding-top: 10px; color: inherit; text-decoration: none; font-weight: 700; }}
   .watch span {{ opacity: .62; font-weight: 500; }}
@@ -156,12 +157,7 @@ def main():
 <body>
 <header>
   <h1>FilmCode demos</h1>
-  <p class="lede">Every style has a demo. Watercolor is a 45-second film, Crayon Picture Book is a hand-drawn 10-second film, and the other styles are 10-second style teasers. The MP4 files are hosted on Supabase.</p>
-  <div class="feature">
-    <video controls playsinline preload="metadata" poster="watercolor/poster.jpg">
-      <source src="{WATER_URL}" type="video/mp4">
-    </video>
-  </div>
+  <p class="lede">Every style has a demo. Watercolor is a 45-second film, Crayon Picture Book and ASCII / CRT Terminal are hand-built 10-second films, and the other styles are 10-second style teasers. Every video plays in the page.</p>
 </header>
 <main class="wrap"><div class="grid">
 {chr(10).join(card_html)}
@@ -176,8 +172,8 @@ def main():
     readme = ROOT / "README.md"
     t = readme.read_text(encoding="utf-8")
     section = ("## Demo video\n\n"
-               "Every style has a demo: Watercolor is a 45 s film, Crayon Picture Book is a hand-drawn 10 s film, "
-               "and the other 64 styles are 10 s style teasers. They are hosted on Supabase and listed in "
+               "Every style has a demo: Watercolor is a 45 s film, Crayon Picture Book and ASCII / CRT Terminal are "
+               "hand-built 10 s films, and the other 63 styles are 10 s style teasers. Every video plays in "
                "[`demo/index.html`](demo/index.html). Enable GitHub Pages (Settings -> Pages -> Deploy from a branch -> "
                "`main` / root) and open `https://dv-hoang.github.io/filmcode/demo/`.\n\n")
     t = re.sub(r"## Demo video\n.*?\n## Layout", section + "## Layout", t, flags=re.S)

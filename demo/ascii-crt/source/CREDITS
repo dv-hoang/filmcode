@@ -1,0 +1,14 @@
+# CREDITS — The Moving Sign
+
+A 10-second ASCII / CRT Terminal film, made entirely in code.
+
+## Picture
+80-column character grid, amber P3 phosphor, scanlines, bloom and afterglow
+(`film.js`). No image or video sources.
+
+## Type
+VT323 — SIL Open Font License 1.1 (`fonts/OFL-VT323.txt`).
+
+## Sound
+Original analog-style hum, pad, relay beeps and key clicks, synthesised with
+numpy and the library's `core/audio/sfx.py`. No samples.

@@ -4,15 +4,16 @@
  "en": "ASCII / CRT Terminal",
  "category_en": "Graphic & Type",
  "film": "The Moving Sign",
- "line": "A 10-second ASCII / CRT Terminal style teaser: \"The Moving Sign\".",
+ "line": "A relay terminal waits, then decodes a road sign moving across an 80-column field.",
  "uses": [
   "Developer tools",
   "Sci-fi",
   "Tech brands"
  ],
- "frame_sec": 5.0,
+ "frame_sec": 9.2,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ascii-crt.mp4",
  "demo_topic": "The Moving Sign",
- "demo_seconds": 10
+ "demo_seconds": 10,
+ "demo_kind": "film"
 }
