@@ -3,16 +3,16 @@
  "num": "12",
  "en": "Risograph Print",
  "category_en": "Print & Printmaking",
- "film": "The Ink Workshop",
- "line": "A 10-second Risograph Print style teaser: \"The Ink Workshop\".",
+ "film": "The Crossing",
+ "line": "40.0 s, 1920\u00d71080, 24 fps, stereo, about \u221214 LUFS. A teal night ferry waits on a paper coast for a pink mail boat; where their wakes cross, a third colour opens the path home.",
  "uses": [
   "Indie brands",
   "Zines",
   "Lifestyle"
  ],
  "frame_sec": 5.0,
- "dur": 10.0,
+ "dur": 40.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/risograph.mp4",
- "demo_topic": "The Ink Workshop",
- "demo_seconds": 10
+ "demo_topic": "The Crossing",
+ "demo_seconds": 40
 }

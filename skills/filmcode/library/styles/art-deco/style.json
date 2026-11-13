@@ -3,16 +3,16 @@
  "num": "18",
  "en": "Art Deco",
  "category_en": "Graphic & Type",
- "film": "The Type Specimen",
- "line": "A 10-second Art Deco style teaser: \"The Type Specimen\".",
+ "film": "Night Elevator",
+ "line": "The last lift of the night climbs forty floors before midnight \u2014 floor dial as countdown, doors as thresholds, roof sign as payoff.",
  "uses": [
   "Luxury & hospitality",
   "Galas",
   "Invitations"
  ],
  "frame_sec": 5.0,
- "dur": 10.0,
+ "dur": 16.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/art-deco.mp4",
- "demo_topic": "The Type Specimen",
- "demo_seconds": 10
+ "demo_topic": "Night Elevator",
+ "demo_seconds": 16
 }

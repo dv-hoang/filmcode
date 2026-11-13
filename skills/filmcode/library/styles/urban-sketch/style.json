@@ -1,18 +1,18 @@
 {
  "slug": "urban-sketch",
  "num": "45",
- "en": "Urban Sketch · Pen & Wash",
+ "en": "Urban Sketch \u00b7 Pen & Wash",
  "category_en": "Hand-drawn & Painting",
- "film": "A Window Facing North",
- "line": "A 10-second Urban Sketch · Pen & Wash style teaser: \"A Window Facing North\".",
+ "film": "Still Lit",
+ "line": "On an invented corner, a fineliner caf\u00e9 is drawn at four in the afternoon; the wash is the day leaving, and when the chairs are empty only one window is still lit.",
  "uses": [
   "City & travel",
   "Architecture",
   "Lifestyle brands"
  ],
  "frame_sec": 5.0,
- "dur": 10.0,
+ "dur": 40.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/urban-sketch.mp4",
- "demo_topic": "A Window Facing North",
- "demo_seconds": 10
+ "demo_topic": "Still Lit",
+ "demo_seconds": 40
 }

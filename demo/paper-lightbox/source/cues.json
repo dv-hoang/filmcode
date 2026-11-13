@@ -1,0 +1,38 @@
+[
+ {
+  "t0": 0.8,
+  "t1": 3.1180000000000003,
+  "text": "The shed was only dark card.",
+  "dur": 1.718
+ },
+ {
+  "t0": 4.59,
+  "t1": 6.39,
+  "text": "Then a match.",
+  "dur": 0.889
+ },
+ {
+  "t0": 10.26,
+  "t1": 12.119,
+  "text": "Light found the glass.",
+  "dur": 1.259
+ },
+ {
+  "t0": 17.15,
+  "t1": 19.215,
+  "text": "And one flower opened.",
+  "dur": 1.465
+ },
+ {
+  "t0": 26.2,
+  "t1": 28.483999999999998,
+  "text": "The whole night fit in the box.",
+  "dur": 1.684
+ },
+ {
+  "t0": 32.7,
+  "t1": 34.579,
+  "text": "She left the lamp on.",
+  "dur": 1.279
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "t0": 2.5,
+  "t1": 5.68,
+  "text": "The night boat held the dark.",
+  "dur": 1.564
+ },
+ {
+  "t0": 12.5,
+  "t1": 15.746666666666666,
+  "text": "She waited for the other drum.",
+  "dur": 1.562
+ },
+ {
+  "t0": 16.25,
+  "t1": 19.296666666666667,
+  "text": "Pink came in with the mail.",
+  "dur": 1.369
+ },
+ {
+  "t0": 21.25,
+  "t1": 24.563333333333333,
+  "text": "They looked, and did not touch.",
+  "dur": 1.676
+ },
+ {
+  "t0": 28.75,
+  "t1": 32.13,
+  "text": "Where the wakes crossed, a path.",
+  "dur": 1.789
+ },
+ {
+  "t0": 33.125,
+  "t1": 35.038333333333334,
+  "text": "Home.",
+  "dur": 0.605
+ }
+]

@@ -3,16 +3,16 @@
  "num": "73",
  "en": "Chalkboard",
  "category_en": "Hand-drawn & Painting",
- "film": "The Last Sketchbook",
- "line": "A 10-second Chalkboard style teaser: \"The Last Sketchbook\".",
+ "film": "Heat Leaves",
+ "line": "A teacher writes the mistake everyone makes \u2014 that cold comes in through the window \u2014 wipes it in one pass, and writes what is true: heat leaves.",
  "uses": [
   "Word origins",
   "Myth-busting",
   "Lessons"
  ],
  "frame_sec": 5.0,
- "dur": 10.0,
+ "dur": 39.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/chalkboard.mp4",
- "demo_topic": "The Last Sketchbook",
- "demo_seconds": 10
+ "demo_topic": "Heat Leaves",
+ "demo_seconds": 39
 }

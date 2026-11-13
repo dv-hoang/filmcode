@@ -3,16 +3,16 @@
  "num": "07",
  "en": "Shadow Puppetry",
  "category_en": "East Asian Traditions",
- "film": "The Lantern Keeper",
- "line": "A 10-second Shadow Puppetry style teaser: \"The Lantern Keeper\".",
+ "film": "One Lamp Across",
+ "line": "A ferryman's single lamp gutters halfway across a night river; a hand behind the screen saves the flame, a child's lantern answers, and two lights find the way home.",
  "uses": [
   "Myths & folklore",
   "Heritage",
   "Festivals"
  ],
  "frame_sec": 5.0,
- "dur": 10.0,
+ "dur": 39.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/shadow-puppet.mp4",
- "demo_topic": "The Lantern Keeper",
- "demo_seconds": 10
+ "demo_topic": "One Lamp Across",
+ "demo_seconds": 39
 }

@@ -3,8 +3,8 @@
  "num": "19",
  "en": "Blueprint",
  "category_en": "Graphic & Type",
- "film": "Fifty Years of Posters",
- "line": "A 10-second Blueprint style teaser: \"Fifty Years of Posters\".",
+ "film": "Project Signal",
+ "line": "One cyanotype sheet: centre lines, meshing gears, dimensions, notes \u2014 then a single red APPROVED stamp.",
  "uses": [
   "Engineering",
   "Hardware launches",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/blueprint.mp4",
- "demo_topic": "Fifty Years of Posters",
+ "demo_topic": "Project Signal",
  "demo_seconds": 10
 }

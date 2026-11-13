@@ -1,7 +1,7 @@
-# Blueprint — 10 s teaser
+# Blueprint — Project Signal
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "Fifty Years of Posters"
+Watch: [local `project-signal.mp4`](project-signal.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-A 10-second style card for FilmCode (Graphic & Type): palette `#0d1116`, `#e2483d`, `#18336b`, `#e7f0f9`; a sans typeface; a rings motion motif. Silent, generated, not a story.
+10.0 s, 1920×1080, 24 fps, stereo. One cyanotype sheet: centre lines, meshing gears, dimensions, notes — then a single red APPROVED stamp.
 
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/blueprint/STYLE.md)
+Style rules: [STYLE.md](../../skills/filmcode/library/styles/blueprint/STYLE.md) · build: [source/build.sh](source/build.sh)

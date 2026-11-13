@@ -3,16 +3,16 @@
  "num": "53",
  "en": "Copperplate Engraving",
  "category_en": "Print & Printmaking",
- "film": "The Bell Foundry",
- "line": "A 10-second Copperplate Engraving style teaser: \"The Bell Foundry\".",
+ "film": "The Night Lamp",
+ "line": "38.0 s, 1920\u00d71080, 24 fps, stereo, \u221214.3 LUFS. An engraver enlarges a shut night-lamp seed, burnishes the plate open, and lays one amber wash on the wick \u2014 then sets the seed itself, true size, beside the proof.",
  "uses": [
   "Museum labels",
   "Science explainers",
   "Brand heritage"
  ],
  "frame_sec": 5.0,
- "dur": 10.0,
+ "dur": 38.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/engraving.mp4",
- "demo_topic": "The Bell Foundry",
- "demo_seconds": 10
+ "demo_topic": "The Night Lamp",
+ "demo_seconds": 38
 }

@@ -3,16 +3,16 @@
  "num": "05",
  "en": "One-line Drawing",
  "category_en": "Hand-drawn & Painting",
- "film": "Paper Boats at Dusk",
- "line": "A 10-second One-line Drawing style teaser: \"Paper Boats at Dusk\".",
+ "film": "The Mend",
+ "line": "A weaver\u2019s thread snaps on the last pass; a smaller hand catches the end, and the only gold in the night is the mend \u2014 which, pulled back, is the seam of a blanket.",
  "uses": [
   "Brand stories",
   "Life milestones",
   "Minimal ads"
  ],
  "frame_sec": 5.0,
- "dur": 10.0,
+ "dur": 40.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/one-line.mp4",
- "demo_topic": "Paper Boats at Dusk",
- "demo_seconds": 10
+ "demo_topic": "The Mend",
+ "demo_seconds": 40
 }

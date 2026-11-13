@@ -3,16 +3,16 @@
  "num": "09",
  "en": "Red Paper-cut",
  "category_en": "East Asian Traditions",
- "film": "The Mountain That Moved",
- "line": "A 10-second Red Paper-cut style teaser: \"The Mountain That Moved\".",
+ "film": "Eighth Fold",
+ "line": "On an indigo night table, a keeper\u2019s last fold takes one red sheet to eight layers; one crescent cut, and the holes are a channel the scrap itself can cross, once she holds the sheet to a lamp.",
  "uses": [
   "Lunar New Year",
   "Festive greetings",
   "Folk tales"
  ],
  "frame_sec": 5.0,
- "dur": 10.0,
+ "dur": 40.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/papercut-red.mp4",
- "demo_topic": "The Mountain That Moved",
- "demo_seconds": 10
+ "demo_topic": "Eighth Fold",
+ "demo_seconds": 40
 }

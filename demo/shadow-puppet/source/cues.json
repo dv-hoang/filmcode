@@ -1,0 +1,26 @@
+[
+  {
+    "id": "s1",
+    "t0": 6.75,
+    "t1": 11.05,
+    "text": "One lamp for a whole river."
+  },
+  {
+    "id": "s2",
+    "t0": 15.75,
+    "t1": 18.7,
+    "text": "The flame went small."
+  },
+  {
+    "id": "s3",
+    "t0": 24.0,
+    "t1": 26.05,
+    "text": "He hid it in his sleeve."
+  },
+  {
+    "id": "s4",
+    "t0": 29.25,
+    "t1": 33.45,
+    "text": "Two lights, and the way home."
+  }
+]

@@ -1,7 +1,7 @@
-# Archive Light Table — 10 s teaser
+# Archive Light Table — Catalogue 001
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "Three Centimetres of Time"
+Watch: [local `catalogue-001.mp4`](catalogue-001.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-A 10-second style card for FilmCode (Evidence Films): palette `#f7f9fb`, `#ff5a1f`, `#1c6a44`, `#15171a`; a mono typeface; a bands motion motif. Silent, generated, not a story.
+10.0 s, 1920×1080, 24 fps, stereo. A document on the light table; a loupe tracks the type; the catalogue number fades in.
 
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/archive-lighttable/STYLE.md)
+Style rules: [STYLE.md](../../skills/filmcode/library/styles/archive-lighttable/STYLE.md) · build: [source/build.sh](source/build.sh)

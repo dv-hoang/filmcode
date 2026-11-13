@@ -4,7 +4,7 @@
  "en": "ASCII / CRT Terminal",
  "category_en": "Graphic & Type",
  "film": "The Moving Sign",
- "line": "A relay terminal waits, then decodes a road sign moving across an 80-column field.",
+ "line": "An 80-column amber terminal boots, decodes a signal, then tracks a road sign moving cell by cell across the grid before the title locks in.",
  "uses": [
   "Developer tools",
   "Sci-fi",

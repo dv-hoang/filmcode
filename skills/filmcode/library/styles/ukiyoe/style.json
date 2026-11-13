@@ -3,16 +3,16 @@
  "num": "08",
  "en": "Ukiyo-e",
  "category_en": "East Asian Traditions",
- "film": "A River in Winter",
- "line": "A 10-second Ukiyo-e style teaser: \"A River in Winter\".",
+ "film": "One Rectangle",
+ "line": "A salt-raker finishes one rectangle of shore; the tide washes the print back to paper; she rakes the same ground, and the evening keeps it.",
  "uses": [
   "Travel",
   "Japanese culture",
   "Poetry"
  ],
  "frame_sec": 5.0,
- "dur": 10.0,
+ "dur": 40.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ukiyoe.mp4",
- "demo_topic": "A River in Winter",
- "demo_seconds": 10
+ "demo_topic": "One Rectangle",
+ "demo_seconds": 40
 }

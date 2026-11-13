@@ -1,7 +1,9 @@
-# Art Deco — 10 s teaser
+# Art Deco — Night Elevator
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "The Type Specimen"
+Watch: [local `night-elevator.mp4`](night-elevator.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-A 10-second style card for FilmCode (Graphic & Type): palette `#f2f2f0`, `#e2483d`, `#6b4ce6`, `#111111`; a sans typeface; a grid motion motif. Silent, generated, not a story.
+16.0 s, 1920×1080, 24 fps, stereo. The last lift of the night climbs forty floors before midnight — floor dial as countdown, doors as thresholds, roof sign as payoff.
 
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/art-deco/STYLE.md)
+Style rules: [STYLE.md](../../skills/filmcode/library/styles/art-deco/STYLE.md) · build: [source/build.sh](source/build.sh)
+
+Also in the [demo gallery](https://dv-hoang.github.io/filmcode/demo/)

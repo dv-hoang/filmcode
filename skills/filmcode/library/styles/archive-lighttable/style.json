@@ -3,8 +3,8 @@
  "num": "62",
  "en": "Archive Light Table",
  "category_en": "Evidence Films",
- "film": "Three Centimetres of Time",
- "line": "A 10-second Archive Light Table style teaser: \"Three Centimetres of Time\".",
+ "film": "Catalogue 001",
+ "line": "A document on the light table; a loupe tracks the type; the catalogue number fades in.",
  "uses": [
   "Brand history",
   "Archive stories",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/archive-lighttable.mp4",
- "demo_topic": "Three Centimetres of Time",
+ "demo_topic": "Catalogue 001",
  "demo_seconds": 10
 }

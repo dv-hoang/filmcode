@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Limelight';
+  src: url(fonts/Limelight-400.woff2) format('woff2');
+  font-weight: 400;
+  font-display: block;
+}
+@font-face {
+  font-family: 'Poiret One';
+  src: url(fonts/PoiretOne-400.woff2) format('woff2');
+  font-weight: 400;
+  font-display: block;
+}
+@font-face {
+  font-family: 'Josefin Sans';
+  src: url(fonts/JosefinSans-400.woff2) format('woff2');
+  font-weight: 400 600;
+  font-display: block;
+}

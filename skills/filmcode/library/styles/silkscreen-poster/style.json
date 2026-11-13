@@ -3,16 +3,16 @@
  "num": "54",
  "en": "Silkscreen Travel Poster",
  "category_en": "Print & Printmaking",
- "film": "The Travel Poster",
- "line": "A 10-second Silkscreen Travel Poster style teaser: \"The Travel Poster\".",
+ "film": "The Dry Stair",
+ "line": "At a fictional tide stair, the first pull prints the wrong hour; the path is the bare paper, and the last pull snaps 4:10 into register.",
  "uses": [
   "Destination guides",
   "Tourism",
   "Event posters"
  ],
  "frame_sec": 5.0,
- "dur": 10.0,
+ "dur": 40.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/silkscreen-poster.mp4",
- "demo_topic": "The Travel Poster",
- "demo_seconds": 10
+ "demo_topic": "The Dry Stair",
+ "demo_seconds": 40
 }

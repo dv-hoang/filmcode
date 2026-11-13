@@ -3,16 +3,16 @@
  "num": "15",
  "en": "Woodcut Print",
  "category_en": "Print & Printmaking",
- "film": "The Paper Route",
- "line": "A 10-second Woodcut Print style teaser: \"The Paper Route\".",
+ "film": "One Ember",
+ "line": "A salt potter opens a kiln that died in the night and finds one ember; she feeds it until copper light is carved across the block, then the colour withdraws into a single jar, and one corner of the wood stays uncut.",
  "uses": [
   "Folk tales",
   "Craft brands",
   "Book trailers"
  ],
  "frame_sec": 5.0,
- "dur": 10.0,
+ "dur": 38.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/woodcut.mp4",
- "demo_topic": "The Paper Route",
- "demo_seconds": 10
+ "demo_topic": "One Ember",
+ "demo_seconds": 38
 }

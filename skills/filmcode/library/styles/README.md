@@ -17,7 +17,7 @@ Archived styles (not offered to agents) live in [`_archive/`](_archive/). See [`
 
 | Style | Folder | Our demo |
 |---|---|---|
-| Archive Light Table | [`archive-lighttable`](archive-lighttable/STYLE.md) | *Three Centimetres of Time* (10 s) · [notes](../../../../demo/archive-lighttable/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/archive-lighttable.mp4) |
+| Archive Light Table | [`archive-lighttable`](archive-lighttable/STYLE.md) | *Catalogue 001* (10 s) · [notes](../../../../demo/archive-lighttable/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/archive-lighttable.mp4) |
 | Exploded Teardown | [`teardown`](teardown/STYLE.md) | *What the Ice Kept* (10 s) · [notes](../../../../demo/teardown/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/teardown.mp4) |
 | LiDAR Survey | [`lidar-survey`](lidar-survey/STYLE.md) | *The Weight of a Shadow* (10 s) · [notes](../../../../demo/lidar-survey/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/lidar-survey.mp4) |
 | Microscope Story | [`microscope`](microscope/STYLE.md) | *The Shape of a Street* (10 s) · [notes](../../../../demo/microscope/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/microscope.mp4) |
@@ -29,33 +29,33 @@ Archived styles (not offered to agents) live in [`_archive/`](_archive/). See [`
 
 | Style | Folder | Our demo |
 |---|---|---|
-| Chalkboard | [`chalkboard`](chalkboard/STYLE.md) | *The Last Sketchbook* (10 s) · [notes](../../../../demo/chalkboard/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/chalkboard.mp4) |
+| Chalkboard | [`chalkboard`](chalkboard/STYLE.md) | *Heat Leaves* (39 s) · [notes](../../../../demo/chalkboard/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/chalkboard.mp4) |
 | Chinese Ink Wash | [`ink-wash`](ink-wash/STYLE.md) | *A House Made of Rain* (10 s) · [notes](../../../../demo/ink-wash/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ink-wash.mp4) |
 | Crayon Picture Book | [`crayon-book`](crayon-book/STYLE.md) | *The Orchard at First Light* (10 s) · [notes](../../../../demo/crayon-book/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/crayon-book.mp4) |
-| Impasto Oil Painting | [`impasto`](impasto/STYLE.md) | *The Colour of Distance* (10 s) · [notes](../../../../demo/impasto/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/impasto.mp4) |
-| One-line Drawing | [`one-line`](one-line/STYLE.md) | *Paper Boats at Dusk* (10 s) · [notes](../../../../demo/one-line/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/one-line.mp4) |
-| Urban Sketch · Pen & Wash | [`urban-sketch`](urban-sketch/STYLE.md) | *A Window Facing North* (10 s) · [notes](../../../../demo/urban-sketch/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/urban-sketch.mp4) |
+| Impasto Oil Painting | [`impasto`](impasto/STYLE.md) | *First Orange* (42 s) · [notes](../../../../demo/impasto/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/impasto.mp4) |
+| One-line Drawing | [`one-line`](one-line/STYLE.md) | *The Mend* (40 s) · [notes](../../../../demo/one-line/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/one-line.mp4) |
+| Urban Sketch · Pen & Wash | [`urban-sketch`](urban-sketch/STYLE.md) | *Still Lit* (40 s) · [notes](../../../../demo/urban-sketch/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/urban-sketch.mp4) |
 | Watercolor Brush | [`watercolor`](watercolor/STYLE.md) | *Alborada* (45 s) · [notes](../../../../demo/watercolor/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/watercolor.mp4) |
-| Whiteboard Explainer | [`whiteboard`](whiteboard/STYLE.md) | *The Garden That Waited* (10 s) · [notes](../../../../demo/whiteboard/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/whiteboard.mp4) |
+| Whiteboard Explainer | [`whiteboard`](whiteboard/STYLE.md) | *The Open Top* (40 s) · [notes](../../../../demo/whiteboard/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/whiteboard.mp4) |
 
 ## East Asian Traditions
 
 | Style | Folder | Our demo |
 |---|---|---|
-| Paper-cut Lightbox | [`paper-lightbox`](paper-lightbox/STYLE.md) | *Ten Thousand Cranes* (10 s) · [notes](../../../../demo/paper-lightbox/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/paper-lightbox.mp4) |
-| Red Paper-cut | [`papercut-red`](papercut-red/STYLE.md) | *The Mountain That Moved* (10 s) · [notes](../../../../demo/papercut-red/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/papercut-red.mp4) |
-| Shadow Puppetry | [`shadow-puppet`](shadow-puppet/STYLE.md) | *The Lantern Keeper* (10 s) · [notes](../../../../demo/shadow-puppet/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/shadow-puppet.mp4) |
-| Ukiyo-e | [`ukiyoe`](ukiyoe/STYLE.md) | *A River in Winter* (10 s) · [notes](../../../../demo/ukiyoe/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ukiyoe.mp4) |
+| Paper-cut Lightbox | [`paper-lightbox`](paper-lightbox/STYLE.md) | *First Bloom* (39 s) · [notes](../../../../demo/paper-lightbox/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/paper-lightbox.mp4) |
+| Red Paper-cut | [`papercut-red`](papercut-red/STYLE.md) | *Eighth Fold* (40 s) · [notes](../../../../demo/papercut-red/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/papercut-red.mp4) |
+| Shadow Puppetry | [`shadow-puppet`](shadow-puppet/STYLE.md) | *One Lamp Across* (39 s) · [notes](../../../../demo/shadow-puppet/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/shadow-puppet.mp4) |
+| Ukiyo-e | [`ukiyoe`](ukiyoe/STYLE.md) | *One Rectangle* (40 s) · [notes](../../../../demo/ukiyoe/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ukiyoe.mp4) |
 
 ## Print & Printmaking
 
 | Style | Folder | Our demo |
 |---|---|---|
-| Copperplate Engraving | [`engraving`](engraving/STYLE.md) | *The Bell Foundry* (10 s) · [notes](../../../../demo/engraving/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/engraving.mp4) |
+| Copperplate Engraving | [`engraving`](engraving/STYLE.md) | *The Night Lamp* (38 s) · [notes](../../../../demo/engraving/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/engraving.mp4) |
 | Halftone Dossier | [`halftone-dossier`](halftone-dossier/STYLE.md) | *A City in Six Colours* (10 s) · [notes](../../../../demo/halftone-dossier/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/halftone-dossier.mp4) |
-| Risograph Print | [`risograph`](risograph/STYLE.md) | *The Ink Workshop* (10 s) · [notes](../../../../demo/risograph/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/risograph.mp4) |
-| Silkscreen Travel Poster | [`silkscreen-poster`](silkscreen-poster/STYLE.md) | *The Travel Poster* (10 s) · [notes](../../../../demo/silkscreen-poster/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/silkscreen-poster.mp4) |
-| Woodcut Print | [`woodcut`](woodcut/STYLE.md) | *The Paper Route* (10 s) · [notes](../../../../demo/woodcut/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/woodcut.mp4) |
+| Risograph Print | [`risograph`](risograph/STYLE.md) | *The Crossing* (40 s) · [notes](../../../../demo/risograph/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/risograph.mp4) |
+| Silkscreen Travel Poster | [`silkscreen-poster`](silkscreen-poster/STYLE.md) | *The Dry Stair* (40 s) · [notes](../../../../demo/silkscreen-poster/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/silkscreen-poster.mp4) |
+| Woodcut Print | [`woodcut`](woodcut/STYLE.md) | *One Ember* (38 s) · [notes](../../../../demo/woodcut/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/woodcut.mp4) |
 
 ## Graphic & Type
 
@@ -63,8 +63,8 @@ Archived styles (not offered to agents) live in [`_archive/`](_archive/). See [`
 |---|---|---|
 | 60s Spy Title Sequence | [`spy-titles`](spy-titles/STYLE.md) | *A Signal in Red* (10 s) · [notes](../../../../demo/spy-titles/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/spy-titles.mp4) |
 | ASCII / CRT Terminal | [`ascii-crt`](ascii-crt/STYLE.md) | *The Moving Sign* (10 s) · [notes](../../../../demo/ascii-crt/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/ascii-crt.mp4) |
-| Art Deco | [`art-deco`](art-deco/STYLE.md) | *The Type Specimen* (10 s) · [notes](../../../../demo/art-deco/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/art-deco.mp4) |
-| Blueprint | [`blueprint`](blueprint/STYLE.md) | *Fifty Years of Posters* (10 s) · [notes](../../../../demo/blueprint/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/blueprint.mp4) |
+| Art Deco | [`art-deco`](art-deco/STYLE.md) | *Night Elevator* (16 s) · [notes](../../../../demo/art-deco/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/art-deco.mp4) |
+| Blueprint | [`blueprint`](blueprint/STYLE.md) | *Project Signal* (10 s) · [notes](../../../../demo/blueprint/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/blueprint.mp4) |
 | Stained Glass | [`stained-glass`](stained-glass/STYLE.md) | *The Diagonal Rule* (10 s) · [notes](../../../../demo/stained-glass/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/stained-glass.mp4) |
 | Swiss Motion Graphics | [`swiss-motion`](swiss-motion/STYLE.md) | *The Grid System* (10 s) · [notes](../../../../demo/swiss-motion/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/swiss-motion.mp4) |
 
@@ -106,7 +106,7 @@ Archived styles (not offered to agents) live in [`_archive/`](_archive/). See [`
 
 | Style | Folder | Our demo |
 |---|---|---|
-| Brick Toy | [`brick-toy`](brick-toy/STYLE.md) | *The Table of Objects* (10 s) · [notes](../../../../demo/brick-toy/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/brick-toy.mp4) |
+| Brick Toy | [`brick-toy`](brick-toy/STYLE.md) | *Brick-Toy Train* (10 s) · [notes](../../../../demo/brick-toy/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/brick-toy.mp4) |
 | Glass Product Render | [`glass-product`](glass-product/STYLE.md) | *The Model Room* (10 s) · [notes](../../../../demo/glass-product/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/glass-product.mp4) |
 | Low-poly Isometric | [`lowpoly-isometric`](lowpoly-isometric/STYLE.md) | *The Paper Machine* (10 s) · [notes](../../../../demo/lowpoly-isometric/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/lowpoly-isometric.mp4) |
 | Paper Pop-up Book | [`paper-popup`](paper-popup/STYLE.md) | *A City on a Desk* (10 s) · [notes](../../../../demo/paper-popup/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/paper-popup.mp4) |

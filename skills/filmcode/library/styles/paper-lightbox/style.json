@@ -3,16 +3,16 @@
  "num": "10",
  "en": "Paper-cut Lightbox",
  "category_en": "East Asian Traditions",
- "film": "Ten Thousand Cranes",
- "line": "A 10-second Paper-cut Lightbox style teaser: \"Ten Thousand Cranes\".",
+ "film": "First Bloom",
+ "line": "In a paper potting shed that has gone dark, one match is struck; the light finds the glass, a single red camellia opens, and the camera steps back to the lamp left burning on a table.",
  "uses": [
   "Journeys and travel",
   "Farewells and anniversaries",
   "Places and their stories"
  ],
  "frame_sec": 5.0,
- "dur": 10.0,
+ "dur": 39.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/paper-lightbox.mp4",
- "demo_topic": "Ten Thousand Cranes",
- "demo_seconds": 10
+ "demo_topic": "First Bloom",
+ "demo_seconds": 39
 }

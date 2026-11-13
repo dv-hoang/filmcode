@@ -3,16 +3,16 @@
  "num": "04",
  "en": "Impasto Oil Painting",
  "category_en": "Hand-drawn & Painting",
- "film": "The Colour of Distance",
- "line": "A 10-second Impasto Oil Painting style teaser: \"The Colour of Distance\".",
+ "film": "First Orange",
+ "line": "In a grey dawn kitchen, one orange waits; when the knife breaks its skin, colour floods the room stroke by stroke \u2014 and breakfast begins.",
  "uses": [
   "Music videos",
   "Art & culture",
   "Emotional ads"
  ],
  "frame_sec": 5.0,
- "dur": 10.0,
+ "dur": 42.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/impasto.mp4",
- "demo_topic": "The Colour of Distance",
- "demo_seconds": 10
+ "demo_topic": "First Orange",
+ "demo_seconds": 42
 }

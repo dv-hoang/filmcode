@@ -3,16 +3,16 @@
  "num": "06",
  "en": "Whiteboard Explainer",
  "category_en": "Hand-drawn & Painting",
- "film": "The Garden That Waited",
- "line": "A 10-second Whiteboard Explainer style teaser: \"The Garden That Waited\".",
+ "film": "The Open Top",
+ "line": "Heat leaves a mug through the open top; a lid closes that door, and the same heat stays.",
  "uses": [
   "Explainers",
   "Online courses",
   "Science"
  ],
  "frame_sec": 5.0,
- "dur": 10.0,
+ "dur": 40.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/whiteboard.mp4",
- "demo_topic": "The Garden That Waited",
- "demo_seconds": 10
+ "demo_topic": "The Open Top",
+ "demo_seconds": 40
 }

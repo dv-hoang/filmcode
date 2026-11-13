@@ -1,0 +1,37 @@
+[
+  {
+    "t0": 0.75,
+    "t1": 3.195,
+    "text": "Everyone writes the same mistake."
+  },
+  {
+    "t0": 5.15,
+    "t1": 7.17,
+    "text": "Cold comes in, they say."
+  },
+  {
+    "t0": 7.25,
+    "t1": 9.05,
+    "text": "Watch."
+  },
+  {
+    "t0": 11.5,
+    "t1": 13.49,
+    "text": "Cold does not travel."
+  },
+  {
+    "t0": 13.58,
+    "t1": 15.611,
+    "text": "Heat does. It leaves."
+  },
+  {
+    "t0": 22.4,
+    "t1": 24.932,
+    "text": "Through the glass, warmth goes out."
+  },
+  {
+    "t0": 31.2,
+    "t1": 33,
+    "text": "That is the lesson."
+  }
+]

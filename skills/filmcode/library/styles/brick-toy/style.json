@@ -3,8 +3,8 @@
  "num": "37",
  "en": "Brick Toy",
  "category_en": "Materials & 3D",
- "film": "The Table of Objects",
- "line": "A 10-second Brick Toy style teaser: \"The Table of Objects\".",
+ "film": "Brick-Toy Train",
+ "line": "A studded brick train chugs across a toy ground line.",
  "uses": [
   "Toys & kids",
   "Product builds",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/brick-toy.mp4",
- "demo_topic": "The Table of Objects",
+ "demo_topic": "Brick-Toy Train",
  "demo_seconds": 10
 }
