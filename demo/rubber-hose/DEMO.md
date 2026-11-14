@@ -1,7 +1,4 @@
-# 1930s Rubber Hose Cartoon — 10 s teaser
+# The Jazzin' Teapot
+Watch: [rubber-hose.mp4](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/rubber-hose.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "The Late Delivery"
-
-A 10-second style card for FilmCode (Cartoon & Anime): palette `#fff6e5`, `#f2c14e`, `#e0543a`, `#1f1a17`; a display typeface; a bands motion motif. Silent, generated, not a story.
-
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/rubber-hose/STYLE.md)
+A 10-second 1930s rubber-hose cartoon featuring a cheerful dancing teapot playing a hot jazz trumpet, complete with bouncy sing-along ball, vintage film grain, ink borders, and ragtime big-band accompaniment.

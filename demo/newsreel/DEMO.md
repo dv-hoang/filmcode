@@ -1,7 +1,4 @@
-# 1920s Newsreel — 10 s teaser
+# The Metropolis Chronicle
+Watch: [newsreel.mp4](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/newsreel.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "Nine Minutes of Rain"
-
-A 10-second style card for FilmCode (Edit & Documentary): palette `#fff`, `#17140f`, `#efe7d6`, `#0a0908`; a sans typeface; a columns motion motif. Silent, generated, not a story.
-
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/newsreel/STYLE.md)
+A 10-second 1920s sound newsreel simulation featuring vintage sepia aesthetics, nitrate dust and scratches, a searchlight globe ident, spinning newspaper montage, and a hot Charleston jazz brass fanfare.

@@ -1,7 +1,7 @@
-# Liminal Found Footage — 10 s teaser
+# Liminal Footage
+Watch: [liminal-footage.mp4](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/liminal-footage.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "A Night in 1927"
-
-A 10-second style card for FilmCode (Cinema & Eras): palette `#e6ece6`, `#8c763c`, `#d5bd66`, `#4d3d26`; a serif typeface; a grid motion motif. Silent, generated, not a story.
-
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/liminal-footage/STYLE.md)
+- **Slug**: liminal-footage
+- **Logline**: Recovered 1998 camcorder tape documenting a continuous walk through endless fluorescent-lit commercial corridors.
+- **Duration**: 10 seconds
+- **Deliverables**: HTML5 Canvas + Web Audio synthesis (analog tape hum, footsteps, VHS artifacts).

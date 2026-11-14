@@ -3,8 +3,8 @@
  "num": "48",
  "en": "Mid-century Cartoon",
  "category_en": "Cartoon & Anime",
- "film": "The Last Arcade",
- "line": "A 10-second Mid-century Cartoon style teaser: \"The Last Arcade\".",
+ "film": "The Synchronized Kitchen",
+ "line": "A 10-second Mid-century Cartoon: 1950s classroom film about synchronized kitchen appliances and morning geometry.",
  "uses": [
   "Set-up guides",
   "Help centres",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/midcentury-toon.mp4",
- "demo_topic": "The Last Arcade",
+ "demo_topic": "The Synchronized Kitchen",
  "demo_seconds": 10
 }

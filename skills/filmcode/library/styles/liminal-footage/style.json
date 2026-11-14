@@ -3,8 +3,8 @@
  "num": "36",
  "en": "Liminal Found Footage",
  "category_en": "Cinema & Eras",
- "film": "A Night in 1927",
- "line": "A 10-second Liminal Found Footage style teaser: \"A Night in 1927\".",
+ "film": "Corridor Tape '98",
+ "line": "A 10-second Liminal Found Footage film: recovered 1998 camcorder tape through endless fluorescent corridors.",
  "uses": [
   "Horror",
   "Mystery & ARG",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/liminal-footage.mp4",
- "demo_topic": "A Night in 1927",
+ "demo_topic": "Corridor Tape '98",
  "demo_seconds": 10
 }

@@ -3,8 +3,8 @@
  "num": "43",
  "en": "Low-poly Isometric",
  "category_en": "Materials & 3D",
- "film": "The Paper Machine",
- "line": "A 10-second Low-poly Isometric Island style teaser: \"The Paper Machine\".",
+ "film": "Islandia",
+ "line": "A 10-second Low-poly Isometric film: a tiny faceted world rises from the isometric sea with springy blocks and chimes.",
  "uses": [
   "Game trailers",
   "World building",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/lowpoly-isometric.mp4",
- "demo_topic": "The Paper Machine",
+ "demo_topic": "Islandia",
  "demo_seconds": 10
 }

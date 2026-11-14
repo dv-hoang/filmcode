@@ -1,7 +1,8 @@
-# 16-bit Pixel RPG — 10 s teaser
+# 16-bit Pixel RPG Demo
+Watch: [pixel-rpg.mp4](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/pixel-rpg.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "The Final Save"
-
-A 10-second style card for FilmCode (Games): palette `#111318`, `#ff2e88`, `#1fd1d1`, `#f2f2f2`; a mono typeface; a wave motion motif. Silent, generated, not a story.
-
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/pixel-rpg/STYLE.md)
+- **Title**: The Last Sanctuary
+- **Duration**: 10 seconds
+- **Style Slug**: pixel-rpg
+- **Audio**: Chiptune square wave arpeggios, pulse leads, battle synth hits, and victory fanfare.
+- **Visuals**: 320x180 indexed pixel framebuffer scaled 6x to 1080p, custom font renderer, knight sprite walk and sword attack animations, boss dragon sprite with flame breath.

@@ -3,8 +3,8 @@
  "num": "41",
  "en": "Paper Pop-up Book",
  "category_en": "Materials & 3D",
- "film": "A City on a Desk",
- "line": "A 10-second Paper Pop-up Book style teaser: \"A City on a Desk\".",
+ "film": "The Clockwork Aviary",
+ "line": "A 10-second Paper Pop-up Book: macro-lit V-folds and paper cutouts in a whimsical aviary scene.",
  "uses": [
   "Children's books",
   "Game trailers",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/paper-popup.mp4",
- "demo_topic": "A City on a Desk",
+ "demo_topic": "The Clockwork Aviary",
  "demo_seconds": 10
 }

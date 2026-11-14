@@ -3,8 +3,8 @@
  "num": "32",
  "en": "Microgame Frenzy",
  "category_en": "Games",
- "film": "The Bonus Round",
- "line": "A 10-second Microgame Frenzy style teaser: \"The Bonus Round\".",
+ "film": "Microgame Frenzy",
+ "line": "A 10-second Microgame Frenzy showcase: rapid-fire mini-challenges built entirely in code.",
  "uses": [
   "Game trailers",
   "Onboarding",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/microgame.mp4",
- "demo_topic": "The Bonus Round",
+ "demo_topic": "Microgame Frenzy",
  "demo_seconds": 10
 }

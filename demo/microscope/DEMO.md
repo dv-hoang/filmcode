@@ -1,7 +1,8 @@
-# Microscope Story — 10 s teaser
+# Microscope
+Watch: [microscope.mp4](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/microscope.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "The Shape of a Street"
-
-A 10-second style card for FilmCode (Evidence Films): palette `#0b0d0f`, `#d9b25b`, `#2a3036`, `#f4f1ec`; a mono typeface; a rings motion motif. Silent, generated, not a story.
-
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/microscope/STYLE.md)
+- **Slug**: microscope
+- **Title**: Microscope — Specimen 04-B
+- **Logline**: A continuous optical dive through biological tissue from glass slide stage to cellular matrix under precise microscope telemetry.
+- **Duration**: 10 seconds
+- **Resolution**: 1920x1080 (Canvas 2D)

@@ -1,7 +1,8 @@
-# Engineering Briefing Board — 10 s teaser
+# Operation Deepseek Briefing
+Watch: [photo-briefing.mp4](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/photo-briefing.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "A Map of Moving Water"
-
-A 10-second style card for FilmCode (Evidence Films): palette `#f2eee1`, `#d9b25b`, `#1c6a44`, `#101a16`; a mono typeface; a bands motion motif. Silent, generated, not a story.
-
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/photo-briefing/STYLE.md)
+- **Style Slug**: `photo-briefing`
+- **Logline**: A detailed physical briefing wall comes to life as photographs pin in place and marker ink traces strategic dive corridors.
+- **Duration**: 10 seconds
+- **Resolution**: 1920x1080 (Canvas 2D)
+- **Audio**: Acoustic room tone, pin placement transients, marker friction squeaks, and completion chimes.

@@ -1,7 +1,8 @@
-# Microgame Frenzy — 10 s teaser
+# Microgame Frenzy
+Watch: [microgame.mp4](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/microgame.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "The Bonus Round"
+A 10-second rapid-fire microgame showcase built entirely in code for the FilmCode gallery.
 
-A 10-second style card for FilmCode (Games): palette `#ffc928`, `#ff2e88`, `#1fd1d1`, `#2a0f5c`; a mono typeface; a bands motion motif. Silent, generated, not a story.
-
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/microgame/STYLE.md)
+- **Duration:** 10 seconds
+- **Resolution:** 1920x1080
+- **Style:** Microgame frenzy / multi-medium pastiche

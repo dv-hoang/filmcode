@@ -1,7 +1,7 @@
-# Low-poly Isometric Island — 10 s teaser
+# Islandia
+Watch: [lowpoly-isometric.mp4](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/lowpoly-isometric.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "The Paper Machine"
-
-A 10-second style card for FilmCode (Materials & 3D): palette `#ece9e2`, `#d97757`, `#2a5cb3`, `#1d1a17`; a sans typeface; a rings motion motif. Silent, generated, not a story.
-
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/lowpoly-isometric/STYLE.md)
+- **Style Slug**: lowpoly-isometric
+- **Logline**: A tiny faceted world rises from the isometric sea with springy blocks and chimes.
+- **Duration**: 10 seconds
+- **Resolution**: 1920x1080

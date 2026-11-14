@@ -3,8 +3,8 @@
  "num": "25",
  "en": "Dark Product Keynote",
  "category_en": "Information & Keynote",
- "film": "The Data Behind the Day",
- "line": "A 10-second Dark Tech Keynote style teaser: \"The Data Behind the Day\".",
+ "film": "Interface Launch",
+ "line": "A 10-second Dark Product Keynote: a software launch film where the interface is the star.",
  "uses": [
   "Product launches",
   "SaaS",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/product-keynote.mp4",
- "demo_topic": "The Data Behind the Day",
+ "demo_topic": "Interface Launch",
  "demo_seconds": 10
 }

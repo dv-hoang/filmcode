@@ -3,8 +3,8 @@
  "num": "56",
  "en": "Photo Briefing Board",
  "category_en": "Evidence Films",
- "film": "A Map of Moving Water",
- "line": "A 10-second Engineering Briefing Board style teaser: \"A Map of Moving Water\".",
+ "film": "Operation Deepseek Briefing",
+ "line": "A 10-second Photo Briefing Board: photographs pin in place as marker ink traces dive corridors.",
  "uses": [
   "Engineering",
   "Option comparisons",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/photo-briefing.mp4",
- "demo_topic": "A Map of Moving Water",
+ "demo_topic": "Operation Deepseek Briefing",
  "demo_seconds": 10
 }

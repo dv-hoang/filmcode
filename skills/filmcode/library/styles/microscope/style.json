@@ -3,8 +3,8 @@
  "num": "61",
  "en": "Microscope Story",
  "category_en": "Evidence Films",
- "film": "The Shape of a Street",
- "line": "A 10-second Microscope Story style teaser: \"The Shape of a Street\".",
+ "film": "Specimen 04-B",
+ "line": "A 10-second Microscope Story: continuous optical dive from glass slide to cellular matrix.",
  "uses": [
   "Biomedicine",
   "Materials science",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/microscope.mp4",
- "demo_topic": "The Shape of a Street",
+ "demo_topic": "Specimen 04-B",
  "demo_seconds": 10
 }

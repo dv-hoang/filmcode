@@ -3,8 +3,8 @@
  "num": "58",
  "en": "Projected White Model",
  "category_en": "Evidence Films",
- "film": "Traces in the Concrete",
- "line": "A 10-second Projection on White Model style teaser: \"Traces in the Concrete\".",
+ "film": "Massing Projection",
+ "line": "A 10-second Projected White Model: a white massing model lit by projection-mapped data layers.",
  "uses": [
   "Urban planning",
   "Exhibitions",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/projected-model.mp4",
- "demo_topic": "Traces in the Concrete",
+ "demo_topic": "Massing Projection",
  "demo_seconds": 10
 }

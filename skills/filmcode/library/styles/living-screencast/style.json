@@ -3,8 +3,8 @@
  "num": "46",
  "en": "Living Screencast",
  "category_en": "Information & Keynote",
- "film": "The Map of a Decision",
- "line": "A 10-second Living Screencast style teaser: \"The Map of a Decision\".",
+ "film": "Spatial Focus Workspace",
+ "line": "A 10-second Living Screencast: NudgeOS product walkthrough with zooming camera and a squishy focus mascot.",
  "uses": [
   "Product tutorials",
   "Feature launches",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/living-screencast.mp4",
- "demo_topic": "The Map of a Decision",
+ "demo_topic": "Spatial Focus Workspace",
  "demo_seconds": 10
 }

@@ -3,8 +3,8 @@
  "num": "55",
  "en": "Satellite Briefing",
  "category_en": "Evidence Films",
- "film": "The Forest Under the Forest",
- "line": "A 10-second Satellite Briefing style teaser: \"The Forest Under the Forest\".",
+ "film": "Orbit to Ground",
+ "line": "A 10-second Satellite Briefing: open-source intel scale from orbit to ground with vectors and shadow drift.",
  "uses": [
   "Climate",
   "News explainers",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/satellite-briefing.mp4",
- "demo_topic": "The Forest Under the Forest",
+ "demo_topic": "Orbit to Ground",
  "demo_seconds": 10
 }

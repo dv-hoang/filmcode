@@ -3,8 +3,8 @@
  "num": "29",
  "en": "16-bit Pixel RPG",
  "category_en": "Games",
- "film": "The Final Save",
- "line": "A 10-second 16-bit Pixel RPG style teaser: \"The Final Save\".",
+ "film": "The Last Sanctuary",
+ "line": "A 10-second 16-bit Pixel RPG: The Last Sanctuary.",
  "uses": [
   "Game trailers",
   "Recaps",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/pixel-rpg.mp4",
- "demo_topic": "The Final Save",
+ "demo_topic": "The Last Sanctuary",
  "demo_seconds": 10
 }

@@ -7,7 +7,7 @@ Archived styles (not offered to agents) live in [`_archive/`](_archive/). See [`
 
 | Style | Folder | Our demo |
 |---|---|---|
-| 1920s Newsreel | [`newsreel`](newsreel/STYLE.md) | *Nine Minutes of Rain* (10 s) · [notes](../../../../demo/newsreel/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/newsreel.mp4) |
+| 1920s Newsreel | [`newsreel`](newsreel/STYLE.md) | *The Metropolis Chronicle* (10 s) · [notes](../../../../demo/newsreel/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/newsreel.mp4) |
 | Broadcast News Package | [`broadcast-package`](broadcast-package/STYLE.md) | *The Quiet Deadline* (10 s) · [notes](../../../../demo/broadcast-package/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/broadcast-package.mp4) |
 | Social Caption News | [`social-captions`](social-captions/STYLE.md) | *The Last Dispatch* (10 s) · [notes](../../../../demo/social-captions/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/social-captions.mp4) |
 | Sports Telestrator | [`telestrator`](telestrator/STYLE.md) | *One Frame of Evidence* (10 s) · [notes](../../../../demo/telestrator/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/telestrator.mp4) |
@@ -19,11 +19,11 @@ Archived styles (not offered to agents) live in [`_archive/`](_archive/). See [`
 |---|---|---|
 | Archive Light Table | [`archive-lighttable`](archive-lighttable/STYLE.md) | *Catalogue 001* (10 s) · [notes](../../../../demo/archive-lighttable/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/archive-lighttable.mp4) |
 | Exploded Teardown | [`teardown`](teardown/STYLE.md) | *What the Ice Kept* (10 s) · [notes](../../../../demo/teardown/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/teardown.mp4) |
-| LiDAR Survey | [`lidar-survey`](lidar-survey/STYLE.md) | *The Weight of a Shadow* (10 s) · [notes](../../../../demo/lidar-survey/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/lidar-survey.mp4) |
-| Microscope Story | [`microscope`](microscope/STYLE.md) | *The Shape of a Street* (10 s) · [notes](../../../../demo/microscope/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/microscope.mp4) |
-| Photo Briefing Board | [`photo-briefing`](photo-briefing/STYLE.md) | *A Map of Moving Water* (10 s) · [notes](../../../../demo/photo-briefing/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/photo-briefing.mp4) |
-| Projected White Model | [`projected-model`](projected-model/STYLE.md) | *Traces in the Concrete* (10 s) · [notes](../../../../demo/projected-model/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/projected-model.mp4) |
-| Satellite Briefing | [`satellite-briefing`](satellite-briefing/STYLE.md) | *The Forest Under the Forest* (10 s) · [notes](../../../../demo/satellite-briefing/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/satellite-briefing.mp4) |
+| LiDAR Survey | [`lidar-survey`](lidar-survey/STYLE.md) | *Ruined Arch Survey* (10 s) · [notes](../../../../demo/lidar-survey/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/lidar-survey.mp4) |
+| Microscope Story | [`microscope`](microscope/STYLE.md) | *Specimen 04-B* (10 s) · [notes](../../../../demo/microscope/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/microscope.mp4) |
+| Photo Briefing Board | [`photo-briefing`](photo-briefing/STYLE.md) | *Operation Deepseek Briefing* (10 s) · [notes](../../../../demo/photo-briefing/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/photo-briefing.mp4) |
+| Projected White Model | [`projected-model`](projected-model/STYLE.md) | *Massing Projection* (10 s) · [notes](../../../../demo/projected-model/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/projected-model.mp4) |
+| Satellite Briefing | [`satellite-briefing`](satellite-briefing/STYLE.md) | *Orbit to Ground* (10 s) · [notes](../../../../demo/satellite-briefing/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/satellite-briefing.mp4) |
 
 ## Hand-drawn & Painting
 
@@ -72,35 +72,35 @@ Archived styles (not offered to agents) live in [`_archive/`](_archive/). See [`
 
 | Style | Folder | Our demo |
 |---|---|---|
-| Dark Product Keynote | [`product-keynote`](product-keynote/STYLE.md) | *The Data Behind the Day* (10 s) · [notes](../../../../demo/product-keynote/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/product-keynote.mp4) |
+| Dark Product Keynote | [`product-keynote`](product-keynote/STYLE.md) | *Interface Launch* (10 s) · [notes](../../../../demo/product-keynote/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/product-keynote.mp4) |
 | Data Storytelling | [`dataviz`](dataviz/STYLE.md) | *The Quiet Launch* (10 s) · [notes](../../../../demo/dataviz/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/dataviz.mp4) |
-| Isometric Infographic | [`iso-infographic`](iso-infographic/STYLE.md) | *A Product in Three Acts* (10 s) · [notes](../../../../demo/iso-infographic/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/iso-infographic.mp4) |
-| Living Screencast | [`living-screencast`](living-screencast/STYLE.md) | *The Map of a Decision* (10 s) · [notes](../../../../demo/living-screencast/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/living-screencast.mp4) |
-| Sci-fi Hologram HUD | [`hologram-hud`](hologram-hud/STYLE.md) | *The Room That Thinks* (10 s) · [notes](../../../../demo/hologram-hud/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/hologram-hud.mp4) |
+| Isometric Infographic | [`iso-infographic`](iso-infographic/STYLE.md) | *Global Carbon Cycle* (10 s) · [notes](../../../../demo/iso-infographic/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/iso-infographic.mp4) |
+| Living Screencast | [`living-screencast`](living-screencast/STYLE.md) | *Spatial Focus Workspace* (10 s) · [notes](../../../../demo/living-screencast/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/living-screencast.mp4) |
+| Sci-fi Hologram HUD | [`hologram-hud`](hologram-hud/STYLE.md) | *Reactor Core Telemetry Teardown* (10 s) · [notes](../../../../demo/hologram-hud/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/hologram-hud.mp4) |
 | Transit Map | [`transit-map`](transit-map/STYLE.md) | *Everything on One Screen* (10 s) · [notes](../../../../demo/transit-map/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/transit-map.mp4) |
 
 ## Cartoon & Anime
 
 | Style | Folder | Our demo |
 |---|---|---|
-| 1930s Rubber Hose Cartoon | [`rubber-hose`](rubber-hose/STYLE.md) | *The Late Delivery* (10 s) · [notes](../../../../demo/rubber-hose/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/rubber-hose.mp4) |
+| 1930s Rubber Hose Cartoon | [`rubber-hose`](rubber-hose/STYLE.md) | *The Jazzin' Teapot* (10 s) · [notes](../../../../demo/rubber-hose/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/rubber-hose.mp4) |
 | 80s Cel Anime | [`cel-anime-80s`](cel-anime-80s/STYLE.md) | *A Robot's Day Off* (10 s) · [notes](../../../../demo/cel-anime-80s/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/cel-anime-80s.mp4) |
-| Mid-century Cartoon | [`midcentury-toon`](midcentury-toon/STYLE.md) | *The Last Arcade* (10 s) · [notes](../../../../demo/midcentury-toon/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/midcentury-toon.mp4) |
+| Mid-century Cartoon | [`midcentury-toon`](midcentury-toon/STYLE.md) | *The Synchronized Kitchen* (10 s) · [notes](../../../../demo/midcentury-toon/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/midcentury-toon.mp4) |
 
 ## Games
 
 | Style | Folder | Our demo |
 |---|---|---|
-| 16-bit Pixel RPG | [`pixel-rpg`](pixel-rpg/STYLE.md) | *The Final Save* (10 s) · [notes](../../../../demo/pixel-rpg/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/pixel-rpg.mp4) |
+| 16-bit Pixel RPG | [`pixel-rpg`](pixel-rpg/STYLE.md) | *The Last Sanctuary* (10 s) · [notes](../../../../demo/pixel-rpg/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/pixel-rpg.mp4) |
 | HD-2D Diorama | [`hd2d-diorama`](hd2d-diorama/STYLE.md) | *A Level Without a Map* (10 s) · [notes](../../../../demo/hd2d-diorama/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/hd2d-diorama.mp4) |
-| Microgame Frenzy | [`microgame`](microgame/STYLE.md) | *The Bonus Round* (10 s) · [notes](../../../../demo/microgame/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/microgame.mp4) |
+| Microgame Frenzy | [`microgame`](microgame/STYLE.md) | *Microgame Frenzy* (10 s) · [notes](../../../../demo/microgame/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/microgame.mp4) |
 
 ## Cinema & Eras
 
 | Style | Folder | Our demo |
 |---|---|---|
 | 1920s Silent Film | [`silent-film`](silent-film/STYLE.md) | *The Silent Projector* (10 s) · [notes](../../../../demo/silent-film/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/silent-film.mp4) |
-| Liminal Found Footage | [`liminal-footage`](liminal-footage/STYLE.md) | *A Night in 1927* (10 s) · [notes](../../../../demo/liminal-footage/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/liminal-footage.mp4) |
+| Liminal Found Footage | [`liminal-footage`](liminal-footage/STYLE.md) | *Corridor Tape '98* (10 s) · [notes](../../../../demo/liminal-footage/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/liminal-footage.mp4) |
 
 ## Materials & 3D
 
@@ -108,7 +108,7 @@ Archived styles (not offered to agents) live in [`_archive/`](_archive/). See [`
 |---|---|---|
 | Brick Toy | [`brick-toy`](brick-toy/STYLE.md) | *Brick-Toy Train* (10 s) · [notes](../../../../demo/brick-toy/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/brick-toy.mp4) |
 | Glass Product Render | [`glass-product`](glass-product/STYLE.md) | *The Model Room* (10 s) · [notes](../../../../demo/glass-product/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/glass-product.mp4) |
-| Low-poly Isometric | [`lowpoly-isometric`](lowpoly-isometric/STYLE.md) | *The Paper Machine* (10 s) · [notes](../../../../demo/lowpoly-isometric/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/lowpoly-isometric.mp4) |
-| Paper Pop-up Book | [`paper-popup`](paper-popup/STYLE.md) | *A City on a Desk* (10 s) · [notes](../../../../demo/paper-popup/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/paper-popup.mp4) |
+| Low-poly Isometric | [`lowpoly-isometric`](lowpoly-isometric/STYLE.md) | *Islandia* (10 s) · [notes](../../../../demo/lowpoly-isometric/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/lowpoly-isometric.mp4) |
+| Paper Pop-up Book | [`paper-popup`](paper-popup/STYLE.md) | *The Clockwork Aviary* (10 s) · [notes](../../../../demo/paper-popup/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/paper-popup.mp4) |
 | Tilt-Shift Miniature | [`tilt-shift`](tilt-shift/STYLE.md) | *The Glass Prototype* (10 s) · [notes](../../../../demo/tilt-shift/DEMO.md) · [watch](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/tilt-shift.mp4) |
 

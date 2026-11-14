@@ -1,7 +1,6 @@
-# Living Screencast — 10 s teaser
+# NudgeOS — Spatial Focus Workspace
+Watch: [living-screencast.mp4](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/living-screencast.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "The Map of a Decision"
-
-A 10-second style card for FilmCode (Information & Keynote): palette `#0f1419`, `#4e7cf6`, `#19b388`, `#f2f2f2`; a sans typeface; a columns motion motif. Silent, generated, not a story.
-
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/living-screencast/STYLE.md)
+- **Style:** Living Screencast (`living-screencast`)
+- **Logline:** A playful product walkthrough with smooth camera zooming and a charming squishy mascot guiding focus modes.
+- **Duration:** 10 seconds
