@@ -3,8 +3,8 @@
  "num": "52",
  "en": "Sci-fi Hologram HUD",
  "category_en": "Information & Keynote",
- "film": "The Room That Thinks",
- "line": "A 10-second Sci-fi Hologram HUD style teaser: \"The Room That Thinks\".",
+ "film": "Reactor Core Telemetry Teardown",
+ "line": "A 10-second Sci-fi Hologram HUD film: reactor core exploded and annotated with live telemetry callouts.",
  "uses": [
   "Spec walkthroughs",
   "Launch videos",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/hologram-hud.mp4",
- "demo_topic": "The Room That Thinks",
+ "demo_topic": "Reactor Core Telemetry Teardown",
  "demo_seconds": 10
 }

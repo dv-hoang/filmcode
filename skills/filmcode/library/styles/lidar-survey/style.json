@@ -3,8 +3,8 @@
  "num": "57",
  "en": "LiDAR Survey",
  "category_en": "Evidence Films",
- "film": "The Weight of a Shadow",
- "line": "A 10-second LiDAR Survey style teaser: \"The Weight of a Shadow\".",
+ "film": "Ruined Arch Survey",
+ "line": "A 10-second LiDAR Survey: an airborne laser scan reveals the point cloud of a ruined structural archway.",
  "uses": [
   "Heritage",
   "Environment",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/lidar-survey.mp4",
- "demo_topic": "The Weight of a Shadow",
+ "demo_topic": "Ruined Arch Survey",
  "demo_seconds": 10
 }

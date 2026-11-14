@@ -1,7 +1,7 @@
-# Sci-fi Hologram HUD — 10 s teaser
+# Sci-Fi Hologram HUD — Reactor Core Telemetry Teardown
+Watch: [hologram-hud.mp4](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/hologram-hud.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "The Room That Thinks"
-
-A 10-second style card for FilmCode (Information & Keynote): palette `#0f1419`, `#4e7cf6`, `#19b388`, `#f2f2f2`; a sans typeface; a columns motion motif. Silent, generated, not a story.
-
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/hologram-hud/STYLE.md)
+- **Style**: Hologram HUD
+- **Duration**: 10 seconds
+- **Resolution**: 1920x1080 (Canvas 2D)
+- **Audio**: Hologram projector hums, laser scan sweeps, and rolling telemetry UI beeps.

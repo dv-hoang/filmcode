@@ -3,8 +3,8 @@
  "num": "24",
  "en": "Isometric Infographic",
  "category_en": "Information & Keynote",
- "film": "A Product in Three Acts",
- "line": "A 10-second Isometric Infographic style teaser: \"A Product in Three Acts\".",
+ "film": "Global Carbon Cycle",
+ "line": "A 10-second Isometric Infographic: carbon flux and sequestration through isometric cutaways and Isotype stats.",
  "uses": [
   "Process explainers",
   "Supply chains",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/iso-infographic.mp4",
- "demo_topic": "A Product in Three Acts",
+ "demo_topic": "Global Carbon Cycle",
  "demo_seconds": 10
 }

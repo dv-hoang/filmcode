@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Glass Product Demo</title>
+<style>
+  body{margin:0;background:#111;color:#fff;font-family:system-ui,Arial,sans-serif;display:flex;align-items:center;justify-content:center;height:100vh;}
+  canvas{background:#111;display:block;}
+  #title{position:absolute;top:10px;left:50%;transform:translateX(-50%);font-size:1.5rem;pointer-events:none;}
+</style>
+</head>
+<body>
+<div id="title">Glass Product Demo</div>
+<canvas id="c"></canvas>
+<script src="film.js"></script>
+<script>
+const canvas=document.getElementById('c');
+const ctx=canvas.getContext('2d');
+function resize(){canvas.width=window.innerWidth;canvas.height=window.innerHeight;}
+window.addEventListener('resize',resize);resize();
+let t=0;const dur=window.DUR||10;
+function loop(){t+=1/60;ctx.clearRect(0,0,canvas.width,canvas.height);window.render(ctx,t/dur);requestAnimationFrame(loop);}loop();
+</script>
+</body>
+</html>

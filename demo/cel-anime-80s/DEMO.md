@@ -1,7 +1,6 @@
-# 80s Cel Anime — 10 s teaser
+# Cel-Anime-80s
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "A Robot's Day Off"
-
-A 10-second style card for FilmCode (Cartoon & Anime): palette `#fff6e5`, `#f2c14e`, `#e0543a`, `#1f1a17`; a display typeface; a orbit motion motif. Silent, generated, not a story.
-
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/cel-anime-80s/STYLE.md)
+- **Title**: METRO-POLIS ESCAPE // ACT.01
+- **Logline**: A desperate pilot speeds away through sunset skies in a retro mecha cockpit as alarms blare.
+- **MP4**: `cel-anime-80s.mp4`
+- **Poster**: `cel-anime-80s-poster.mp4`
