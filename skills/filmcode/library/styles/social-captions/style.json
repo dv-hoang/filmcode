@@ -3,8 +3,8 @@
  "num": "63",
  "en": "Social Caption News",
  "category_en": "Edit & Documentary",
- "film": "The Last Dispatch",
- "line": "A 10-second Caption News style teaser: \"The Last Dispatch\".",
+ "film": "Global Lithium Surge",
+ "line": "A 10-second Social Caption News film: huge captions and yellow highlights reveal a 312% surge in global lithium demand.",
  "uses": [
   "Social news",
   "Report explainers",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/social-captions.mp4",
- "demo_topic": "The Last Dispatch",
+ "demo_topic": "Global Lithium Surge",
  "demo_seconds": 10
 }

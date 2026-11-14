@@ -3,8 +3,8 @@
  "num": "20",
  "en": "Stained Glass",
  "category_en": "Graphic & Type",
- "film": "The Diagonal Rule",
- "line": "A 10-second Stained Glass style teaser: \"The Diagonal Rule\".",
+ "film": "The Rose Window",
+ "line": "A 10-second Stained Glass visual poem: a cathedral rose window rendered in luminous panes.",
  "uses": [
   "Legends",
   "Heritage",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/stained-glass.mp4",
- "demo_topic": "The Diagonal Rule",
+ "demo_topic": "The Rose Window",
  "demo_seconds": 10
 }

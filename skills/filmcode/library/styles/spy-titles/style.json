@@ -3,8 +3,8 @@
  "num": "17",
  "en": "60s Spy Title Sequence",
  "category_en": "Graphic & Type",
- "film": "A Signal in Red",
- "line": "A 10-second 60s Spy Title Sequence style teaser: \"A Signal in Red\".",
+ "film": "DEAD DROP",
+ "line": "A 10-second 60s Spy Title Sequence: flat cut-paper chase, Saul Bass typography, brass stabs and snare hits.",
  "uses": [
   "Title sequences",
   "Event openers",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/spy-titles.mp4",
- "demo_topic": "A Signal in Red",
+ "demo_topic": "DEAD DROP",
  "demo_seconds": 10
 }

@@ -3,8 +3,8 @@
  "num": "60",
  "en": "Exploded Teardown",
  "category_en": "Evidence Films",
- "film": "What the Ice Kept",
- "line": "A 10-second Exploded Teardown style teaser: \"What the Ice Kept\".",
+ "film": "NX-700 Teardown",
+ "line": "A 10-second Exploded Teardown: CAD layers peel an advanced computing device into its internals.",
  "uses": [
   "Hardware launches",
   "Product pages",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/teardown.mp4",
- "demo_topic": "What the Ice Kept",
+ "demo_topic": "NX-700 Teardown",
  "demo_seconds": 10
 }

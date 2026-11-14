@@ -1,7 +1,8 @@
-# Stained Glass — 10 s teaser
+# The Rose Window
+Watch: [stained-glass.mp4](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/stained-glass.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "The Diagonal Rule"
+A 10-second cathedral stained-glass visual poem in code.
 
-A 10-second style card for FilmCode (Graphic & Type): palette `#f2f2f0`, `#e2483d`, `#6b4ce6`, `#111111`; a sans typeface; a bands motion motif. Silent, generated, not a story.
-
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/stained-glass/STYLE.md)
+- Style: stained-glass
+- Resolution: 1920x1080
+- Duration: 10s

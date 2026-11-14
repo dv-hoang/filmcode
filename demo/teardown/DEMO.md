@@ -1,7 +1,4 @@
-# Exploded Teardown — 10 s teaser
+# NX-700 Teardown
+Watch: [teardown.mp4](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/teardown.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "What the Ice Kept"
-
-A 10-second style card for FilmCode (Evidence Films): palette `#f1efe9`, `#ff6b3d`, `#34363a`, `#0d0e10`; a mono typeface; a grid motion motif. Silent, generated, not a story.
-
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/teardown/STYLE.md)
+A 10-second high-precision CAD teardown film showcasing the internal engineering layers of an advanced computing device.

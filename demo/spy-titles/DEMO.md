@@ -1,7 +1,7 @@
-# 60s Spy Title Sequence — 10 s teaser
+# DEAD DROP
+Watch: [spy-titles.mp4](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/spy-titles.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "A Signal in Red"
-
-A 10-second style card for FilmCode (Graphic & Type): palette `#ece6d6`, `#d23a22`, `#efe4c9`, `#1b1714`; a sans typeface; a wave motion motif. Silent, generated, not a story.
-
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/spy-titles/STYLE.md)
+- **Style Slug**: `spy-titles`
+- **Duration**: 10 seconds
+- **Aesthetic**: Flat opaque cut-paper inks, minimalist silhouette chase, Saul Bass inspired bold typography.
+- **Audio**: Punchy synthetic brass stabs, crisp paper scissors snips, and jazz-noir snare hits.

@@ -3,8 +3,8 @@
  "num": "42",
  "en": "Tilt-Shift Miniature",
  "category_en": "Materials & 3D",
- "film": "The Glass Prototype",
- "line": "A 10-second Tilt-Shift Miniature style teaser: \"The Glass Prototype\".",
+ "film": "Miniature Cityscape",
+ "line": "A 10-second Tilt-Shift Miniature: a vibrant cityscape with time-lapse traffic and drifting cloud shadows.",
  "uses": [
   "City promos",
   "Real estate",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/tilt-shift.mp4",
- "demo_topic": "The Glass Prototype",
+ "demo_topic": "Miniature Cityscape",
  "demo_seconds": 10
 }

@@ -1,7 +1,4 @@
-# Tilt-Shift Miniature — 10 s teaser
+# Tilt-Shift Miniature
+Watch: [tilt-shift.mp4](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/tilt-shift.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "The Glass Prototype"
-
-A 10-second style card for FilmCode (Materials & 3D): palette `#ece9e2`, `#d97757`, `#2a5cb3`, `#1d1a17`; a sans typeface; a grid motion motif. Silent, generated, not a story.
-
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/tilt-shift/STYLE.md)
+A vibrant miniature cityscape filmed through a tilt-shift lens with time-lapse traffic and drifting cloud shadows.

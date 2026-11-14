@@ -3,8 +3,8 @@
  "num": "69",
  "en": "Sports Telestrator",
  "category_en": "Edit & Documentary",
- "film": "One Frame of Evidence",
- "line": "A 10-second Sports Telestrator style teaser: \"One Frame of Evidence\".",
+ "film": "Tactical Rewind",
+ "line": "A 10-second Sports Telestrator: match footage rewinds as a pundit draws tactical vectors over the pitch.",
  "uses": [
   "Sports analysis",
   "Match recaps",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/telestrator.mp4",
- "demo_topic": "One Frame of Evidence",
+ "demo_topic": "Tactical Rewind",
  "demo_seconds": 10
 }

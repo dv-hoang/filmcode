@@ -3,8 +3,8 @@
  "num": "72",
  "en": "Transit Map",
  "category_en": "Information & Keynote",
- "film": "Everything on One Screen",
- "line": "A 10-second Transit Map style teaser: \"Everything on One Screen\".",
+ "film": "Cream Paper Metro",
+ "line": "A 10-second Transit Map: an octilinear metro schematic drawn with glowing pens across cream paper.",
  "uses": [
   "Transport",
   "Growth over time",
@@ -13,6 +13,6 @@
  "frame_sec": 5.0,
  "dur": 10.0,
  "demo": "https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/transit-map.mp4",
- "demo_topic": "Everything on One Screen",
+ "demo_topic": "Cream Paper Metro",
  "demo_seconds": 10
 }

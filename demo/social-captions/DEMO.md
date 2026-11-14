@@ -1,7 +1,7 @@
-# Caption News — 10 s teaser
+# Global Lithium Surge
+Watch: [social-captions.mp4](https://veqhxcsoalfnbsbycnwb.supabase.co/storage/v1/object/public/filmcode-demos/social-captions.mp4) · poster [poster.jpg](poster.jpg) · source [source/](source/)
 
-Watch: [10 s teaser](https://dv-hoang.github.io/filmcode/demo/) — "The Last Dispatch"
-
-A 10-second style card for FilmCode (Edit & Documentary): palette `#0e0e0c`, `#ffc21a`, `#151512`, `#f7f5ef`; a sans typeface; a orbit motion motif. Silent, generated, not a story.
-
-Style rules: [STYLE.md](../../skills/filmcode/library/styles/social-captions/STYLE.md)
+- **Style:** social-captions
+- **Duration:** 10s
+- **Logline:** Huge captions, yellow highlight blocks, and document proof reveal a massive 312% surge in global lithium demand.
+- **Aspect Ratio:** 16:9 (1920x1080)
